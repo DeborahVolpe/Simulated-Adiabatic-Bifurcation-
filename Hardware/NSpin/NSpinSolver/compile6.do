@@ -1,0 +1,7 @@
+source commonComponentCompile.do
+source SquareRootCompile.do
+source AdiabaticProcessorCompile.do
+source pA0updaterCompile.do
+source SumNSpinsCompile.do
+source NSpinSolverCompile.do
+source TestbenchCompile6.do

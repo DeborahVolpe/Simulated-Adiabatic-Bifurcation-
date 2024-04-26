@@ -1,0 +1,17 @@
+vcom ../squareRoot/flipflop.vhd
+vcom ../squareRoot/flipflop_s.vhd
+vcom ../squareRoot/flip_flop_N_level.vhd
+vcom ../squareRoot/reg.vhd
+vcom ../squareRoot/reg_s.vhd
+vcom ../squareRoot/reg_N_level.vhd
+vcom ../squareRoot/A.vhd
+vcom ../squareRoot/B.vhd
+vcom ../squareRoot/C.vhd
+vcom ../squareRoot/CSM.vhd
+vcom ../squareRoot/C_first.vhd
+vcom ../squareRoot/CSM_first.vhd
+vcom ../squareRoot/Init_block.vhd
+vcom ../squareRoot/Inter_block_first.vhd
+vcom ../squareRoot/Inter_block.vhd
+vcom ../squareRoot/Final_block.vhd
+vcom ../squareRoot/square_generic.vhd

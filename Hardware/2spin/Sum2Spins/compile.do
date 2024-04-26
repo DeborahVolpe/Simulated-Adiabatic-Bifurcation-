@@ -1,0 +1,3 @@
+source commonComponentCompile.do
+source Sum2SpinsCompile.do
+source TestbenchCompile.do

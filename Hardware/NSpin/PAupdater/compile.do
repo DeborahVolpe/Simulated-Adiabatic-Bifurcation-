@@ -1,0 +1,3 @@
+source commonComponentCompile.do
+source pA0updaterCompile.do
+source TestbenchCompile.do

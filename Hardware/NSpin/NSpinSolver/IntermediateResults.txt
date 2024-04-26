@@ -1,0 +1,650 @@
+SNS: In iteration 0 gives: [[0 0 0]]
+PE: In iteration 0 in the state1 Ma: [[ 51 -51  51]] Aa: 512 Mb: [[0 0 0]]
+PE: In iteration 0 in the state2 Ma: [[ 25 -26  25]]
+PE: In iteration 0 in the state3 Aa: [[ 25 -26  25]]
+PE: In iteration 0 in the state4 Ma: [[ 25 -26  25]] Aa: [[0 0 0]] Mb: [[ 25 -26  25]]
+PE: In iteration 0 in the state5 Ma: [[1 1 1]] Aa: [[ 25 -26  25]]
+PE: In iteration 0 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 0 in the state7 Aa: [[ 25 -27  25]]
+PE: In iteration 0 in the state8 Ma: [[ 12 -14  12]]
+PE: In iteration 0 in the state9 Aa: [[ 39 -37  39]]
+PA0: At iteration 0 in the first state Aa: 25
+PA0: At iteration 0 in the second state Aa: -2535
+PA0: At iteration 0 in the third state Ma: -2535
+SNS: In iteration 1 gives: [[ 1 14 -3]]
+PE: In iteration 1 in the state1 Ma: [[ 39 -37  39]] Aa: 487 Mb: [[0 0 0]]
+PE: In iteration 1 in the state2 Ma: [[ 19 -19  19]]
+PE: In iteration 1 in the state3 Aa: [[ 44 -45  44]]
+PE: In iteration 1 in the state4 Ma: [[ 44 -45  44]] Aa: [[ 1 14 -3]] Mb: [[ 41 -43  41]]
+PE: In iteration 1 in the state5 Ma: [[3 3 3]] Aa: [[ 42 -29  38]]
+PE: In iteration 1 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 1 in the state7 Aa: [[ 42 -30  38]]
+PE: In iteration 1 in the state8 Ma: [[ 21 -15  19]]
+PE: In iteration 1 in the state9 Aa: [[ 18 -22  20]]
+PA0: At iteration 1 in the first state Aa: 50
+PA0: At iteration 1 in the second state Aa: -2510
+PA0: At iteration 1 in the third state Ma: -2510
+SNS: In iteration 2 gives: [[ 2 24 -4]]
+PE: In iteration 2 in the state1 Ma: [[ 18 -22  20]] Aa: 462 Mb: [[0 0 0]]
+PE: In iteration 2 in the state2 Ma: [[  9 -11  10]]
+PE: In iteration 2 in the state3 Aa: [[ 53 -56  54]]
+PE: In iteration 2 in the state4 Ma: [[ 53 -56  54]] Aa: [[ 2 24 -4]] Mb: [[ 47 -51  48]]
+PE: In iteration 2 in the state5 Ma: [[5 6 5]] Aa: [[ 49 -27  44]]
+PE: In iteration 2 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 2 in the state7 Aa: [[ 49 -28  44]]
+PE: In iteration 2 in the state8 Ma: [[ 24 -14  22]]
+PE: In iteration 2 in the state9 Aa: [[-6 -8 -2]]
+PA0: At iteration 2 in the first state Aa: 75
+PA0: At iteration 2 in the second state Aa: -2485
+PA0: At iteration 2 in the third state Ma: -2485
+SNS: In iteration 3 gives: [[ 3 30 -5]]
+PE: In iteration 3 in the state1 Ma: [[-6 -8 -2]] Aa: 437 Mb: [[0 0 0]]
+PE: In iteration 3 in the state2 Ma: [[-3 -4 -1]]
+PE: In iteration 3 in the state3 Aa: [[ 50 -60  53]]
+PE: In iteration 3 in the state4 Ma: [[ 50 -60  53]] Aa: [[ 3 30 -5]] Mb: [[ 42 -52  45]]
+PE: In iteration 3 in the state5 Ma: [[4 7 5]] Aa: [[ 45 -22  40]]
+PE: In iteration 3 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 3 in the state7 Aa: [[ 45 -23  40]]
+PE: In iteration 3 in the state8 Ma: [[ 22 -12  20]]
+PE: In iteration 3 in the state9 Aa: [[-28   4 -22]]
+PA0: At iteration 3 in the first state Aa: 100
+PA0: At iteration 3 in the second state Aa: -2460
+PA0: At iteration 3 in the third state Ma: -2460
+SNS: In iteration 4 gives: [[ 2 29 -8]]
+PE: In iteration 4 in the state1 Ma: [[-28   4 -22]] Aa: 412 Mb: [[0 0 0]]
+PE: In iteration 4 in the state2 Ma: [[-14   2 -11]]
+PE: In iteration 4 in the state3 Aa: [[ 36 -58  42]]
+PE: In iteration 4 in the state4 Ma: [[ 36 -58  42]] Aa: [[ 2 29 -8]] Mb: [[ 28 -47  33]]
+PE: In iteration 4 in the state5 Ma: [[2 6 3]] Aa: [[ 30 -18  25]]
+PE: In iteration 4 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 4 in the state7 Aa: [[ 30 -19  25]]
+PE: In iteration 4 in the state8 Ma: [[ 15 -10  12]]
+PE: In iteration 4 in the state9 Aa: [[-43  14 -34]]
+PA0: At iteration 4 in the first state Aa: 125
+PA0: At iteration 4 in the second state Aa: -2435
+PA0: At iteration 4 in the third state Ma: -2435
+SNS: In iteration 5 gives: [[ -1  22 -11]]
+PE: In iteration 5 in the state1 Ma: [[-43  14 -34]] Aa: 387 Mb: [[0 0 0]]
+PE: In iteration 5 in the state2 Ma: [[-22   7 -17]]
+PE: In iteration 5 in the state3 Aa: [[ 14 -51  25]]
+PE: In iteration 5 in the state4 Ma: [[ 14 -51  25]] Aa: [[ -1  22 -11]] Mb: [[ 10 -39  18]]
+PE: In iteration 5 in the state5 Ma: [[0 5 1]] Aa: [[  9 -17   7]]
+PE: In iteration 5 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 5 in the state7 Aa: [[  9 -18   7]]
+PE: In iteration 5 in the state8 Ma: [[ 4 -9  3]]
+PE: In iteration 5 in the state9 Aa: [[-47  23 -37]]
+PA0: At iteration 5 in the first state Aa: 150
+PA0: At iteration 5 in the second state Aa: -2410
+PA0: At iteration 5 in the third state Ma: -2410
+SNS: In iteration 6 gives: [[ -4  11 -15]]
+PE: In iteration 6 in the state1 Ma: [[-47  23 -37]] Aa: 362 Mb: [[0 0 0]]
+PE: In iteration 6 in the state2 Ma: [[-24  11 -19]]
+PE: In iteration 6 in the state3 Aa: [[-10 -40   6]]
+PE: In iteration 6 in the state4 Ma: [[-10 -40   6]] Aa: [[ -4  11 -15]] Mb: [[ -8 -29   4]]
+PE: In iteration 6 in the state5 Ma: [[0 3 0]] Aa: [[-12 -18 -11]]
+PE: In iteration 6 in the state6 Ma: [[ 0 -1  0]]
+PE: In iteration 6 in the state7 Aa: [[-12 -19 -11]]
+PE: In iteration 6 in the state8 Ma: [[ -6 -10  -6]]
+PE: In iteration 6 in the state9 Aa: [[-41  33 -31]]
+PA0: At iteration 6 in the first state Aa: 175
+PA0: At iteration 6 in the second state Aa: -2385
+PA0: At iteration 6 in the third state Ma: -2385
+SNS: In iteration 7 gives: [[ -7   0 -17]]
+PE: In iteration 7 in the state1 Ma: [[-41  33 -31]] Aa: 337 Mb: [[0 0 0]]
+PE: In iteration 7 in the state2 Ma: [[-21  16 -16]]
+PE: In iteration 7 in the state3 Aa: [[-31 -24 -10]]
+PE: In iteration 7 in the state4 Ma: [[-31 -24 -10]] Aa: [[ -7   0 -17]] Mb: [[-21 -16  -7]]
+PE: In iteration 7 in the state5 Ma: [[1 1 0]] Aa: [[-28 -16 -24]]
+PE: In iteration 7 in the state6 Ma: [[-1 -1  0]]
+PE: In iteration 7 in the state7 Aa: [[-29 -17 -24]]
+PE: In iteration 7 in the state8 Ma: [[-15  -9 -12]]
+PE: In iteration 7 in the state9 Aa: [[-26  42 -19]]
+PA0: At iteration 7 in the first state Aa: 200
+PA0: At iteration 7 in the second state Aa: -2360
+PA0: At iteration 7 in the third state Ma: -2360
+SNS: In iteration 8 gives: [[ -8 -11 -18]]
+PE: In iteration 8 in the state1 Ma: [[-26  42 -19]] Aa: 312 Mb: [[0 0 0]]
+PE: In iteration 8 in the state2 Ma: [[-13  21 -10]]
+PE: In iteration 8 in the state3 Aa: [[-44  -3 -20]]
+PE: In iteration 8 in the state4 Ma: [[-44  -3 -20]] Aa: [[ -8 -11 -18]] Mb: [[-27  -2 -13]]
+PE: In iteration 8 in the state5 Ma: [[3 0 0]] Aa: [[-35 -13 -31]]
+PE: In iteration 8 in the state6 Ma: [[-1  0  0]]
+PE: In iteration 8 in the state7 Aa: [[-36 -13 -31]]
+PE: In iteration 8 in the state8 Ma: [[-18  -7 -16]]
+PE: In iteration 8 in the state9 Aa: [[-8 49 -3]]
+PA0: At iteration 8 in the first state Aa: 225
+PA0: At iteration 8 in the second state Aa: -2335
+PA0: At iteration 8 in the third state Ma: -2335
+SNS: In iteration 9 gives: [[ -7 -17 -14]]
+PE: In iteration 9 in the state1 Ma: [[-8 49 -3]] Aa: 287 Mb: [[0 0 0]]
+PE: In iteration 9 in the state2 Ma: [[-4 24 -2]]
+PE: In iteration 9 in the state3 Aa: [[-48  21 -22]]
+PE: In iteration 9 in the state4 Ma: [[-48  21 -22]] Aa: [[ -7 -17 -14]] Mb: [[-27  11 -13]]
+PE: In iteration 9 in the state5 Ma: [[4 0 0]] Aa: [[-34  -6 -27]]
+PE: In iteration 9 in the state6 Ma: [[-1  0  0]]
+PE: In iteration 9 in the state7 Aa: [[-35  -6 -27]]
+PE: In iteration 9 in the state8 Ma: [[-18  -3 -14]]
+PE: In iteration 9 in the state9 Aa: [[10 52 11]]
+PA0: At iteration 9 in the first state Aa: 250
+PA0: At iteration 9 in the second state Aa: -2310
+PA0: At iteration 9 in the third state Ma: -2310
+SNS: In iteration 10 gives: [[ -2 -18  -7]]
+PE: In iteration 10 in the state1 Ma: [[10 52 11]] Aa: 262 Mb: [[0 0 0]]
+PE: In iteration 10 in the state2 Ma: [[ 5 26  5]]
+PE: In iteration 10 in the state3 Aa: [[-43  47 -17]]
+PE: In iteration 10 in the state4 Ma: [[-43  47 -17]] Aa: [[ -2 -18  -7]] Mb: [[-23  24  -9]]
+PE: In iteration 10 in the state5 Ma: [[3 4 0]] Aa: [[-25   6 -16]]
+PE: In iteration 10 in the state6 Ma: [[-1  0  0]]
+PE: In iteration 10 in the state7 Aa: [[-26   6 -16]]
+PE: In iteration 10 in the state8 Ma: [[-13   3  -8]]
+PE: In iteration 10 in the state9 Aa: [[23 49 19]]
+PA0: At iteration 10 in the first state Aa: 275
+PA0: At iteration 10 in the second state Aa: -2285
+PA0: At iteration 10 in the third state Ma: -2285
+SNS: In iteration 11 gives: [[  5 -16   4]]
+PE: In iteration 11 in the state1 Ma: [[23 49 19]] Aa: 237 Mb: [[0 0 0]]
+PE: In iteration 11 in the state2 Ma: [[11 24  9]]
+PE: In iteration 11 in the state3 Aa: [[-32  71  -8]]
+PE: In iteration 11 in the state4 Ma: [[-32  71  -8]] Aa: [[  5 -16   4]] Mb: [[-15  32  -4]]
+PE: In iteration 11 in the state5 Ma: [[2 9 0]] Aa: [[-10  16   0]]
+PE: In iteration 11 in the state6 Ma: [[-1  1  0]]
+PE: In iteration 11 in the state7 Aa: [[-11  17   0]]
+PE: In iteration 11 in the state8 Ma: [[-6  8  0]]
+PE: In iteration 11 in the state9 Aa: [[29 41 19]]
+PA0: At iteration 11 in the first state Aa: 300
+PA0: At iteration 11 in the second state Aa: -2260
+PA0: At iteration 11 in the third state Ma: -2260
+SNS: In iteration 12 gives: [[ 12 -10  16]]
+PE: In iteration 12 in the state1 Ma: [[29 41 19]] Aa: 212 Mb: [[0 0 0]]
+PE: In iteration 12 in the state2 Ma: [[14 20  9]]
+PE: In iteration 12 in the state3 Aa: [[-18  91   1]]
+PE: In iteration 12 in the state4 Ma: [[-18  91   1]] Aa: [[ 12 -10  16]] Mb: [[-8 37  0]]
+PE: In iteration 12 in the state5 Ma: [[ 0 16  0]] Aa: [[ 4 27 16]]
+PE: In iteration 12 in the state6 Ma: [[0 2 0]]
+PE: In iteration 12 in the state7 Aa: [[ 4 29 16]]
+PE: In iteration 12 in the state8 Ma: [[ 2 14  8]]
+PE: In iteration 12 in the state9 Aa: [[27 27 11]]
+PA0: At iteration 12 in the first state Aa: 325
+PA0: At iteration 12 in the second state Aa: -2235
+PA0: At iteration 12 in the third state Ma: -2235
+SNS: In iteration 13 gives: [[19 -4 27]]
+PE: In iteration 13 in the state1 Ma: [[27 27 11]] Aa: 187 Mb: [[0 0 0]]
+PE: In iteration 13 in the state2 Ma: [[13 13  5]]
+PE: In iteration 13 in the state3 Aa: [[ -5 104   6]]
+PE: In iteration 13 in the state4 Ma: [[ -5 104   6]] Aa: [[19 -4 27]] Mb: [[-2 37  2]]
+PE: In iteration 13 in the state5 Ma: [[ 0 21  0]] Aa: [[17 33 29]]
+PE: In iteration 13 in the state6 Ma: [[0 4 0]]
+PE: In iteration 13 in the state7 Aa: [[17 37 29]]
+PE: In iteration 13 in the state8 Ma: [[ 8 18 14]]
+PE: In iteration 13 in the state9 Aa: [[19  9 -3]]
+PA0: At iteration 13 in the first state Aa: 350
+PA0: At iteration 13 in the second state Aa: -2210
+PA0: At iteration 13 in the third state Ma: -2210
+SNS: In iteration 14 gives: [[23  1 35]]
+PE: In iteration 14 in the state1 Ma: [[19  9 -3]] Aa: 162 Mb: [[0 0 0]]
+PE: In iteration 14 in the state2 Ma: [[ 9  4 -2]]
+PE: In iteration 14 in the state3 Aa: [[  4 108   4]]
+PE: In iteration 14 in the state4 Ma: [[  4 108   4]] Aa: [[23  1 35]] Mb: [[ 1 34  1]]
+PE: In iteration 14 in the state5 Ma: [[ 0 22  0]] Aa: [[24 35 36]]
+PE: In iteration 14 in the state6 Ma: [[0 4 0]]
+PE: In iteration 14 in the state7 Aa: [[24 39 36]]
+PE: In iteration 14 in the state8 Ma: [[12 19 18]]
+PE: In iteration 14 in the state9 Aa: [[  7 -10 -21]]
+PA0: At iteration 14 in the first state Aa: 375
+PA0: At iteration 14 in the second state Aa: -2185
+PA0: At iteration 14 in the third state Ma: -2185
+SNS: In iteration 15 gives: [[23  2 39]]
+PE: In iteration 15 in the state1 Ma: [[  7 -10 -21]] Aa: 137 Mb: [[0 0 0]]
+PE: In iteration 15 in the state2 Ma: [[  3  -5 -11]]
+PE: In iteration 15 in the state3 Aa: [[  7 103  -7]]
+PE: In iteration 15 in the state4 Ma: [[  7 103  -7]] Aa: [[23  2 39]] Mb: [[ 1 27 -2]]
+PE: In iteration 15 in the state5 Ma: [[ 0 20  0]] Aa: [[24 29 37]]
+PE: In iteration 15 in the state6 Ma: [[0 4 0]]
+PE: In iteration 15 in the state7 Aa: [[24 33 37]]
+PE: In iteration 15 in the state8 Ma: [[12 16 18]]
+PE: In iteration 15 in the state9 Aa: [[ -5 -26 -39]]
+PA0: At iteration 15 in the first state Aa: 400
+PA0: At iteration 15 in the second state Aa: -2160
+PA0: At iteration 15 in the third state Ma: -2160
+SNS: In iteration 16 gives: [[19 -1 38]]
+PE: In iteration 16 in the state1 Ma: [[ -5 -26 -39]] Aa: 112 Mb: [[0 0 0]]
+PE: In iteration 16 in the state2 Ma: [[ -3 -13 -20]]
+PE: In iteration 16 in the state3 Aa: [[  4  90 -27]]
+PE: In iteration 16 in the state4 Ma: [[  4  90 -27]] Aa: [[19 -1 38]] Mb: [[ 0 19 -6]]
+PE: In iteration 16 in the state5 Ma: [[ 0 15  1]] Aa: [[19 18 32]]
+PE: In iteration 16 in the state6 Ma: [[ 0  2 -1]]
+PE: In iteration 16 in the state7 Aa: [[19 20 31]]
+PE: In iteration 16 in the state8 Ma: [[ 9 10 15]]
+PE: In iteration 16 in the state9 Aa: [[-14 -36 -54]]
+PA0: At iteration 16 in the first state Aa: 425
+PA0: At iteration 16 in the second state Aa: -2135
+PA0: At iteration 16 in the third state Ma: -2135
+SNS: In iteration 17 gives: [[11 -9 32]]
+PE: In iteration 17 in the state1 Ma: [[-14 -36 -54]] Aa: 87 Mb: [[0 0 0]]
+PE: In iteration 17 in the state2 Ma: [[ -7 -18 -27]]
+PE: In iteration 17 in the state3 Aa: [[ -3  72 -54]]
+PE: In iteration 17 in the state4 Ma: [[ -3  72 -54]] Aa: [[11 -9 32]] Mb: [[ -1  12 -10]]
+PE: In iteration 17 in the state5 Ma: [[ 0 10  5]] Aa: [[10  3 22]]
+PE: In iteration 17 in the state6 Ma: [[ 0  1 -1]]
+PE: In iteration 17 in the state7 Aa: [[10  4 21]]
+PE: In iteration 17 in the state8 Ma: [[ 5  2 10]]
+PE: In iteration 17 in the state9 Aa: [[-19 -38 -64]]
+PA0: At iteration 17 in the first state Aa: 450
+PA0: At iteration 17 in the second state Aa: -2110
+PA0: At iteration 17 in the third state Ma: -2110
+SNS: In iteration 18 gives: [[  0 -20  24]]
+PE: In iteration 18 in the state1 Ma: [[-19 -38 -64]] Aa: 62 Mb: [[0 0 0]]
+PE: In iteration 18 in the state2 Ma: [[-10 -19 -32]]
+PE: In iteration 18 in the state3 Aa: [[-13  53 -86]]
+PE: In iteration 18 in the state4 Ma: [[-13  53 -86]] Aa: [[  0 -20  24]] Mb: [[ -2   6 -11]]
+PE: In iteration 18 in the state5 Ma: [[ 0  5 14]] Aa: [[ -2 -14  13]]
+PE: In iteration 18 in the state6 Ma: [[ 0  0 -3]]
+PE: In iteration 18 in the state7 Aa: [[ -2 -14  10]]
+PE: In iteration 18 in the state8 Ma: [[-1 -7  5]]
+PE: In iteration 18 in the state9 Aa: [[-18 -31 -69]]
+PA0: At iteration 18 in the first state Aa: 475
+PA0: At iteration 18 in the second state Aa: -2085
+PA0: At iteration 18 in the third state Ma: -2085
+SNS: In iteration 19 gives: [[-14 -34  15]]
+PE: In iteration 19 in the state1 Ma: [[-18 -31 -69]] Aa: 37 Mb: [[0 0 0]]
+PE: In iteration 19 in the state2 Ma: [[ -9 -16 -35]]
+PE: In iteration 19 in the state3 Aa: [[ -22   37 -121]]
+PE: In iteration 19 in the state4 Ma: [[ -22   37 -121]] Aa: [[-14 -34  15]] Mb: [[-2  2 -9]]
+PE: In iteration 19 in the state5 Ma: [[ 0  2 28]] Aa: [[-16 -32   6]]
+PE: In iteration 19 in the state6 Ma: [[ 0  0 -7]]
+PE: In iteration 19 in the state7 Aa: [[-16 -32  -1]]
+PE: In iteration 19 in the state8 Ma: [[ -8 -16  -1]]
+PE: In iteration 19 in the state9 Aa: [[-10 -15 -68]]
+PA0: At iteration 19 in the first state Aa: 500
+PA0: At iteration 19 in the second state Aa: -2060
+PA0: At iteration 19 in the third state Ma: -2060
+SNS: In iteration 20 gives: [[-27 -48   6]]
+PE: In iteration 20 in the state1 Ma: [[-10 -15 -68]] Aa: 12 Mb: [[0 0 0]]
+PE: In iteration 20 in the state2 Ma: [[ -5  -8 -34]]
+PE: In iteration 20 in the state3 Aa: [[ -27   29 -155]]
+PE: In iteration 20 in the state4 Ma: [[ -27   29 -155]] Aa: [[-27 -48   6]] Mb: [[-1  0 -4]]
+PE: In iteration 20 in the state5 Ma: [[ 1  1 46]] Aa: [[-28 -48   2]]
+PE: In iteration 20 in the state6 Ma: [[ -1   0 -14]]
+PE: In iteration 20 in the state7 Aa: [[-29 -48 -12]]
+PE: In iteration 20 in the state8 Ma: [[-15 -24  -6]]
+PE: In iteration 20 in the state9 Aa: [[  5   9 -62]]
+PA0: At iteration 20 in the first state Aa: 525
+PA0: At iteration 20 in the second state Aa: -2035
+PA0: At iteration 20 in the third state Ma: -2035
+SNS: In iteration 21 gives: [[-38 -61   2]]
+PE: In iteration 21 in the state1 Ma: [[  5   9 -62]] Aa: -13 Mb: [[0 0 0]]
+PE: In iteration 21 in the state2 Ma: [[  2   4 -31]]
+PE: In iteration 21 in the state3 Aa: [[ -25   33 -186]]
+PE: In iteration 21 in the state4 Ma: [[ -25   33 -186]] Aa: [[-38 -61   2]] Mb: [[ 0 -1  4]]
+PE: In iteration 21 in the state5 Ma: [[ 1  2 67]] Aa: [[-38 -62   6]]
+PE: In iteration 21 in the state6 Ma: [[ -1   0 -25]]
+PE: In iteration 21 in the state7 Aa: [[-39 -62 -19]]
+PE: In iteration 21 in the state8 Ma: [[-20 -31 -10]]
+PE: In iteration 21 in the state9 Aa: [[ 25  40 -52]]
+PA0: At iteration 21 in the first state Aa: 550
+PA0: At iteration 21 in the second state Aa: -2010
+PA0: At iteration 21 in the third state Ma: -2010
+SNS: In iteration 22 gives: [[-46 -72   4]]
+PE: In iteration 22 in the state1 Ma: [[ 25  40 -52]] Aa: -38 Mb: [[0 0 0]]
+PE: In iteration 22 in the state2 Ma: [[ 12  20 -26]]
+PE: In iteration 22 in the state3 Aa: [[ -13   53 -212]]
+PE: In iteration 22 in the state4 Ma: [[ -13   53 -212]] Aa: [[-46 -72   4]] Mb: [[ 0 -4 15]]
+PE: In iteration 22 in the state5 Ma: [[ 0  5 87]] Aa: [[-46 -76  19]]
+PE: In iteration 22 in the state6 Ma: [[  0   0 -37]]
+PE: In iteration 22 in the state7 Aa: [[-46 -76 -18]]
+PE: In iteration 22 in the state8 Ma: [[-23 -38  -9]]
+PE: In iteration 22 in the state9 Aa: [[ 48  78 -43]]
+PA0: At iteration 22 in the first state Aa: 575
+PA0: At iteration 22 in the second state Aa: -1985
+PA0: At iteration 22 in the third state Ma: -1985
+SNS: In iteration 23 gives: [[-49 -78  15]]
+PE: In iteration 23 in the state1 Ma: [[ 48  78 -43]] Aa: -63 Mb: [[0 0 0]]
+PE: In iteration 23 in the state2 Ma: [[ 24  39 -22]]
+PE: In iteration 23 in the state3 Aa: [[  11   92 -234]]
+PE: In iteration 23 in the state4 Ma: [[  11   92 -234]] Aa: [[-49 -78  15]] Mb: [[ -2 -12  28]]
+PE: In iteration 23 in the state5 Ma: [[  0  16 106]] Aa: [[-51 -90  43]]
+PE: In iteration 23 in the state6 Ma: [[  0   2 -49]]
+PE: In iteration 23 in the state7 Aa: [[-51 -88  -6]]
+PE: In iteration 23 in the state8 Ma: [[-26 -44  -3]]
+PE: In iteration 23 in the state9 Aa: [[ 74 122 -40]]
+PA0: At iteration 23 in the first state Aa: 600
+PA0: At iteration 23 in the second state Aa: -1960
+PA0: At iteration 23 in the third state Ma: -1960
+SNS: In iteration 24 gives: [[-47 -81  35]]
+PE: In iteration 24 in the state1 Ma: [[ 74 122 -40]] Aa: -88 Mb: [[0 0 0]]
+PE: In iteration 24 in the state2 Ma: [[ 37  61 -20]]
+PE: In iteration 24 in the state3 Aa: [[  48  153 -254]]
+PE: In iteration 24 in the state4 Ma: [[  48  153 -254]] Aa: [[-47 -81  35]] Mb: [[ -9 -27  43]]
+PE: In iteration 24 in the state5 Ma: [[  4  45 126]] Aa: [[ -56 -108   78]]
+PE: In iteration 24 in the state6 Ma: [[  0  13 -63]]
+PE: In iteration 24 in the state7 Aa: [[-56 -95  15]]
+PE: In iteration 24 in the state8 Ma: [[-28 -48   7]]
+PE: In iteration 24 in the state9 Aa: [[102 170 -47]]
+PA0: At iteration 24 in the first state Aa: 625
+PA0: At iteration 24 in the second state Aa: -1935
+PA0: At iteration 24 in the third state Ma: -1935
+SNS: In iteration 25 gives: [[-40 -80  67]]
+PE: In iteration 25 in the state1 Ma: [[102 170 -47]] Aa: -113 Mb: [[0 0 0]]
+PE: In iteration 25 in the state2 Ma: [[ 51  85 -24]]
+PE: In iteration 25 in the state3 Aa: [[  99  238 -278]]
+PE: In iteration 25 in the state4 Ma: [[  99  238 -278]] Aa: [[-40 -80  67]] Mb: [[-22 -53  61]]
+PE: In iteration 25 in the state5 Ma: [[ 19 110 150]] Aa: [[ -62 -133  128]]
+PE: In iteration 25 in the state6 Ma: [[  3  51 -82]]
+PE: In iteration 25 in the state7 Aa: [[-59 -82  46]]
+PE: In iteration 25 in the state8 Ma: [[-30 -41  23]]
+PE: In iteration 25 in the state9 Aa: [[132 211 -70]]
+PA0: At iteration 25 in the first state Aa: 650
+PA0: At iteration 25 in the second state Aa: -1910
+PA0: At iteration 25 in the third state Ma: -1910
+SNS: In iteration 26 gives: [[-28 -78 111]]
+PE: In iteration 26 in the state1 Ma: [[132 211 -70]] Aa: -138 Mb: [[0 0 0]]
+PE: In iteration 26 in the state2 Ma: [[ 66 105 -35]]
+PE: In iteration 26 in the state3 Aa: [[ 165  343 -313]]
+PE: In iteration 26 in the state4 Ma: [[ 165  343 -313]] Aa: [[-28 -78 111]] Mb: [[-45 -93  84]]
+PE: In iteration 26 in the state5 Ma: [[ 53 229 191]] Aa: [[ -73 -171  195]]
+PE: In iteration 26 in the state6 Ma: [[  17  153 -117]]
+PE: In iteration 26 in the state7 Aa: [[-56 -18  78]]
+PE: In iteration 26 in the state8 Ma: [[-28  -9  39]]
+PE: In iteration 26 in the state9 Aa: [[ 160  220 -109]]
+PA0: At iteration 26 in the first state Aa: 675
+PA0: At iteration 26 in the second state Aa: -1885
+PA0: At iteration 26 in the third state Ma: -1885
+SNS: In iteration 27 gives: [[-16 -76 167]]
+PE: In iteration 27 in the state1 Ma: [[ 160  220 -109]] Aa: -163 Mb: [[0 0 0]]
+PE: In iteration 27 in the state2 Ma: [[ 80 110 -55]]
+PE: In iteration 27 in the state3 Aa: [[ 245  453 -368]]
+PE: In iteration 27 in the state4 Ma: [[ 245  453 -368]] Aa: [[-16 -76 167]] Mb: [[ -78 -145  117]]
+PE: In iteration 27 in the state5 Ma: [[117 400 264]] Aa: [[ -94 -221  284]]
+PE: In iteration 27 in the state6 Ma: [[  55  353 -190]]
+PE: In iteration 27 in the state7 Aa: [[-39 132  94]]
+PE: In iteration 27 in the state8 Ma: [[-20  66  47]]
+PE: In iteration 27 in the state9 Aa: [[ 180  154 -156]]
+PA0: At iteration 27 in the first state Aa: 700
+PA0: At iteration 27 in the second state Aa: -1860
+PA0: At iteration 27 in the third state Ma: -1860
+SNS: In iteration 28 gives: [[ -8 -79 229]]
+PE: In iteration 28 in the state1 Ma: [[ 180  154 -156]] Aa: -188 Mb: [[0 0 0]]
+PE: In iteration 28 in the state2 Ma: [[ 90  77 -78]]
+PE: In iteration 28 in the state3 Aa: [[ 335  530 -446]]
+PE: In iteration 28 in the state4 Ma: [[ 335  530 -446]] Aa: [[ -8 -79 229]] Mb: [[-124 -195  163]]
+PE: In iteration 28 in the state5 Ma: [[219 548 388]] Aa: [[-132 -274  392]]
+PE: In iteration 28 in the state6 Ma: [[ 143  567 -338]]
+PE: In iteration 28 in the state7 Aa: [[ 11 293  54]]
+PE: In iteration 28 in the state8 Ma: [[  5 146  27]]
+PE: In iteration 28 in the state9 Aa: [[ 175    8 -183]]
+PA0: At iteration 28 in the first state Aa: 725
+PA0: At iteration 28 in the second state Aa: -1835
+PA0: At iteration 28 in the third state Ma: -1835
+SNS: In iteration 29 gives: [[-14 -88 281]]
+PE: In iteration 29 in the state1 Ma: [[ 175    8 -183]] Aa: -213 Mb: [[0 0 0]]
+PE: In iteration 29 in the state2 Ma: [[ 87   4 -92]]
+PE: In iteration 29 in the state3 Aa: [[ 422  534 -538]]
+PE: In iteration 29 in the state4 Ma: [[ 422  534 -538]] Aa: [[-14 -88 281]] Mb: [[-176 -223  223]]
+PE: In iteration 29 in the state5 Ma: [[347 556 565]] Aa: [[-190 -311  504]]
+PE: In iteration 29 in the state6 Ma: [[ 286  579 -594]]
+PE: In iteration 29 in the state7 Aa: [[ 96 268 -90]]
+PE: In iteration 29 in the state8 Ma: [[ 48 134 -45]]
+PE: In iteration 29 in the state9 Aa: [[ 127 -126 -138]]
+PA0: At iteration 29 in the first state Aa: 750
+PA0: At iteration 29 in the second state Aa: -1810
+PA0: At iteration 29 in the third state Ma: -1810
+SNS: In iteration 30 gives: [[ -39 -102  307]]
+PE: In iteration 30 in the state1 Ma: [[ 127 -126 -138]] Aa: -238 Mb: [[0 0 0]]
+PE: In iteration 30 in the state2 Ma: [[ 63 -63 -69]]
+PE: In iteration 30 in the state3 Aa: [[ 485  471 -607]]
+PE: In iteration 30 in the state4 Ma: [[ 485  471 -607]] Aa: [[ -39 -102  307]] Mb: [[-226 -219  282]]
+PE: In iteration 30 in the state5 Ma: [[459 433 719]] Aa: [[-265 -321  589]]
+PE: In iteration 30 in the state6 Ma: [[ 434  398 -853]]
+PE: In iteration 30 in the state7 Aa: [[ 169   77 -264]]
+PE: In iteration 30 in the state8 Ma: [[  84   38 -132]]
+PE: In iteration 30 in the state9 Aa: [[  43 -164   -6]]
+PA0: At iteration 30 in the first state Aa: 775
+PA0: At iteration 30 in the second state Aa: -1785
+PA0: At iteration 30 in the third state Ma: -1785
+SNS: In iteration 31 gives: [[ -72 -113  302]]
+PE: In iteration 31 in the state1 Ma: [[  43 -164   -6]] Aa: -263 Mb: [[0 0 0]]
+PE: In iteration 31 in the state2 Ma: [[ 21 -82  -3]]
+PE: In iteration 31 in the state3 Aa: [[ 506  389 -610]]
+PE: In iteration 31 in the state4 Ma: [[ 506  389 -610]] Aa: [[ -72 -113  302]] Mb: [[-260 -200  313]]
+PE: In iteration 31 in the state5 Ma: [[500 295 726]] Aa: [[-332 -313  615]]
+PE: In iteration 31 in the state6 Ma: [[ 494  224 -865]]
+PE: In iteration 31 in the state7 Aa: [[ 162  -89 -250]]
+PE: In iteration 31 in the state8 Ma: [[  81  -45 -125]]
+PE: In iteration 31 in the state9 Aa: [[ -38 -119  119]]
+PA0: At iteration 31 in the first state Aa: 800
+PA0: At iteration 31 in the second state Aa: -1760
+PA0: At iteration 31 in the third state Ma: -1760
+SNS: In iteration 32 gives: [[ -90 -109  279]]
+PE: In iteration 32 in the state1 Ma: [[ -38 -119  119]] Aa: -288 Mb: [[0 0 0]]
+PE: In iteration 32 in the state2 Ma: [[-19 -60  59]]
+PE: In iteration 32 in the state3 Aa: [[ 487  329 -551]]
+PE: In iteration 32 in the state4 Ma: [[ 487  329 -551]] Aa: [[ -90 -109  279]] Mb: [[-274 -186  309]]
+PE: In iteration 32 in the state5 Ma: [[463 211 592]] Aa: [[-364 -295  588]]
+PE: In iteration 32 in the state6 Ma: [[ 440  135 -638]]
+PE: In iteration 32 in the state7 Aa: [[  76 -160  -50]]
+PE: In iteration 32 in the state8 Ma: [[ 38 -80 -25]]
+PE: In iteration 32 in the state9 Aa: [[-76 -39 144]]
+PA0: At iteration 32 in the first state Aa: 825
+PA0: At iteration 32 in the second state Aa: -1735
+PA0: At iteration 32 in the third state Ma: -1735
+SNS: In iteration 33 gives: [[-86 -93 253]]
+PE: In iteration 33 in the state1 Ma: [[-76 -39 144]] Aa: -313 Mb: [[0 0 0]]
+PE: In iteration 33 in the state2 Ma: [[-38 -20  72]]
+PE: In iteration 33 in the state3 Aa: [[ 449  309 -479]]
+PE: In iteration 33 in the state4 Ma: [[ 449  309 -479]] Aa: [[-86 -93 253]] Mb: [[-275 -189  292]]
+PE: In iteration 33 in the state5 Ma: [[393 186 448]] Aa: [[-361 -282  545]]
+PE: In iteration 33 in the state6 Ma: [[ 344  112 -420]]
+PE: In iteration 33 in the state7 Aa: [[ -17 -170  125]]
+PE: In iteration 33 in the state8 Ma: [[ -9 -85  62]]
+PE: In iteration 33 in the state9 Aa: [[-67  46  82]]
+PA0: At iteration 33 in the first state Aa: 850
+PA0: At iteration 33 in the second state Aa: -1710
+PA0: At iteration 33 in the third state Ma: -1710
+SNS: In iteration 34 gives: [[-70 -75 235]]
+PE: In iteration 34 in the state1 Ma: [[-67  46  82]] Aa: -338 Mb: [[0 0 0]]
+PE: In iteration 34 in the state2 Ma: [[-34  23  41]]
+PE: In iteration 34 in the state3 Aa: [[ 415  332 -438]]
+PE: In iteration 34 in the state4 Ma: [[ 415  332 -438]] Aa: [[-70 -75 235]] Mb: [[-274 -220  289]]
+PE: In iteration 34 in the state5 Ma: [[336 215 374]] Aa: [[-344 -295  524]]
+PE: In iteration 34 in the state6 Ma: [[ 272  139 -320]]
+PE: In iteration 34 in the state7 Aa: [[ -72 -156  204]]
+PE: In iteration 34 in the state8 Ma: [[-36 -78 102]]
+PE: In iteration 34 in the state9 Aa: [[-31 124 -20]]
+PA0: At iteration 34 in the first state Aa: 875
+PA0: At iteration 34 in the second state Aa: -1685
+PA0: At iteration 34 in the third state Ma: -1685
+SNS: In iteration 35 gives: [[-54 -68 234]]
+PE: In iteration 35 in the state1 Ma: [[-31 124 -20]] Aa: -363 Mb: [[0 0 0]]
+PE: In iteration 35 in the state2 Ma: [[-16  62 -10]]
+PE: In iteration 35 in the state3 Aa: [[ 399  394 -448]]
+PE: In iteration 35 in the state4 Ma: [[ 399  394 -448]] Aa: [[-54 -68 234]] Mb: [[-283 -280  317]]
+PE: In iteration 35 in the state5 Ma: [[310 303 392]] Aa: [[-337 -348  551]]
+PE: In iteration 35 in the state6 Ma: [[ 241  233 -343]]
+PE: In iteration 35 in the state7 Aa: [[ -96 -115  208]]
+PE: In iteration 35 in the state8 Ma: [[-48 -58 104]]
+PE: In iteration 35 in the state9 Aa: [[  17  182 -124]]
+PA0: At iteration 35 in the first state Aa: 900
+PA0: At iteration 35 in the second state Aa: -1660
+PA0: At iteration 35 in the third state Ma: -1660
+SNS: In iteration 36 gives: [[-43 -75 251]]
+PE: In iteration 36 in the state1 Ma: [[  17  182 -124]] Aa: -388 Mb: [[0 0 0]]
+PE: In iteration 36 in the state2 Ma: [[  8  91 -62]]
+PE: In iteration 36 in the state3 Aa: [[ 407  485 -510]]
+PE: In iteration 36 in the state4 Ma: [[ 407  485 -510]] Aa: [[-43 -75 251]] Mb: [[-309 -368  386]]
+PE: In iteration 36 in the state5 Ma: [[323 459 508]] Aa: [[-352 -443  637]]
+PE: In iteration 36 in the state6 Ma: [[ 256  434 -507]]
+PE: In iteration 36 in the state7 Aa: [[-96  -9 130]]
+PE: In iteration 36 in the state8 Ma: [[-48  -5  65]]
+PE: In iteration 36 in the state9 Aa: [[  65  187 -189]]
+PA0: At iteration 36 in the first state Aa: 925
+PA0: At iteration 36 in the second state Aa: -1635
+PA0: At iteration 36 in the third state Ma: -1635
+SNS: In iteration 37 gives: [[-42 -95 285]]
+PE: In iteration 37 in the state1 Ma: [[  65  187 -189]] Aa: -413 Mb: [[0 0 0]]
+PE: In iteration 37 in the state2 Ma: [[ 32  93 -95]]
+PE: In iteration 37 in the state3 Aa: [[ 439  578 -605]]
+PE: In iteration 37 in the state4 Ma: [[ 439  578 -605]] Aa: [[-42 -95 285]] Mb: [[-355 -467  488]]
+PE: In iteration 37 in the state5 Ma: [[376 652 714]] Aa: [[-397 -562  773]]
+PE: In iteration 37 in the state6 Ma: [[ 322  736 -844]]
+PE: In iteration 37 in the state7 Aa: [[-75 174 -71]]
+PE: In iteration 37 in the state8 Ma: [[-38  87 -36]]
+PE: In iteration 37 in the state9 Aa: [[ 103  100 -153]]
+PA0: At iteration 37 in the first state Aa: 950
+PA0: At iteration 37 in the second state Aa: -1610
+PA0: At iteration 37 in the third state Ma: -1610
+SNS: In iteration 38 gives: [[ -49 -122  327]]
+PE: In iteration 38 in the state1 Ma: [[ 103  100 -153]] Aa: -438 Mb: [[0 0 0]]
+PE: In iteration 38 in the state2 Ma: [[ 51  50 -77]]
+PE: In iteration 38 in the state3 Aa: [[ 490  628 -682]]
+PE: In iteration 38 in the state4 Ma: [[ 490  628 -682]] Aa: [[ -49 -122  327]] Mb: [[-420 -538  583]]
+PE: In iteration 38 in the state5 Ma: [[468 770 908]] Aa: [[-469 -660  910]]
+PE: In iteration 38 in the state6 Ma: [[  447   944 -1210]]
+PE: In iteration 38 in the state7 Aa: [[ -22  284 -300]]
+PE: In iteration 38 in the state8 Ma: [[ -11  142 -150]]
+PE: In iteration 38 in the state9 Aa: [[114 -42  -3]]
+PA0: At iteration 38 in the first state Aa: 975
+PA0: At iteration 38 in the second state Aa: -1585
+PA0: At iteration 38 in the third state Ma: -1585
+SNS: In iteration 39 gives: [[ -60 -138  359]]
+PE: In iteration 39 in the state1 Ma: [[114 -42  -3]] Aa: -463 Mb: [[0 0 0]]
+PE: In iteration 39 in the state2 Ma: [[ 57 -21  -2]]
+PE: In iteration 39 in the state3 Aa: [[ 547  607 -684]]
+PE: In iteration 39 in the state4 Ma: [[ 547  607 -684]] Aa: [[ -60 -138  359]] Mb: [[-495 -549  618]]
+PE: In iteration 39 in the state5 Ma: [[584 719 913]] Aa: [[-555 -687  977]]
+PE: In iteration 39 in the state6 Ma: [[  623   852 -1220]]
+PE: In iteration 39 in the state7 Aa: [[  68  165 -243]]
+PE: In iteration 39 in the state8 Ma: [[  34   82 -122]]
+PE: In iteration 39 in the state9 Aa: [[  80 -124  119]]
+PA0: At iteration 39 in the first state Aa: 1000
+PA0: At iteration 39 in the second state Aa: -1560
+PA0: At iteration 39 in the third state Ma: -1560
+SNS: In iteration 40 gives: [[ -65 -127  368]]
+PE: In iteration 40 in the state1 Ma: [[  80 -124  119]] Aa: -488 Mb: [[0 0 0]]
+PE: In iteration 40 in the state2 Ma: [[ 40 -62  59]]
+PE: In iteration 40 in the state3 Aa: [[ 587  545 -625]]
+PE: In iteration 40 in the state4 Ma: [[ 587  545 -625]] Aa: [[ -65 -127  368]] Mb: [[-560 -520  595]]
+PE: In iteration 40 in the state5 Ma: [[672 580 762]] Aa: [[-625 -647  963]]
+PE: In iteration 40 in the state6 Ma: [[ 770  617 -931]]
+PE: In iteration 40 in the state7 Aa: [[145 -30  32]]
+PE: In iteration 40 in the state8 Ma: [[ 72 -15  16]]
+PE: In iteration 40 in the state9 Aa: [[   8 -109  103]]
+PA0: At iteration 40 in the first state Aa: 1025
+PA0: At iteration 40 in the second state Aa: -1535
+PA0: At iteration 40 in the third state Ma: -1535
+SNS: In iteration 41 gives: [[-61 -98 357]]
+PE: In iteration 41 in the state1 Ma: [[   8 -109  103]] Aa: -513 Mb: [[0 0 0]]
+PE: In iteration 41 in the state2 Ma: [[  4 -55  51]]
+PE: In iteration 41 in the state3 Aa: [[ 591  490 -574]]
+PE: In iteration 41 in the state4 Ma: [[ 591  490 -574]] Aa: [[-61 -98 357]] Mb: [[-593 -491  575]]
+PE: In iteration 41 in the state5 Ma: [[682 468 643]] Aa: [[-654 -589  932]]
+PE: In iteration 41 in the state6 Ma: [[ 787  447 -721]]
+PE: In iteration 41 in the state7 Aa: [[ 133 -142  211]]
+PE: In iteration 41 in the state8 Ma: [[ 66 -71 105]]
+PE: In iteration 41 in the state9 Aa: [[-58 -38  -2]]
+PA0: At iteration 41 in the first state Aa: 1050
+PA0: At iteration 41 in the second state Aa: -1510
+PA0: At iteration 41 in the third state Ma: -1510
+SNS: In iteration 42 gives: [[-59 -79 339]]
+PE: In iteration 42 in the state1 Ma: [[-58 -38  -2]] Aa: -538 Mb: [[0 0 0]]
+PE: In iteration 42 in the state2 Ma: [[-29 -19  -1]]
+PE: In iteration 42 in the state3 Aa: [[ 562  471 -575]]
+PE: In iteration 42 in the state4 Ma: [[ 562  471 -575]] Aa: [[-59 -79 339]] Mb: [[-591 -495  604]]
+PE: In iteration 42 in the state5 Ma: [[616 433 645]] Aa: [[-650 -574  943]]
+PE: In iteration 42 in the state6 Ma: [[ 676  398 -725]]
+PE: In iteration 42 in the state7 Aa: [[  26 -176  218]]
+PE: In iteration 42 in the state8 Ma: [[ 13 -88 109]]
+PE: In iteration 42 in the state9 Aa: [[ -71   50 -111]]
+PA0: At iteration 42 in the first state Aa: 1075
+PA0: At iteration 42 in the second state Aa: -1485
+PA0: At iteration 42 in the third state Ma: -1485
+SNS: In iteration 43 gives: [[-63 -85 324]]
+PE: In iteration 43 in the state1 Ma: [[ -71   50 -111]] Aa: -563 Mb: [[0 0 0]]
+PE: In iteration 43 in the state2 Ma: [[-36  25 -56]]
+PE: In iteration 43 in the state3 Aa: [[ 526  496 -631]]
+PE: In iteration 43 in the state4 Ma: [[ 526  496 -631]] Aa: [[-63 -85 324]] Mb: [[-579 -546  693]]
+PE: In iteration 43 in the state5 Ma: [[540 480 777]] Aa: [[-642 -631 1017]]
+PE: In iteration 43 in the state6 Ma: [[ 554  465 -958]]
+PE: In iteration 43 in the state7 Aa: [[ -88 -166   59]]
+PE: In iteration 43 in the state8 Ma: [[-44 -83  29]]
+PE: In iteration 43 in the state9 Aa: [[ -27  133 -140]]
+PA0: At iteration 43 in the first state Aa: 1100
+PA0: At iteration 43 in the second state Aa: -1460
+PA0: At iteration 43 in the third state Ma: -1460
+SNS: In iteration 44 gives: [[ -73 -113  323]]
+PE: In iteration 44 in the state1 Ma: [[ -27  133 -140]] Aa: -588 Mb: [[0 0 0]]
+PE: In iteration 44 in the state2 Ma: [[-14  66 -70]]
+PE: In iteration 44 in the state3 Aa: [[ 512  562 -701]]
+PE: In iteration 44 in the state4 Ma: [[ 512  562 -701]] Aa: [[ -73 -113  323]] Mb: [[-588 -646  805]]
+PE: In iteration 44 in the state5 Ma: [[512 616 959]] Aa: [[-661 -759 1128]]
+PE: In iteration 44 in the state6 Ma: [[  512   676 -1314]]
+PE: In iteration 44 in the state7 Aa: [[-149  -83 -186]]
+PE: In iteration 44 in the state8 Ma: [[-75 -42 -93]]
+PE: In iteration 44 in the state9 Aa: [[ 48 175 -47]]
+PA0: At iteration 44 in the first state Aa: 1125
+PA0: At iteration 44 in the second state Aa: -1435
+PA0: At iteration 44 in the third state Ma: -1435
+SNS: In iteration 45 gives: [[ -79 -140  342]]
+PE: In iteration 45 in the state1 Ma: [[ 48 175 -47]] Aa: -613 Mb: [[0 0 0]]
+PE: In iteration 45 in the state2 Ma: [[ 24  87 -24]]
+PE: In iteration 45 in the state3 Aa: [[ 536  649 -725]]
+PE: In iteration 45 in the state4 Ma: [[ 536  649 -725]] Aa: [[ -79 -140  342]] Mb: [[-642 -778  868]]
+PE: In iteration 45 in the state5 Ma: [[ 561  822 1026]] Aa: [[-721 -918 1210]]
+PE: In iteration 45 in the state6 Ma: [[  587  1041 -1453]]
+PE: In iteration 45 in the state7 Aa: [[-134  123 -243]]
+PE: In iteration 45 in the state8 Ma: [[ -67   61 -122]]
+PE: In iteration 45 in the state9 Aa: [[115 114  75]]
+PA0: At iteration 45 in the first state Aa: 1150
+PA0: At iteration 45 in the second state Aa: -1410
+PA0: At iteration 45 in the third state Ma: -1410
+SNS: In iteration 46 gives: [[ -68 -144  380]]
+PE: In iteration 46 in the state1 Ma: [[115 114  75]] Aa: -638 Mb: [[0 0 0]]
+PE: In iteration 46 in the state2 Ma: [[57 57 37]]
+PE: In iteration 46 in the state3 Aa: [[ 593  706 -688]]
+PE: In iteration 46 in the state4 Ma: [[ 593  706 -688]] Aa: [[ -68 -144  380]] Mb: [[-739 -880  857]]
+PE: In iteration 46 in the state5 Ma: [[686 973 924]] Aa: [[ -807 -1024  1237]]
+PE: In iteration 46 in the state6 Ma: [[  794  1341 -1242]]
+PE: In iteration 46 in the state7 Aa: [[-13 317  -5]]
+PE: In iteration 46 in the state8 Ma: [[ -7 158  -3]]
+PE: In iteration 46 in the state9 Aa: [[122 -44  78]]
+PA0: At iteration 46 in the first state Aa: 1175
+PA0: At iteration 46 in the second state Aa: -1385
+PA0: At iteration 46 in the third state Ma: -1385
+SNS: In iteration 47 gives: [[ -45 -119  416]]
+PE: In iteration 47 in the state1 Ma: [[122 -44  78]] Aa: -663 Mb: [[0 0 0]]
+PE: In iteration 47 in the state2 Ma: [[ 61 -22  39]]
+PE: In iteration 47 in the state3 Aa: [[ 654  684 -649]]
+PE: In iteration 47 in the state4 Ma: [[ 654  684 -649]] Aa: [[ -45 -119  416]] Mb: [[-847 -886  840]]
+PE: In iteration 47 in the state5 Ma: [[835 913 822]] Aa: [[ -892 -1005  1256]]
+PE: In iteration 47 in the state6 Ma: [[ 1066  1219 -1042]]
+PE: In iteration 47 in the state7 Aa: [[174 214 214]]
+PE: In iteration 47 in the state8 Ma: [[ 87 107 107]]
+PE: In iteration 47 in the state9 Aa: [[  35 -151  -29]]
+PA0: At iteration 47 in the first state Aa: 1200
+PA0: At iteration 47 in the second state Aa: -1360
+PA0: At iteration 47 in the third state Ma: -1360
+SNS: In iteration 48 gives: [[-39 -92 425]]
+PE: In iteration 48 in the state1 Ma: [[  35 -151  -29]] Aa: -688 Mb: [[0 0 0]]
+PE: In iteration 48 in the state2 Ma: [[ 17 -76 -15]]
+PE: In iteration 48 in the state3 Aa: [[ 671  608 -664]]
+PE: In iteration 48 in the state4 Ma: [[ 671  608 -664]] Aa: [[-39 -92 425]] Mb: [[-902 -817  892]]
+PE: In iteration 48 in the state5 Ma: [[879 722 861]] Aa: [[-941 -909 1317]]
+PE: In iteration 48 in the state6 Ma: [[ 1151   857 -1117]]
+PE: In iteration 48 in the state7 Aa: [[210 -52 200]]
+PE: In iteration 48 in the state8 Ma: [[105 -26 100]]
+PE: In iteration 48 in the state9 Aa: [[ -70 -125 -129]]
+PA0: At iteration 48 in the first state Aa: 1225
+PA0: At iteration 48 in the second state Aa: -1335
+PA0: At iteration 48 in the third state Ma: -1335
+SNS: In iteration 49 gives: [[-59 -94 403]]
+PE: In iteration 49 in the state1 Ma: [[ -70 -125 -129]] Aa: -713 Mb: [[0 0 0]]
+PE: In iteration 49 in the state2 Ma: [[-35 -63 -65]]
+PE: In iteration 49 in the state3 Aa: [[ 636  545 -729]]
+PE: In iteration 49 in the state4 Ma: [[ 636  545 -729]] Aa: [[-59 -94 403]] Mb: [[-886 -759 1015]]
+PE: In iteration 49 in the state5 Ma: [[ 790  580 1037]] Aa: [[-945 -853 1418]]
+PE: In iteration 49 in the state6 Ma: [[  981   617 -1477]]
+PE: In iteration 49 in the state7 Aa: [[  36 -236  -59]]
+PE: In iteration 49 in the state8 Ma: [[  18 -118  -30]]
+PE: In iteration 49 in the state9 Aa: [[-88  -7 -99]]
+PA0: At iteration 49 in the first state Aa: 1250
+PA0: At iteration 49 in the second state Aa: -1310
+PA0: At iteration 49 in the third state Ma: -1310

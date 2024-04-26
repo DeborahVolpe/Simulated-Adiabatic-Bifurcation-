@@ -1,0 +1,3 @@
+source commonComponentCompile.do
+source SumNSpinsCompile.do
+source TestbenchCompile.do

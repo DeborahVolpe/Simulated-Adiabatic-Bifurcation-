@@ -1,0 +1,11 @@
+source commonComponentCompile.do
+source SquareRootCompile.do
+source AdiabaticProcessorCompile.do
+source pA0updaterCompile.do
+source SumNSpinsCompile.do
+source NSpinSolverCompile.do
+vcom SimulatedBifurcationMachine5Spin.vhd
+vcom SpinMachine5.vhd
+vcom ../common_component/clock_gen.vhd
+vcom ../common_component/reset_gen.vhd
+vcom TestbenchSaveVersion5.vhd

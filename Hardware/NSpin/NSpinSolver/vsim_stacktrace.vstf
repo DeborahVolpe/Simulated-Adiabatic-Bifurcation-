@@ -1,0 +1,86 @@
+# Current time Sat Sep 09 21:37:38 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0x00000000: '<unknown (@0x0)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 11 02:09:06 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0xfcfb6def: '<unknown (@0xfcfb6def)>'
+# End of Stack Trace
+
+
+# Current time Sun Sep 17 15:30:12 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# Current time Mon Sep 18 15:12:36 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0x004ce81f: '<unknown (@0x4ce81f)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 18 15:12:37 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0x00820f90: '<unknown (@0x820f90)>'
+# 1    0x0082102e: '<unknown (@0x82102e)>'
+# 2    0x6fccd19d: 'TclInvokeStringCommand + 0x8d' in 'c:\intelfpga\17.0\modelsim_ase\win32aloem\tcl85.dll'
+# End of Stack Trace
+
+
+# Current time Mon Sep 18 15:12:37 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0x00820f90: '<unknown (@0x820f90)>'
+# 1    0x0082102e: '<unknown (@0x82102e)>'
+# 2    0x6fccd19d: 'TclInvokeStringCommand + 0x8d' in 'c:\intelfpga\17.0\modelsim_ase\win32aloem\tcl85.dll'
+# End of Stack Trace
+
+
+# Current time Mon Sep 18 15:12:37 2023
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vsim
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = win32pe
+# Signature = a4da31216fa3031746f0a74423efc007
+# 0    0x00820f90: '<unknown (@0x820f90)>'
+# 1    0x0082102e: '<unknown (@0x82102e)>'
+# 2    0x6fccd19d: 'TclInvokeStringCommand + 0x8d' in 'c:\intelfpga\17.0\modelsim_ase\win32aloem\tcl85.dll'
+# End of Stack Trace
+
+

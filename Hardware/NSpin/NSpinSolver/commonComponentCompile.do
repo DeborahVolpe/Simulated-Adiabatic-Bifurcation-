@@ -1,0 +1,17 @@
+vcom ../common_component/adder.vhd
+vcom ../common_component/full_adder.vhd
+vcom ../common_component/CSA.vhd
+vcom ../common_component/decoder.vhd
+vcom ../common_component/package_mux.vhd
+vcom ../common_component/bN_Mto1mux.vhd
+vcom ../common_component/bN_2to1mux.vhd
+vcom ../common_component/bN_3to1mux.vhd
+vcom ../common_component/bN_4to1mux.vhd
+vcom ../common_component/bN_5to1mux.vhd
+vcom ../common_component/bN_6to1mux.vhd
+vcom ../common_component/complement_1.vhd
+vcom ../common_component/counter.vhd
+vcom ../common_component/multiplier_n.vhd
+vcom ../common_component/reg_s_reset_enable.vhd
+vcom ../common_component/Register_file.vhd
+vcom ../common_component/counterNStop.vhd

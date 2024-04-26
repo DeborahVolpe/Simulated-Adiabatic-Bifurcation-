@@ -1,0 +1,2560 @@
+In iteration 0 in the state1 Ma: [[  0 -26]] Aa: 256 Mb: 0
+In iteration 0 in the state2 Ma: [[  0 -16]] Mb: 0
+In iteration 0 in the state3 Aa: [[  0 -16]]
+In iteration 0 in the state4 Ma: [[  0 -16]] Mb: [[ 0 -8]]
+In iteration 0 in the state5 Ma: [[0 0]] Aa: [[ 0 -8]]
+In iteration 0 in the state6 Aa: [[0 0]]
+In iteration 0 in the state7 Aa: [[ 0 -8]]
+In iteration 0 in the state8 Aa: [[ 1 -8]]
+In iteration 0 in the state9 Ma: [[ 0 -5]]
+In iteration 0 in the state10 Aa: [[  0 -46]]
+In iteration 1 in the state1 Ma: [[  0 -23]] Aa: 251 Mb: 0
+In iteration 1 in the state2 Ma: [[  0 -14]] Mb: 0
+In iteration 1 in the state3 Aa: [[  0 -30]]
+In iteration 1 in the state4 Ma: [[  0 -30]] Mb: [[  0 -15]]
+In iteration 1 in the state5 Ma: [[0 1]] Aa: [[  0 -15]]
+In iteration 1 in the state6 Aa: [[ 0 -1]]
+In iteration 1 in the state7 Aa: [[  0 -16]]
+In iteration 1 in the state8 Aa: [[  2 -16]]
+In iteration 1 in the state9 Ma: [[  1 -10]]
+In iteration 1 in the state10 Aa: [[ -1 -36]]
+In iteration 2 in the state1 Ma: [[ -1 -18]] Aa: 246 Mb: 0
+In iteration 2 in the state2 Ma: [[ -1 -11]] Mb: 0
+In iteration 2 in the state3 Aa: [[ -1 -41]]
+In iteration 2 in the state4 Ma: [[ -1 -41]] Mb: [[ -1 -20]]
+In iteration 2 in the state5 Ma: [[0 3]] Aa: [[ -1 -20]]
+In iteration 2 in the state6 Aa: [[ 0 -1]]
+In iteration 2 in the state7 Aa: [[ -1 -21]]
+In iteration 2 in the state8 Aa: [[  3 -21]]
+In iteration 2 in the state9 Ma: [[  1 -13]]
+In iteration 2 in the state10 Aa: [[ -2 -23]]
+In iteration 3 in the state1 Ma: [[ -1 -12]] Aa: 241 Mb: 0
+In iteration 3 in the state2 Ma: [[-1 -8]] Mb: 0
+In iteration 3 in the state3 Aa: [[ -2 -49]]
+In iteration 3 in the state4 Ma: [[ -2 -49]] Mb: [[ -1 -24]]
+In iteration 3 in the state5 Ma: [[0 4]] Aa: [[ -1 -24]]
+In iteration 3 in the state6 Aa: [[ 0 -1]]
+In iteration 3 in the state7 Aa: [[ -1 -25]]
+In iteration 3 in the state8 Aa: [[  3 -25]]
+In iteration 3 in the state9 Ma: [[  1 -15]]
+In iteration 3 in the state10 Aa: [[-3 -8]]
+In iteration 4 in the state1 Ma: [[-2 -4]] Aa: 236 Mb: 0
+In iteration 4 in the state2 Ma: [[-2 -3]] Mb: 0
+In iteration 4 in the state3 Aa: [[ -4 -52]]
+In iteration 4 in the state4 Ma: [[ -4 -52]] Mb: [[ -2 -24]]
+In iteration 4 in the state5 Ma: [[0 5]] Aa: [[ -2 -24]]
+In iteration 4 in the state6 Aa: [[ 0 -1]]
+In iteration 4 in the state7 Aa: [[ -2 -25]]
+In iteration 4 in the state8 Aa: [[  3 -25]]
+In iteration 4 in the state9 Ma: [[  1 -15]]
+In iteration 4 in the state10 Aa: [[-4  7]]
+In iteration 5 in the state1 Ma: [[-2  3]] Aa: 231 Mb: 0
+In iteration 5 in the state2 Ma: [[-2  1]] Mb: 0
+In iteration 5 in the state3 Aa: [[ -6 -51]]
+In iteration 5 in the state4 Ma: [[ -6 -51]] Mb: [[ -3 -24]]
+In iteration 5 in the state5 Ma: [[0 5]] Aa: [[ -3 -24]]
+In iteration 5 in the state6 Aa: [[ 0 -1]]
+In iteration 5 in the state7 Aa: [[ -3 -25]]
+In iteration 5 in the state8 Aa: [[  2 -25]]
+In iteration 5 in the state9 Ma: [[  1 -15]]
+In iteration 5 in the state10 Aa: [[-5 22]]
+In iteration 6 in the state1 Ma: [[-3 11]] Aa: 226 Mb: 0
+In iteration 6 in the state2 Ma: [[-2  6]] Mb: 0
+In iteration 6 in the state3 Aa: [[ -8 -45]]
+In iteration 6 in the state4 Ma: [[ -8 -45]] Mb: [[ -4 -20]]
+In iteration 6 in the state5 Ma: [[0 3]] Aa: [[ -4 -20]]
+In iteration 6 in the state6 Aa: [[ 0 -1]]
+In iteration 6 in the state7 Aa: [[ -4 -21]]
+In iteration 6 in the state8 Aa: [[  0 -21]]
+In iteration 6 in the state9 Ma: [[  0 -13]]
+In iteration 6 in the state10 Aa: [[-5 35]]
+In iteration 7 in the state1 Ma: [[-3 17]] Aa: 221 Mb: 0
+In iteration 7 in the state2 Ma: [[-2 10]] Mb: 0
+In iteration 7 in the state3 Aa: [[-10 -35]]
+In iteration 7 in the state4 Ma: [[-10 -35]] Mb: [[ -5 -16]]
+In iteration 7 in the state5 Ma: [[0 2]] Aa: [[ -5 -16]]
+In iteration 7 in the state6 Aa: [[ 0 -1]]
+In iteration 7 in the state7 Aa: [[ -5 -17]]
+In iteration 7 in the state8 Aa: [[ -2 -17]]
+In iteration 7 in the state9 Ma: [[ -2 -11]]
+In iteration 7 in the state10 Aa: [[-3 46]]
+In iteration 8 in the state1 Ma: [[-2 23]] Aa: 216 Mb: 0
+In iteration 8 in the state2 Ma: [[-2 13]] Mb: 0
+In iteration 8 in the state3 Aa: [[-12 -22]]
+In iteration 8 in the state4 Ma: [[-12 -22]] Mb: [[ -6 -10]]
+In iteration 8 in the state5 Ma: [[0 0]] Aa: [[ -6 -10]]
+In iteration 8 in the state6 Aa: [[0 0]]
+In iteration 8 in the state7 Aa: [[ -6 -10]]
+In iteration 8 in the state8 Aa: [[-4 -9]]
+In iteration 8 in the state9 Ma: [[-3 -6]]
+In iteration 8 in the state10 Aa: [[ 0 52]]
+In iteration 9 in the state1 Ma: [[ 0 26]] Aa: 211 Mb: 0
+In iteration 9 in the state2 Ma: [[ 0 15]] Mb: 0
+In iteration 9 in the state3 Aa: [[-12  -7]]
+In iteration 9 in the state4 Ma: [[-12  -7]] Mb: [[-5 -3]]
+In iteration 9 in the state5 Ma: [[0 0]] Aa: [[-5 -3]]
+In iteration 9 in the state6 Aa: [[0 0]]
+In iteration 9 in the state7 Aa: [[-5 -3]]
+In iteration 9 in the state8 Aa: [[-5 -2]]
+In iteration 9 in the state9 Ma: [[-3 -2]]
+In iteration 9 in the state10 Aa: [[ 3 54]]
+In iteration 10 in the state1 Ma: [[ 1 27]] Aa: 206 Mb: 0
+In iteration 10 in the state2 Ma: [[ 0 16]] Mb: 0
+In iteration 10 in the state3 Aa: [[-12   9]]
+In iteration 10 in the state4 Ma: [[-12   9]] Mb: [[-5  3]]
+In iteration 10 in the state5 Ma: [[0 0]] Aa: [[-5  3]]
+In iteration 10 in the state6 Aa: [[0 0]]
+In iteration 10 in the state7 Aa: [[-5  3]]
+In iteration 10 in the state8 Aa: [[-6  4]]
+In iteration 10 in the state9 Ma: [[-4  2]]
+In iteration 10 in the state10 Aa: [[ 7 52]]
+In iteration 11 in the state1 Ma: [[ 3 26]] Aa: 201 Mb: 0
+In iteration 11 in the state2 Ma: [[ 1 15]] Mb: 0
+In iteration 11 in the state3 Aa: [[-11  24]]
+In iteration 11 in the state4 Ma: [[-11  24]] Mb: [[-5  9]]
+In iteration 11 in the state5 Ma: [[0 1]] Aa: [[-5  9]]
+In iteration 11 in the state6 Aa: [[0 0]]
+In iteration 11 in the state7 Aa: [[-5  9]]
+In iteration 11 in the state8 Aa: [[-8 10]]
+In iteration 11 in the state9 Ma: [[-5  5]]
+In iteration 11 in the state10 Aa: [[12 47]]
+In iteration 12 in the state1 Ma: [[ 6 23]] Aa: 196 Mb: 0
+In iteration 12 in the state2 Ma: [[ 3 13]] Mb: 0
+In iteration 12 in the state3 Aa: [[-8 37]]
+In iteration 12 in the state4 Ma: [[-8 37]] Mb: [[-4 14]]
+In iteration 12 in the state5 Ma: [[0 2]] Aa: [[-4 14]]
+In iteration 12 in the state6 Aa: [[0 0]]
+In iteration 12 in the state7 Aa: [[-4 14]]
+In iteration 12 in the state8 Aa: [[-8 14]]
+In iteration 12 in the state9 Ma: [[-5  8]]
+In iteration 12 in the state10 Aa: [[17 39]]
+In iteration 13 in the state1 Ma: [[ 8 19]] Aa: 191 Mb: 0
+In iteration 13 in the state2 Ma: [[ 4 11]] Mb: 0
+In iteration 13 in the state3 Aa: [[-4 48]]
+In iteration 13 in the state4 Ma: [[-4 48]] Mb: [[-2 17]]
+In iteration 13 in the state5 Ma: [[0 4]] Aa: [[-2 17]]
+In iteration 13 in the state6 Aa: [[0 0]]
+In iteration 13 in the state7 Aa: [[-2 17]]
+In iteration 13 in the state8 Aa: [[-7 17]]
+In iteration 13 in the state9 Ma: [[-5 10]]
+In iteration 13 in the state10 Aa: [[22 29]]
+In iteration 14 in the state1 Ma: [[11 14]] Aa: 186 Mb: 0
+In iteration 14 in the state2 Ma: [[6 8]] Mb: 0
+In iteration 14 in the state3 Aa: [[ 2 56]]
+In iteration 14 in the state4 Ma: [[ 2 56]] Mb: [[ 0 20]]
+In iteration 14 in the state5 Ma: [[0 6]] Aa: [[ 0 20]]
+In iteration 14 in the state6 Aa: [[0 0]]
+In iteration 14 in the state7 Aa: [[ 0 20]]
+In iteration 14 in the state8 Aa: [[-6 19]]
+In iteration 14 in the state9 Ma: [[-4 11]]
+In iteration 14 in the state10 Aa: [[26 18]]
+In iteration 15 in the state1 Ma: [[13  9]] Aa: 181 Mb: 0
+In iteration 15 in the state2 Ma: [[7 5]] Mb: 0
+In iteration 15 in the state3 Aa: [[ 9 61]]
+In iteration 15 in the state4 Ma: [[ 9 61]] Mb: [[ 3 21]]
+In iteration 15 in the state5 Ma: [[0 7]] Aa: [[ 3 21]]
+In iteration 15 in the state6 Aa: [[0 0]]
+In iteration 15 in the state7 Aa: [[ 3 21]]
+In iteration 15 in the state8 Aa: [[-4 20]]
+In iteration 15 in the state9 Ma: [[-3 11]]
+In iteration 15 in the state10 Aa: [[29  7]]
+In iteration 16 in the state1 Ma: [[14  3]] Aa: 176 Mb: 0
+In iteration 16 in the state2 Ma: [[8 1]] Mb: 0
+In iteration 16 in the state3 Aa: [[17 62]]
+In iteration 16 in the state4 Ma: [[17 62]] Mb: [[ 5 21]]
+In iteration 16 in the state5 Ma: [[0 7]] Aa: [[ 5 21]]
+In iteration 16 in the state6 Aa: [[0 0]]
+In iteration 16 in the state7 Aa: [[ 5 21]]
+In iteration 16 in the state8 Aa: [[-2 19]]
+In iteration 16 in the state9 Ma: [[-2 11]]
+In iteration 16 in the state10 Aa: [[31 -4]]
+In iteration 17 in the state1 Ma: [[15 -2]] Aa: 171 Mb: 0
+In iteration 17 in the state2 Ma: [[ 8 -2]] Mb: 0
+In iteration 17 in the state3 Aa: [[25 60]]
+In iteration 17 in the state4 Ma: [[25 60]] Mb: [[ 8 20]]
+In iteration 17 in the state5 Ma: [[1 7]] Aa: [[ 8 20]]
+In iteration 17 in the state6 Aa: [[0 0]]
+In iteration 17 in the state7 Aa: [[ 8 20]]
+In iteration 17 in the state8 Aa: [[ 2 17]]
+In iteration 17 in the state9 Ma: [[ 1 10]]
+In iteration 17 in the state10 Aa: [[ 30 -14]]
+In iteration 18 in the state1 Ma: [[15 -7]] Aa: 166 Mb: 0
+In iteration 18 in the state2 Ma: [[ 8 -5]] Mb: 0
+In iteration 18 in the state3 Aa: [[33 55]]
+In iteration 18 in the state4 Ma: [[33 55]] Mb: [[10 17]]
+In iteration 18 in the state5 Ma: [[2 5]] Aa: [[10 17]]
+In iteration 18 in the state6 Aa: [[0 0]]
+In iteration 18 in the state7 Aa: [[10 17]]
+In iteration 18 in the state8 Aa: [[ 4 13]]
+In iteration 18 in the state9 Ma: [[2 7]]
+In iteration 18 in the state10 Aa: [[ 28 -21]]
+In iteration 19 in the state1 Ma: [[ 14 -11]] Aa: 161 Mb: 0
+In iteration 19 in the state2 Ma: [[ 8 -7]] Mb: 0
+In iteration 19 in the state3 Aa: [[41 48]]
+In iteration 19 in the state4 Ma: [[41 48]] Mb: [[12 15]]
+In iteration 19 in the state5 Ma: [[3 4]] Aa: [[12 15]]
+In iteration 19 in the state6 Aa: [[0 0]]
+In iteration 19 in the state7 Aa: [[12 15]]
+In iteration 19 in the state8 Aa: [[ 7 10]]
+In iteration 19 in the state9 Ma: [[4 5]]
+In iteration 19 in the state10 Aa: [[ 24 -26]]
+In iteration 20 in the state1 Ma: [[ 12 -13]] Aa: 156 Mb: 0
+In iteration 20 in the state2 Ma: [[ 7 -8]] Mb: 0
+In iteration 20 in the state3 Aa: [[48 40]]
+In iteration 20 in the state4 Ma: [[48 40]] Mb: [[14 12]]
+In iteration 20 in the state5 Ma: [[4 3]] Aa: [[14 12]]
+In iteration 20 in the state6 Aa: [[0 0]]
+In iteration 20 in the state7 Aa: [[14 12]]
+In iteration 20 in the state8 Aa: [[10  7]]
+In iteration 20 in the state9 Ma: [[5 4]]
+In iteration 20 in the state10 Aa: [[ 19 -30]]
+In iteration 21 in the state1 Ma: [[  9 -15]] Aa: 151 Mb: 0
+In iteration 21 in the state2 Ma: [[ 5 -9]] Mb: 0
+In iteration 21 in the state3 Aa: [[53 31]]
+In iteration 21 in the state4 Ma: [[53 31]] Mb: [[15  9]]
+In iteration 21 in the state5 Ma: [[5 1]] Aa: [[15  9]]
+In iteration 21 in the state6 Aa: [[0 0]]
+In iteration 21 in the state7 Aa: [[15  9]]
+In iteration 21 in the state8 Aa: [[11  3]]
+In iteration 21 in the state9 Ma: [[6 1]]
+In iteration 21 in the state10 Aa: [[ 13 -31]]
+In iteration 22 in the state1 Ma: [[  6 -16]] Aa: 146 Mb: 0
+In iteration 22 in the state2 Ma: [[  3 -10]] Mb: 0
+In iteration 22 in the state3 Aa: [[56 21]]
+In iteration 22 in the state4 Ma: [[56 21]] Mb: [[15  5]]
+In iteration 22 in the state5 Ma: [[6 0]] Aa: [[15  5]]
+In iteration 22 in the state6 Aa: [[0 0]]
+In iteration 22 in the state7 Aa: [[15  5]]
+In iteration 22 in the state8 Aa: [[12 -1]]
+In iteration 22 in the state9 Ma: [[ 7 -1]]
+In iteration 22 in the state10 Aa: [[  6 -30]]
+In iteration 23 in the state1 Ma: [[  3 -15]] Aa: 141 Mb: 0
+In iteration 23 in the state2 Ma: [[ 1 -9]] Mb: 0
+In iteration 23 in the state3 Aa: [[57 12]]
+In iteration 23 in the state4 Ma: [[57 12]] Mb: [[15  3]]
+In iteration 23 in the state5 Ma: [[6 0]] Aa: [[15  3]]
+In iteration 23 in the state6 Aa: [[0 0]]
+In iteration 23 in the state7 Aa: [[15  3]]
+In iteration 23 in the state8 Aa: [[13 -3]]
+In iteration 23 in the state9 Ma: [[ 7 -2]]
+In iteration 23 in the state10 Aa: [[ -1 -28]]
+In iteration 24 in the state1 Ma: [[ -1 -14]] Aa: 136 Mb: 0
+In iteration 24 in the state2 Ma: [[-1 -9]] Mb: 0
+In iteration 24 in the state3 Aa: [[56  3]]
+In iteration 24 in the state4 Ma: [[56  3]] Mb: [[14  0]]
+In iteration 24 in the state5 Ma: [[6 0]] Aa: [[14  0]]
+In iteration 24 in the state6 Aa: [[0 0]]
+In iteration 24 in the state7 Aa: [[14  0]]
+In iteration 24 in the state8 Aa: [[13 -6]]
+In iteration 24 in the state9 Ma: [[ 7 -4]]
+In iteration 24 in the state10 Aa: [[ -8 -24]]
+In iteration 25 in the state1 Ma: [[ -4 -12]] Aa: 131 Mb: 0
+In iteration 25 in the state2 Ma: [[-3 -8]] Mb: 0
+In iteration 25 in the state3 Aa: [[53 -5]]
+In iteration 25 in the state4 Ma: [[53 -5]] Mb: [[13 -2]]
+In iteration 25 in the state5 Ma: [[5 0]] Aa: [[13 -2]]
+In iteration 25 in the state6 Aa: [[0 0]]
+In iteration 25 in the state7 Aa: [[13 -2]]
+In iteration 25 in the state8 Aa: [[13 -8]]
+In iteration 25 in the state9 Ma: [[ 7 -5]]
+In iteration 25 in the state10 Aa: [[-15 -19]]
+In iteration 26 in the state1 Ma: [[ -8 -10]] Aa: 126 Mb: 0
+In iteration 26 in the state2 Ma: [[-5 -6]] Mb: 0
+In iteration 26 in the state3 Aa: [[ 48 -11]]
+In iteration 26 in the state4 Ma: [[ 48 -11]] Mb: [[11 -3]]
+In iteration 26 in the state5 Ma: [[4 0]] Aa: [[11 -3]]
+In iteration 26 in the state6 Aa: [[0 0]]
+In iteration 26 in the state7 Aa: [[11 -3]]
+In iteration 26 in the state8 Aa: [[12 -8]]
+In iteration 26 in the state9 Ma: [[ 7 -5]]
+In iteration 26 in the state10 Aa: [[-22 -14]]
+In iteration 27 in the state1 Ma: [[-11  -7]] Aa: 121 Mb: 0
+In iteration 27 in the state2 Ma: [[-7 -5]] Mb: 0
+In iteration 27 in the state3 Aa: [[ 41 -16]]
+In iteration 27 in the state4 Ma: [[ 41 -16]] Mb: [[ 9 -4]]
+In iteration 27 in the state5 Ma: [[3 0]] Aa: [[ 9 -4]]
+In iteration 27 in the state6 Aa: [[0 0]]
+In iteration 27 in the state7 Aa: [[ 9 -4]]
+In iteration 27 in the state8 Aa: [[10 -9]]
+In iteration 27 in the state9 Ma: [[ 5 -6]]
+In iteration 27 in the state10 Aa: [[-27  -8]]
+In iteration 28 in the state1 Ma: [[-14  -4]] Aa: 116 Mb: 0
+In iteration 28 in the state2 Ma: [[-9 -3]] Mb: 0
+In iteration 28 in the state3 Aa: [[ 32 -19]]
+In iteration 28 in the state4 Ma: [[ 32 -19]] Mb: [[ 7 -5]]
+In iteration 28 in the state5 Ma: [[2 0]] Aa: [[ 7 -5]]
+In iteration 28 in the state6 Aa: [[0 0]]
+In iteration 28 in the state7 Aa: [[ 7 -5]]
+In iteration 28 in the state8 Aa: [[ 8 -9]]
+In iteration 28 in the state9 Ma: [[ 4 -6]]
+In iteration 28 in the state10 Aa: [[-31  -2]]
+In iteration 29 in the state1 Ma: [[-16  -1]] Aa: 111 Mb: 0
+In iteration 29 in the state2 Ma: [[-10  -1]] Mb: 0
+In iteration 29 in the state3 Aa: [[ 22 -20]]
+In iteration 29 in the state4 Ma: [[ 22 -20]] Mb: [[ 4 -5]]
+In iteration 29 in the state5 Ma: [[0 0]] Aa: [[ 4 -5]]
+In iteration 29 in the state6 Aa: [[0 0]]
+In iteration 29 in the state7 Aa: [[ 4 -5]]
+In iteration 29 in the state8 Aa: [[ 5 -8]]
+In iteration 29 in the state9 Ma: [[ 2 -5]]
+In iteration 29 in the state10 Aa: [[-33   3]]
+In iteration 30 in the state1 Ma: [[-17   1]] Aa: 106 Mb: 0
+In iteration 30 in the state2 Ma: [[-11   0]] Mb: 0
+In iteration 30 in the state3 Aa: [[ 11 -20]]
+In iteration 30 in the state4 Ma: [[ 11 -20]] Mb: [[ 2 -5]]
+In iteration 30 in the state5 Ma: [[0 0]] Aa: [[ 2 -5]]
+In iteration 30 in the state6 Aa: [[0 0]]
+In iteration 30 in the state7 Aa: [[ 2 -5]]
+In iteration 30 in the state8 Aa: [[ 3 -7]]
+In iteration 30 in the state9 Ma: [[ 1 -5]]
+In iteration 30 in the state10 Aa: [[-34   8]]
+In iteration 31 in the state1 Ma: [[-17   4]] Aa: 101 Mb: 0
+In iteration 31 in the state2 Ma: [[-11   2]] Mb: 0
+In iteration 31 in the state3 Aa: [[  0 -18]]
+In iteration 31 in the state4 Ma: [[  0 -18]] Mb: [[ 0 -4]]
+In iteration 31 in the state5 Ma: [[0 0]] Aa: [[ 0 -4]]
+In iteration 31 in the state6 Aa: [[0 0]]
+In iteration 31 in the state7 Aa: [[ 0 -4]]
+In iteration 31 in the state8 Aa: [[ 1 -4]]
+In iteration 31 in the state9 Ma: [[ 0 -3]]
+In iteration 31 in the state10 Aa: [[-34  11]]
+In iteration 32 in the state1 Ma: [[-17   5]] Aa: 96 Mb: 0
+In iteration 32 in the state2 Ma: [[-11   2]] Mb: 0
+In iteration 32 in the state3 Aa: [[-11 -16]]
+In iteration 32 in the state4 Ma: [[-11 -16]] Mb: [[-3 -3]]
+In iteration 32 in the state5 Ma: [[0 0]] Aa: [[-3 -3]]
+In iteration 32 in the state6 Aa: [[0 0]]
+In iteration 32 in the state7 Aa: [[-3 -3]]
+In iteration 32 in the state8 Aa: [[-2 -2]]
+In iteration 32 in the state9 Ma: [[-2 -2]]
+In iteration 32 in the state10 Aa: [[-32  13]]
+In iteration 33 in the state1 Ma: [[-16   6]] Aa: 91 Mb: 0
+In iteration 33 in the state2 Ma: [[-10   3]] Mb: 0
+In iteration 33 in the state3 Aa: [[-21 -13]]
+In iteration 33 in the state4 Ma: [[-21 -13]] Mb: [[-4 -3]]
+In iteration 33 in the state5 Ma: [[0 0]] Aa: [[-4 -3]]
+In iteration 33 in the state6 Aa: [[0 0]]
+In iteration 33 in the state7 Aa: [[-4 -3]]
+In iteration 33 in the state8 Aa: [[-3 -1]]
+In iteration 33 in the state9 Ma: [[-2 -1]]
+In iteration 33 in the state10 Aa: [[-30  14]]
+In iteration 34 in the state1 Ma: [[-15   7]] Aa: 86 Mb: 0
+In iteration 34 in the state2 Ma: [[-9  4]] Mb: 0
+In iteration 34 in the state3 Aa: [[-30  -9]]
+In iteration 34 in the state4 Ma: [[-30  -9]] Mb: [[-6 -2]]
+In iteration 34 in the state5 Ma: [[1 0]] Aa: [[-6 -2]]
+In iteration 34 in the state6 Aa: [[-1  0]]
+In iteration 34 in the state7 Aa: [[-7 -2]]
+In iteration 34 in the state8 Aa: [[-7  0]]
+In iteration 34 in the state9 Ma: [[-5  0]]
+In iteration 34 in the state10 Aa: [[-25  14]]
+In iteration 35 in the state1 Ma: [[-13   7]] Aa: 81 Mb: 0
+In iteration 35 in the state2 Ma: [[-8  4]] Mb: 0
+In iteration 35 in the state3 Aa: [[-38  -5]]
+In iteration 35 in the state4 Ma: [[-38  -5]] Mb: [[-7 -1]]
+In iteration 35 in the state5 Ma: [[2 0]] Aa: [[-7 -1]]
+In iteration 35 in the state6 Aa: [[-1  0]]
+In iteration 35 in the state7 Aa: [[-8 -1]]
+In iteration 35 in the state8 Aa: [[-8  2]]
+In iteration 35 in the state9 Ma: [[-5  1]]
+In iteration 35 in the state10 Aa: [[-20  13]]
+In iteration 36 in the state1 Ma: [[-10   6]] Aa: 76 Mb: 0
+In iteration 36 in the state2 Ma: [[-6  3]] Mb: 0
+In iteration 36 in the state3 Aa: [[-44  -2]]
+In iteration 36 in the state4 Ma: [[-44  -2]] Mb: [[-7 -1]]
+In iteration 36 in the state5 Ma: [[3 0]] Aa: [[-7 -1]]
+In iteration 36 in the state6 Aa: [[-1  0]]
+In iteration 36 in the state7 Aa: [[-8 -1]]
+In iteration 36 in the state8 Aa: [[-8  3]]
+In iteration 36 in the state9 Ma: [[-5  1]]
+In iteration 36 in the state10 Aa: [[-15  12]]
+In iteration 37 in the state1 Ma: [[-8  6]] Aa: 71 Mb: 0
+In iteration 37 in the state2 Ma: [[-5  3]] Mb: 0
+In iteration 37 in the state3 Aa: [[-49   1]]
+In iteration 37 in the state4 Ma: [[-49   1]] Mb: [[-7  0]]
+In iteration 37 in the state5 Ma: [[4 0]] Aa: [[-7  0]]
+In iteration 37 in the state6 Aa: [[-1  0]]
+In iteration 37 in the state7 Aa: [[-8  0]]
+In iteration 37 in the state8 Aa: [[-9  4]]
+In iteration 37 in the state9 Ma: [[-6  2]]
+In iteration 37 in the state10 Aa: [[-9 10]]
+In iteration 38 in the state1 Ma: [[-5  5]] Aa: 66 Mb: 0
+In iteration 38 in the state2 Ma: [[-3  2]] Mb: 0
+In iteration 38 in the state3 Aa: [[-52   3]]
+In iteration 38 in the state4 Ma: [[-52   3]] Mb: [[-7  0]]
+In iteration 38 in the state5 Ma: [[5 0]] Aa: [[-7  0]]
+In iteration 38 in the state6 Aa: [[-1  0]]
+In iteration 38 in the state7 Aa: [[-8  0]]
+In iteration 38 in the state8 Aa: [[-9  5]]
+In iteration 38 in the state9 Ma: [[-6  2]]
+In iteration 38 in the state10 Aa: [[-3  8]]
+In iteration 39 in the state1 Ma: [[-2  4]] Aa: 61 Mb: 0
+In iteration 39 in the state2 Ma: [[-2  2]] Mb: 0
+In iteration 39 in the state3 Aa: [[-54   5]]
+In iteration 39 in the state4 Ma: [[-54   5]] Mb: [[-7  0]]
+In iteration 39 in the state5 Ma: [[5 0]] Aa: [[-7  0]]
+In iteration 39 in the state6 Aa: [[-1  0]]
+In iteration 39 in the state7 Aa: [[-8  0]]
+In iteration 39 in the state8 Aa: [[-9  5]]
+In iteration 39 in the state9 Ma: [[-6  2]]
+In iteration 39 in the state10 Aa: [[3 6]]
+In iteration 40 in the state1 Ma: [[1 3]] Aa: 56 Mb: 0
+In iteration 40 in the state2 Ma: [[0 1]] Mb: 0
+In iteration 40 in the state3 Aa: [[-54   6]]
+In iteration 40 in the state4 Ma: [[-54   6]] Mb: [[-6  0]]
+In iteration 40 in the state5 Ma: [[5 0]] Aa: [[-6  0]]
+In iteration 40 in the state6 Aa: [[-1  0]]
+In iteration 40 in the state7 Aa: [[-7  0]]
+In iteration 40 in the state8 Aa: [[-8  5]]
+In iteration 40 in the state9 Ma: [[-5  2]]
+In iteration 40 in the state10 Aa: [[8 4]]
+In iteration 41 in the state1 Ma: [[4 2]] Aa: 51 Mb: 0
+In iteration 41 in the state2 Ma: [[2 1]] Mb: 0
+In iteration 41 in the state3 Aa: [[-52   7]]
+In iteration 41 in the state4 Ma: [[-52   7]] Mb: [[-6  0]]
+In iteration 41 in the state5 Ma: [[5 0]] Aa: [[-6  0]]
+In iteration 41 in the state6 Aa: [[-1  0]]
+In iteration 41 in the state7 Aa: [[-7  0]]
+In iteration 41 in the state8 Aa: [[-8  5]]
+In iteration 41 in the state9 Ma: [[-5  2]]
+In iteration 41 in the state10 Aa: [[13  2]]
+In iteration 42 in the state1 Ma: [[6 1]] Aa: 46 Mb: 0
+In iteration 42 in the state2 Ma: [[3 0]] Mb: 0
+In iteration 42 in the state3 Aa: [[-49   7]]
+In iteration 42 in the state4 Ma: [[-49   7]] Mb: [[-5  0]]
+In iteration 42 in the state5 Ma: [[4 0]] Aa: [[-5  0]]
+In iteration 42 in the state6 Aa: [[-1  0]]
+In iteration 42 in the state7 Aa: [[-6  0]]
+In iteration 42 in the state8 Aa: [[-7  4]]
+In iteration 42 in the state9 Ma: [[-5  2]]
+In iteration 42 in the state10 Aa: [[18  0]]
+In iteration 43 in the state1 Ma: [[9 0]] Aa: 41 Mb: 0
+In iteration 43 in the state2 Ma: [[5 0]] Mb: 0
+In iteration 43 in the state3 Aa: [[-44   7]]
+In iteration 43 in the state4 Ma: [[-44   7]] Mb: [[-4  0]]
+In iteration 43 in the state5 Ma: [[3 0]] Aa: [[-4  0]]
+In iteration 43 in the state6 Aa: [[-1  0]]
+In iteration 43 in the state7 Aa: [[-5  0]]
+In iteration 43 in the state8 Aa: [[-6  4]]
+In iteration 43 in the state9 Ma: [[-4  2]]
+In iteration 43 in the state10 Aa: [[22 -2]]
+In iteration 44 in the state1 Ma: [[11 -1]] Aa: 36 Mb: 0
+In iteration 44 in the state2 Ma: [[ 6 -1]] Mb: 0
+In iteration 44 in the state3 Aa: [[-38   6]]
+In iteration 44 in the state4 Ma: [[-38   6]] Mb: [[-3  0]]
+In iteration 44 in the state5 Ma: [[2 0]] Aa: [[-3  0]]
+In iteration 44 in the state6 Aa: [[-1  0]]
+In iteration 44 in the state7 Aa: [[-4  0]]
+In iteration 44 in the state8 Aa: [[-5  3]]
+In iteration 44 in the state9 Ma: [[-3  1]]
+In iteration 44 in the state10 Aa: [[25 -3]]
+In iteration 45 in the state1 Ma: [[12 -2]] Aa: 31 Mb: 0
+In iteration 45 in the state2 Ma: [[ 7 -2]] Mb: 0
+In iteration 45 in the state3 Aa: [[-31   4]]
+In iteration 45 in the state4 Ma: [[-31   4]] Mb: [[-2  0]]
+In iteration 45 in the state5 Ma: [[1 0]] Aa: [[-2  0]]
+In iteration 45 in the state6 Aa: [[-1  0]]
+In iteration 45 in the state7 Aa: [[-3  0]]
+In iteration 45 in the state8 Aa: [[-4  3]]
+In iteration 45 in the state9 Ma: [[-3  1]]
+In iteration 45 in the state10 Aa: [[28 -4]]
+In iteration 46 in the state1 Ma: [[14 -2]] Aa: 26 Mb: 0
+In iteration 46 in the state2 Ma: [[ 8 -2]] Mb: 0
+In iteration 46 in the state3 Aa: [[-23   2]]
+In iteration 46 in the state4 Ma: [[-23   2]] Mb: [[-2  0]]
+In iteration 46 in the state5 Ma: [[1 0]] Aa: [[-2  0]]
+In iteration 46 in the state6 Aa: [[-1  0]]
+In iteration 46 in the state7 Aa: [[-3  0]]
+In iteration 46 in the state8 Aa: [[-4  2]]
+In iteration 46 in the state9 Ma: [[-3  1]]
+In iteration 46 in the state10 Aa: [[31 -5]]
+In iteration 47 in the state1 Ma: [[15 -3]] Aa: 21 Mb: 0
+In iteration 47 in the state2 Ma: [[ 8 -2]] Mb: 0
+In iteration 47 in the state3 Aa: [[-15   0]]
+In iteration 47 in the state4 Ma: [[-15   0]] Mb: [[-1  0]]
+In iteration 47 in the state5 Ma: [[0 0]] Aa: [[-1  0]]
+In iteration 47 in the state6 Aa: [[0 0]]
+In iteration 47 in the state7 Aa: [[-1  0]]
+In iteration 47 in the state8 Aa: [[-1  1]]
+In iteration 47 in the state9 Ma: [[-1  0]]
+In iteration 47 in the state10 Aa: [[32 -5]]
+In iteration 48 in the state1 Ma: [[16 -3]] Aa: 16 Mb: 0
+In iteration 48 in the state2 Ma: [[ 9 -2]] Mb: 0
+In iteration 48 in the state3 Aa: [[-6 -2]]
+In iteration 48 in the state4 Ma: [[-6 -2]] Mb: [[-1 -1]]
+In iteration 48 in the state5 Ma: [[0 0]] Aa: [[-1 -1]]
+In iteration 48 in the state6 Aa: [[0 0]]
+In iteration 48 in the state7 Aa: [[-1 -1]]
+In iteration 48 in the state8 Aa: [[-1 -1]]
+In iteration 48 in the state9 Ma: [[-1 -1]]
+In iteration 48 in the state10 Aa: [[33 -4]]
+In iteration 49 in the state1 Ma: [[16 -2]] Aa: 11 Mb: 0
+In iteration 49 in the state2 Ma: [[ 9 -2]] Mb: 0
+In iteration 49 in the state3 Aa: [[ 3 -4]]
+In iteration 49 in the state4 Ma: [[ 3 -4]] Mb: [[ 0 -1]]
+In iteration 49 in the state5 Ma: [[0 0]] Aa: [[ 0 -1]]
+In iteration 49 in the state6 Aa: [[0 0]]
+In iteration 49 in the state7 Aa: [[ 0 -1]]
+In iteration 49 in the state8 Aa: [[ 0 -2]]
+In iteration 49 in the state9 Ma: [[ 0 -2]]
+In iteration 49 in the state10 Aa: [[33 -2]]
+In iteration 50 in the state1 Ma: [[16 -1]] Aa: 6 Mb: 0
+In iteration 50 in the state2 Ma: [[ 9 -1]] Mb: 0
+In iteration 50 in the state3 Aa: [[12 -5]]
+In iteration 50 in the state4 Ma: [[12 -5]] Mb: [[ 0 -1]]
+In iteration 50 in the state5 Ma: [[0 0]] Aa: [[ 0 -1]]
+In iteration 50 in the state6 Aa: [[0 0]]
+In iteration 50 in the state7 Aa: [[ 0 -1]]
+In iteration 50 in the state8 Aa: [[ 0 -3]]
+In iteration 50 in the state9 Ma: [[ 0 -2]]
+In iteration 50 in the state10 Aa: [[33  0]]
+In iteration 51 in the state1 Ma: [[16  0]] Aa: 1 Mb: 0
+In iteration 51 in the state2 Ma: [[9 0]] Mb: 0
+In iteration 51 in the state3 Aa: [[21 -5]]
+In iteration 51 in the state4 Ma: [[21 -5]] Mb: [[ 0 -1]]
+In iteration 51 in the state5 Ma: [[0 0]] Aa: [[ 0 -1]]
+In iteration 51 in the state6 Aa: [[0 0]]
+In iteration 51 in the state7 Aa: [[ 0 -1]]
+In iteration 51 in the state8 Aa: [[ 0 -4]]
+In iteration 51 in the state9 Ma: [[ 0 -3]]
+In iteration 51 in the state10 Aa: [[33  3]]
+In iteration 52 in the state1 Ma: [[16  1]] Aa: -4 Mb: 0
+In iteration 52 in the state2 Ma: [[9 0]] Mb: 0
+In iteration 52 in the state3 Aa: [[30 -5]]
+In iteration 52 in the state4 Ma: [[30 -5]] Mb: [[-1  0]]
+In iteration 52 in the state5 Ma: [[1 0]] Aa: [[-1  0]]
+In iteration 52 in the state6 Aa: [[0 0]]
+In iteration 52 in the state7 Aa: [[-1  0]]
+In iteration 52 in the state8 Aa: [[-1 -3]]
+In iteration 52 in the state9 Ma: [[-1 -2]]
+In iteration 52 in the state10 Aa: [[34  5]]
+In iteration 53 in the state1 Ma: [[17  2]] Aa: -9 Mb: 0
+In iteration 53 in the state2 Ma: [[10  1]] Mb: 0
+In iteration 53 in the state3 Aa: [[40 -4]]
+In iteration 53 in the state4 Ma: [[40 -4]] Mb: [[-1  0]]
+In iteration 53 in the state5 Ma: [[3 0]] Aa: [[-1  0]]
+In iteration 53 in the state6 Aa: [[0 0]]
+In iteration 53 in the state7 Aa: [[-1  0]]
+In iteration 53 in the state8 Aa: [[-1 -4]]
+In iteration 53 in the state9 Ma: [[-1 -3]]
+In iteration 53 in the state10 Aa: [[35  8]]
+In iteration 54 in the state1 Ma: [[17  4]] Aa: -14 Mb: 0
+In iteration 54 in the state2 Ma: [[10  2]] Mb: 0
+In iteration 54 in the state3 Aa: [[50 -2]]
+In iteration 54 in the state4 Ma: [[50 -2]] Mb: [[-2  0]]
+In iteration 54 in the state5 Ma: [[4 0]] Aa: [[-2  0]]
+In iteration 54 in the state6 Aa: [[0 0]]
+In iteration 54 in the state7 Aa: [[-2  0]]
+In iteration 54 in the state8 Aa: [[-2 -5]]
+In iteration 54 in the state9 Ma: [[-2 -3]]
+In iteration 54 in the state10 Aa: [[37 11]]
+In iteration 55 in the state1 Ma: [[18  5]] Aa: -19 Mb: 0
+In iteration 55 in the state2 Ma: [[10  2]] Mb: 0
+In iteration 55 in the state3 Aa: [[60  0]]
+In iteration 55 in the state4 Ma: [[60  0]] Mb: [[-3  0]]
+In iteration 55 in the state5 Ma: [[7 0]] Aa: [[-3  0]]
+In iteration 55 in the state6 Aa: [[0 0]]
+In iteration 55 in the state7 Aa: [[-3  0]]
+In iteration 55 in the state8 Aa: [[-3 -6]]
+In iteration 55 in the state9 Ma: [[-2 -4]]
+In iteration 55 in the state10 Aa: [[39 15]]
+In iteration 56 in the state1 Ma: [[19  7]] Aa: -24 Mb: 0
+In iteration 56 in the state2 Ma: [[11  4]] Mb: 0
+In iteration 56 in the state3 Aa: [[71  4]]
+In iteration 56 in the state4 Ma: [[71  4]] Mb: [[-4 -1]]
+In iteration 56 in the state5 Ma: [[9 0]] Aa: [[-4 -1]]
+In iteration 56 in the state6 Aa: [[1 0]]
+In iteration 56 in the state7 Aa: [[-3 -1]]
+In iteration 56 in the state8 Aa: [[-4 -9]]
+In iteration 56 in the state9 Ma: [[-3 -6]]
+In iteration 56 in the state10 Aa: [[42 21]]
+In iteration 57 in the state1 Ma: [[21 10]] Aa: -29 Mb: 0
+In iteration 57 in the state2 Ma: [[12  5]] Mb: 0
+In iteration 57 in the state3 Aa: [[83  9]]
+In iteration 57 in the state4 Ma: [[83  9]] Mb: [[-5 -1]]
+In iteration 57 in the state5 Ma: [[13  0]] Aa: [[-5 -1]]
+In iteration 57 in the state6 Aa: [[2 0]]
+In iteration 57 in the state7 Aa: [[-3 -1]]
+In iteration 57 in the state8 Aa: [[ -4 -10]]
+In iteration 57 in the state9 Ma: [[-3 -6]]
+In iteration 57 in the state10 Aa: [[45 27]]
+In iteration 58 in the state1 Ma: [[22 13]] Aa: -34 Mb: 0
+In iteration 58 in the state2 Ma: [[13  7]] Mb: 0
+In iteration 58 in the state3 Aa: [[96 16]]
+In iteration 58 in the state4 Ma: [[96 16]] Mb: [[-7 -2]]
+In iteration 58 in the state5 Ma: [[18  0]] Aa: [[-7 -2]]
+In iteration 58 in the state6 Aa: [[3 0]]
+In iteration 58 in the state7 Aa: [[-4 -2]]
+In iteration 58 in the state8 Aa: [[ -6 -12]]
+In iteration 58 in the state9 Ma: [[-4 -8]]
+In iteration 58 in the state10 Aa: [[49 35]]
+In iteration 59 in the state1 Ma: [[24 17]] Aa: -39 Mb: 0
+In iteration 59 in the state2 Ma: [[14 10]] Mb: 0
+In iteration 59 in the state3 Aa: [[110  26]]
+In iteration 59 in the state4 Ma: [[110  26]] Mb: [[-9 -2]]
+In iteration 59 in the state5 Ma: [[23  1]] Aa: [[-9 -2]]
+In iteration 59 in the state6 Aa: [[4 0]]
+In iteration 59 in the state7 Aa: [[-5 -2]]
+In iteration 59 in the state8 Aa: [[ -8 -13]]
+In iteration 59 in the state9 Ma: [[-5 -8]]
+In iteration 59 in the state10 Aa: [[54 43]]
+In iteration 60 in the state1 Ma: [[27 21]] Aa: -44 Mb: 0
+In iteration 60 in the state2 Ma: [[16 12]] Mb: 0
+In iteration 60 in the state3 Aa: [[126  38]]
+In iteration 60 in the state4 Ma: [[126  38]] Mb: [[-11  -4]]
+In iteration 60 in the state5 Ma: [[31  2]] Aa: [[-11  -4]]
+In iteration 60 in the state6 Aa: [[7 0]]
+In iteration 60 in the state7 Aa: [[-4 -4]]
+In iteration 60 in the state8 Aa: [[ -8 -17]]
+In iteration 60 in the state9 Ma: [[ -5 -11]]
+In iteration 60 in the state10 Aa: [[59 54]]
+In iteration 61 in the state1 Ma: [[29 27]] Aa: -49 Mb: 0
+In iteration 61 in the state2 Ma: [[17 16]] Mb: 0
+In iteration 61 in the state3 Aa: [[143  54]]
+In iteration 61 in the state4 Ma: [[143  54]] Mb: [[-14  -6]]
+In iteration 61 in the state5 Ma: [[39  5]] Aa: [[-14  -6]]
+In iteration 61 in the state6 Aa: [[10  0]]
+In iteration 61 in the state7 Aa: [[-4 -6]]
+In iteration 61 in the state8 Aa: [[-10 -21]]
+In iteration 61 in the state9 Ma: [[ -6 -13]]
+In iteration 61 in the state10 Aa: [[65 67]]
+In iteration 62 in the state1 Ma: [[32 33]] Aa: -54 Mb: 0
+In iteration 62 in the state2 Ma: [[19 19]] Mb: 0
+In iteration 62 in the state3 Aa: [[162  73]]
+In iteration 62 in the state4 Ma: [[162  73]] Mb: [[-18  -8]]
+In iteration 62 in the state5 Ma: [[51 10]] Aa: [[-18  -8]]
+In iteration 62 in the state6 Aa: [[16  1]]
+In iteration 62 in the state7 Aa: [[-2 -7]]
+In iteration 62 in the state8 Aa: [[-10 -24]]
+In iteration 62 in the state9 Ma: [[ -6 -15]]
+In iteration 62 in the state10 Aa: [[71 82]]
+In iteration 63 in the state1 Ma: [[35 41]] Aa: -59 Mb: 0
+In iteration 63 in the state2 Ma: [[20 24]] Mb: 0
+In iteration 63 in the state3 Aa: [[182  97]]
+In iteration 63 in the state4 Ma: [[182  97]] Mb: [[-21 -12]]
+In iteration 63 in the state5 Ma: [[64 18]] Aa: [[-21 -12]]
+In iteration 63 in the state6 Aa: [[22  3]]
+In iteration 63 in the state7 Aa: [[ 1 -9]]
+In iteration 63 in the state8 Aa: [[ -9 -28]]
+In iteration 63 in the state9 Ma: [[ -6 -17]]
+In iteration 63 in the state10 Aa: [[77 99]]
+In iteration 64 in the state1 Ma: [[38 49]] Aa: -64 Mb: 0
+In iteration 64 in the state2 Ma: [[22 29]] Mb: 0
+In iteration 64 in the state3 Aa: [[204 126]]
+In iteration 64 in the state4 Ma: [[204 126]] Mb: [[-26 -16]]
+In iteration 64 in the state5 Ma: [[81 31]] Aa: [[-26 -16]]
+In iteration 64 in the state6 Aa: [[32  7]]
+In iteration 64 in the state7 Aa: [[ 6 -9]]
+In iteration 64 in the state8 Aa: [[ -7 -30]]
+In iteration 64 in the state9 Ma: [[ -5 -18]]
+In iteration 64 in the state10 Aa: [[ 82 117]]
+In iteration 65 in the state1 Ma: [[41 58]] Aa: -69 Mb: 0
+In iteration 65 in the state2 Ma: [[24 34]] Mb: 0
+In iteration 65 in the state3 Aa: [[228 160]]
+In iteration 65 in the state4 Ma: [[228 160]] Mb: [[-31 -22]]
+In iteration 65 in the state5 Ma: [[101  50]] Aa: [[-31 -22]]
+In iteration 65 in the state6 Aa: [[44 15]]
+In iteration 65 in the state7 Aa: [[13 -7]]
+In iteration 65 in the state8 Aa: [[ -3 -30]]
+In iteration 65 in the state9 Ma: [[ -2 -18]]
+In iteration 65 in the state10 Aa: [[ 84 135]]
+In iteration 66 in the state1 Ma: [[42 67]] Aa: -74 Mb: 0
+In iteration 66 in the state2 Ma: [[25 40]] Mb: 0
+In iteration 66 in the state3 Aa: [[253 200]]
+In iteration 66 in the state4 Ma: [[253 200]] Mb: [[-37 -29]]
+In iteration 66 in the state5 Ma: [[125  78]] Aa: [[-37 -29]]
+In iteration 66 in the state6 Aa: [[61 30]]
+In iteration 66 in the state7 Aa: [[24  1]]
+In iteration 66 in the state8 Aa: [[  4 -25]]
+In iteration 66 in the state9 Ma: [[  2 -15]]
+In iteration 66 in the state10 Aa: [[ 82 150]]
+In iteration 67 in the state1 Ma: [[41 75]] Aa: -79 Mb: 0
+In iteration 67 in the state2 Ma: [[24 44]] Mb: 0
+In iteration 67 in the state3 Aa: [[277 244]]
+In iteration 67 in the state4 Ma: [[277 244]] Mb: [[-43 -38]]
+In iteration 67 in the state5 Ma: [[149 116]] Aa: [[-43 -38]]
+In iteration 67 in the state6 Aa: [[80 55]]
+In iteration 67 in the state7 Aa: [[37 17]]
+In iteration 67 in the state8 Aa: [[ 12 -11]]
+In iteration 67 in the state9 Ma: [[ 7 -7]]
+In iteration 67 in the state10 Aa: [[ 75 157]]
+In iteration 68 in the state1 Ma: [[37 78]] Aa: -84 Mb: 0
+In iteration 68 in the state2 Ma: [[22 46]] Mb: 0
+In iteration 68 in the state3 Aa: [[299 290]]
+In iteration 68 in the state4 Ma: [[299 290]] Mb: [[-50 -48]]
+In iteration 68 in the state5 Ma: [[174 164]] Aa: [[-50 -48]]
+In iteration 68 in the state6 Aa: [[101  92]]
+In iteration 68 in the state7 Aa: [[51 44]]
+In iteration 68 in the state8 Aa: [[22 14]]
+In iteration 68 in the state9 Ma: [[13  8]]
+In iteration 68 in the state10 Aa: [[ 62 149]]
+In iteration 69 in the state1 Ma: [[31 74]] Aa: -89 Mb: 0
+In iteration 69 in the state2 Ma: [[18 44]] Mb: 0
+In iteration 69 in the state3 Aa: [[317 334]]
+In iteration 69 in the state4 Ma: [[317 334]] Mb: [[-56 -59]]
+In iteration 69 in the state5 Ma: [[196 217]] Aa: [[-56 -59]]
+In iteration 69 in the state6 Aa: [[121 141]]
+In iteration 69 in the state7 Aa: [[65 82]]
+In iteration 69 in the state8 Aa: [[31 50]]
+In iteration 69 in the state9 Ma: [[18 29]]
+In iteration 69 in the state10 Aa: [[ 44 120]]
+In iteration 70 in the state1 Ma: [[22 60]] Aa: -94 Mb: 0
+In iteration 70 in the state2 Ma: [[13 35]] Mb: 0
+In iteration 70 in the state3 Aa: [[330 369]]
+In iteration 70 in the state4 Ma: [[330 369]] Mb: [[-61 -68]]
+In iteration 70 in the state5 Ma: [[212 265]] Aa: [[-61 -68]]
+In iteration 70 in the state6 Aa: [[136 190]]
+In iteration 70 in the state7 Aa: [[ 75 122]]
+In iteration 70 in the state8 Aa: [[38 89]]
+In iteration 70 in the state9 Ma: [[22 53]]
+In iteration 70 in the state10 Aa: [[22 67]]
+In iteration 71 in the state1 Ma: [[11 33]] Aa: -99 Mb: 0
+In iteration 71 in the state2 Ma: [[ 6 19]] Mb: 0
+In iteration 71 in the state3 Aa: [[336 388]]
+In iteration 71 in the state4 Ma: [[336 388]] Mb: [[-65 -76]]
+In iteration 71 in the state5 Ma: [[220 294]] Aa: [[-65 -76]]
+In iteration 71 in the state6 Aa: [[144 222]]
+In iteration 71 in the state7 Aa: [[ 79 146]]
+In iteration 71 in the state8 Aa: [[ 40 112]]
+In iteration 71 in the state9 Ma: [[23 67]]
+In iteration 71 in the state10 Aa: [[-1  0]]
+In iteration 72 in the state1 Ma: [[-1  0]] Aa: -104 Mb: 0
+In iteration 72 in the state2 Ma: [[-1  0]] Mb: 0
+In iteration 72 in the state3 Aa: [[335 388]]
+In iteration 72 in the state4 Ma: [[335 388]] Mb: [[-69 -79]]
+In iteration 72 in the state5 Ma: [[219 294]] Aa: [[-69 -79]]
+In iteration 72 in the state6 Aa: [[143 222]]
+In iteration 72 in the state7 Aa: [[ 74 143]]
+In iteration 72 in the state8 Aa: [[ 35 109]]
+In iteration 72 in the state9 Ma: [[20 65]]
+In iteration 72 in the state10 Aa: [[-21 -65]]
+In iteration 73 in the state1 Ma: [[-11 -33]] Aa: -109 Mb: 0
+In iteration 73 in the state2 Ma: [[ -7 -20]] Mb: 0
+In iteration 73 in the state3 Aa: [[328 368]]
+In iteration 73 in the state4 Ma: [[328 368]] Mb: [[-70 -79]]
+In iteration 73 in the state5 Ma: [[210 264]] Aa: [[-70 -79]]
+In iteration 73 in the state6 Aa: [[134 189]]
+In iteration 73 in the state7 Aa: [[ 64 110]]
+In iteration 73 in the state8 Aa: [[27 77]]
+In iteration 73 in the state9 Ma: [[16 46]]
+In iteration 73 in the state10 Aa: [[ -37 -111]]
+In iteration 74 in the state1 Ma: [[-19 -56]] Aa: -114 Mb: 0
+In iteration 74 in the state2 Ma: [[-12 -34]] Mb: 0
+In iteration 74 in the state3 Aa: [[316 334]]
+In iteration 74 in the state4 Ma: [[316 334]] Mb: [[-71 -75]]
+In iteration 74 in the state5 Ma: [[195 217]] Aa: [[-71 -75]]
+In iteration 74 in the state6 Aa: [[120 141]]
+In iteration 74 in the state7 Aa: [[49 66]]
+In iteration 74 in the state8 Aa: [[15 34]]
+In iteration 74 in the state9 Ma: [[ 8 20]]
+In iteration 74 in the state10 Aa: [[ -45 -131]]
+In iteration 75 in the state1 Ma: [[-23 -66]] Aa: -119 Mb: 0
+In iteration 75 in the state2 Ma: [[-14 -40]] Mb: 0
+In iteration 75 in the state3 Aa: [[302 294]]
+In iteration 75 in the state4 Ma: [[302 294]] Mb: [[-71 -69]]
+In iteration 75 in the state5 Ma: [[178 168]] Aa: [[-71 -69]]
+In iteration 75 in the state6 Aa: [[104  96]]
+In iteration 75 in the state7 Aa: [[33 27]]
+In iteration 75 in the state8 Aa: [[ 3 -4]]
+In iteration 75 in the state9 Ma: [[ 1 -3]]
+In iteration 75 in the state10 Aa: [[ -46 -128]]
+In iteration 76 in the state1 Ma: [[-23 -64]] Aa: -124 Mb: 0
+In iteration 76 in the state2 Ma: [[-14 -39]] Mb: 0
+In iteration 76 in the state3 Aa: [[288 255]]
+In iteration 76 in the state4 Ma: [[288 255]] Mb: [[-70 -62]]
+In iteration 76 in the state5 Ma: [[162 127]] Aa: [[-70 -62]]
+In iteration 76 in the state6 Aa: [[91 63]]
+In iteration 76 in the state7 Aa: [[21  1]]
+In iteration 76 in the state8 Aa: [[ -5 -28]]
+In iteration 76 in the state9 Ma: [[ -3 -17]]
+In iteration 76 in the state10 Aa: [[ -43 -111]]
+In iteration 77 in the state1 Ma: [[-22 -56]] Aa: -129 Mb: 0
+In iteration 77 in the state2 Ma: [[-14 -34]] Mb: 0
+In iteration 77 in the state3 Aa: [[274 221]]
+In iteration 77 in the state4 Ma: [[274 221]] Mb: [[-70 -56]]
+In iteration 77 in the state5 Ma: [[146  95]] Aa: [[-70 -56]]
+In iteration 77 in the state6 Aa: [[78 41]]
+In iteration 77 in the state7 Aa: [[  8 -15]]
+In iteration 77 in the state8 Aa: [[-15 -43]]
+In iteration 77 in the state9 Ma: [[ -9 -26]]
+In iteration 77 in the state10 Aa: [[-34 -85]]
+In iteration 78 in the state1 Ma: [[-17 -43]] Aa: -134 Mb: 0
+In iteration 78 in the state2 Ma: [[-11 -26]] Mb: 0
+In iteration 78 in the state3 Aa: [[263 195]]
+In iteration 78 in the state4 Ma: [[263 195]] Mb: [[-69 -52]]
+In iteration 78 in the state5 Ma: [[135  74]] Aa: [[-69 -52]]
+In iteration 78 in the state6 Aa: [[69 28]]
+In iteration 78 in the state7 Aa: [[  0 -24]]
+In iteration 78 in the state8 Aa: [[-20 -51]]
+In iteration 78 in the state9 Ma: [[-12 -31]]
+In iteration 78 in the state10 Aa: [[-22 -54]]
+In iteration 79 in the state1 Ma: [[-11 -27]] Aa: -139 Mb: 0
+In iteration 79 in the state2 Ma: [[ -7 -17]] Mb: 0
+In iteration 79 in the state3 Aa: [[256 178]]
+In iteration 79 in the state4 Ma: [[256 178]] Mb: [[-70 -49]]
+In iteration 79 in the state5 Ma: [[128  61]] Aa: [[-70 -49]]
+In iteration 79 in the state6 Aa: [[64 21]]
+In iteration 79 in the state7 Aa: [[ -6 -28]]
+In iteration 79 in the state8 Aa: [[-24 -54]]
+In iteration 79 in the state9 Ma: [[-15 -33]]
+In iteration 79 in the state10 Aa: [[ -7 -21]]
+In iteration 80 in the state1 Ma: [[ -4 -11]] Aa: -144 Mb: 0
+In iteration 80 in the state2 Ma: [[-3 -7]] Mb: 0
+In iteration 80 in the state3 Aa: [[253 171]]
+In iteration 80 in the state4 Ma: [[253 171]] Mb: [[-72 -49]]
+In iteration 80 in the state5 Ma: [[125  57]] Aa: [[-72 -49]]
+In iteration 80 in the state6 Aa: [[61 19]]
+In iteration 80 in the state7 Aa: [[-11 -30]]
+In iteration 80 in the state8 Aa: [[-29 -56]]
+In iteration 80 in the state9 Ma: [[-18 -34]]
+In iteration 80 in the state10 Aa: [[11 13]]
+In iteration 81 in the state1 Ma: [[5 6]] Aa: -149 Mb: 0
+In iteration 81 in the state2 Ma: [[2 3]] Mb: 0
+In iteration 81 in the state3 Aa: [[255 174]]
+In iteration 81 in the state4 Ma: [[255 174]] Mb: [[-75 -51]]
+In iteration 81 in the state5 Ma: [[127  59]] Aa: [[-75 -51]]
+In iteration 81 in the state6 Aa: [[63 20]]
+In iteration 81 in the state7 Aa: [[-12 -31]]
+In iteration 81 in the state8 Aa: [[-30 -57]]
+In iteration 81 in the state9 Ma: [[-18 -35]]
+In iteration 81 in the state10 Aa: [[29 48]]
+In iteration 82 in the state1 Ma: [[14 24]] Aa: -154 Mb: 0
+In iteration 82 in the state2 Ma: [[ 8 14]] Mb: 0
+In iteration 82 in the state3 Aa: [[263 188]]
+In iteration 82 in the state4 Ma: [[263 188]] Mb: [[-80 -57]]
+In iteration 82 in the state5 Ma: [[135  69]] Aa: [[-80 -57]]
+In iteration 82 in the state6 Aa: [[69 25]]
+In iteration 82 in the state7 Aa: [[-11 -32]]
+In iteration 82 in the state8 Aa: [[-30 -59]]
+In iteration 82 in the state9 Ma: [[-18 -36]]
+In iteration 82 in the state10 Aa: [[47 84]]
+In iteration 83 in the state1 Ma: [[23 42]] Aa: -159 Mb: 0
+In iteration 83 in the state2 Ma: [[13 25]] Mb: 0
+In iteration 83 in the state3 Aa: [[276 213]]
+In iteration 83 in the state4 Ma: [[276 213]] Mb: [[-86 -67]]
+In iteration 83 in the state5 Ma: [[148  88]] Aa: [[-86 -67]]
+In iteration 83 in the state6 Aa: [[79 36]]
+In iteration 83 in the state7 Aa: [[ -7 -31]]
+In iteration 83 in the state8 Aa: [[-29 -59]]
+In iteration 83 in the state9 Ma: [[-18 -36]]
+In iteration 83 in the state10 Aa: [[ 65 120]]
+In iteration 84 in the state1 Ma: [[32 60]] Aa: -164 Mb: 0
+In iteration 84 in the state2 Ma: [[19 35]] Mb: 0
+In iteration 84 in the state3 Aa: [[295 248]]
+In iteration 84 in the state4 Ma: [[295 248]] Mb: [[-95 -80]]
+In iteration 84 in the state5 Ma: [[169 120]] Aa: [[-95 -80]]
+In iteration 84 in the state6 Aa: [[97 58]]
+In iteration 84 in the state7 Aa: [[  2 -22]]
+In iteration 84 in the state8 Aa: [[-23 -52]]
+In iteration 84 in the state9 Ma: [[-14 -32]]
+In iteration 84 in the state10 Aa: [[ 79 152]]
+In iteration 85 in the state1 Ma: [[39 76]] Aa: -169 Mb: 0
+In iteration 85 in the state2 Ma: [[23 45]] Mb: 0
+In iteration 85 in the state3 Aa: [[318 293]]
+In iteration 85 in the state4 Ma: [[318 293]] Mb: [[-105  -97]]
+In iteration 85 in the state5 Ma: [[197 167]] Aa: [[-105  -97]]
+In iteration 85 in the state6 Aa: [[122  95]]
+In iteration 85 in the state7 Aa: [[17 -2]]
+In iteration 85 in the state8 Aa: [[-13 -34]]
+In iteration 85 in the state9 Ma: [[ -8 -21]]
+In iteration 85 in the state10 Aa: [[ 87 173]]
+In iteration 86 in the state1 Ma: [[43 86]] Aa: -174 Mb: 0
+In iteration 86 in the state2 Ma: [[25 51]] Mb: 0
+In iteration 86 in the state3 Aa: [[343 344]]
+In iteration 86 in the state4 Ma: [[343 344]] Mb: [[-117 -117]]
+In iteration 86 in the state5 Ma: [[229 231]] Aa: [[-117 -117]]
+In iteration 86 in the state6 Aa: [[153 155]]
+In iteration 86 in the state7 Aa: [[36 38]]
+In iteration 86 in the state8 Aa: [[1 3]]
+In iteration 86 in the state9 Ma: [[0 1]]
+In iteration 86 in the state10 Aa: [[ 87 172]]
+In iteration 87 in the state1 Ma: [[43 86]] Aa: -179 Mb: 0
+In iteration 87 in the state2 Ma: [[25 51]] Mb: 0
+In iteration 87 in the state3 Aa: [[368 395]]
+In iteration 87 in the state4 Ma: [[368 395]] Mb: [[-129 -139]]
+In iteration 87 in the state5 Ma: [[264 304]] Aa: [[-129 -139]]
+In iteration 87 in the state6 Aa: [[189 234]]
+In iteration 87 in the state7 Aa: [[60 95]]
+In iteration 87 in the state8 Aa: [[20 58]]
+In iteration 87 in the state9 Ma: [[11 34]]
+In iteration 87 in the state10 Aa: [[ 76 138]]
+In iteration 88 in the state1 Ma: [[38 69]] Aa: -184 Mb: 0
+In iteration 88 in the state2 Ma: [[22 41]] Mb: 0
+In iteration 88 in the state3 Aa: [[390 436]]
+In iteration 88 in the state4 Ma: [[390 436]] Mb: [[-141 -157]]
+In iteration 88 in the state5 Ma: [[297 371]] Aa: [[-141 -157]]
+In iteration 88 in the state6 Aa: [[226 315]]
+In iteration 88 in the state7 Aa: [[ 85 158]]
+In iteration 88 in the state8 Aa: [[ 41 119]]
+In iteration 88 in the state9 Ma: [[24 71]]
+In iteration 88 in the state10 Aa: [[52 67]]
+In iteration 89 in the state1 Ma: [[26 33]] Aa: -189 Mb: 0
+In iteration 89 in the state2 Ma: [[15 19]] Mb: 0
+In iteration 89 in the state3 Aa: [[405 455]]
+In iteration 89 in the state4 Ma: [[405 455]] Mb: [[-150 -168]]
+In iteration 89 in the state5 Ma: [[320 404]] Aa: [[-150 -168]]
+In iteration 89 in the state6 Aa: [[253 359]]
+In iteration 89 in the state7 Aa: [[103 191]]
+In iteration 89 in the state8 Aa: [[ 57 150]]
+In iteration 89 in the state9 Ma: [[34 89]]
+In iteration 89 in the state10 Aa: [[ 18 -22]]
+In iteration 90 in the state1 Ma: [[  9 -11]] Aa: -194 Mb: 0
+In iteration 90 in the state2 Ma: [[ 5 -7]] Mb: 0
+In iteration 90 in the state3 Aa: [[410 448]]
+In iteration 90 in the state4 Ma: [[410 448]] Mb: [[-156 -170]]
+In iteration 90 in the state5 Ma: [[328 392]] Aa: [[-156 -170]]
+In iteration 90 in the state6 Aa: [[262 343]]
+In iteration 90 in the state7 Aa: [[106 173]]
+In iteration 90 in the state8 Aa: [[ 61 132]]
+In iteration 90 in the state9 Ma: [[36 79]]
+In iteration 90 in the state10 Aa: [[ -18 -101]]
+In iteration 91 in the state1 Ma: [[ -9 -51]] Aa: -199 Mb: 0
+In iteration 91 in the state2 Ma: [[ -6 -31]] Mb: 0
+In iteration 91 in the state3 Aa: [[404 417]]
+In iteration 91 in the state4 Ma: [[404 417]] Mb: [[-158 -163]]
+In iteration 91 in the state5 Ma: [[318 339]] Aa: [[-158 -163]]
+In iteration 91 in the state6 Aa: [[250 276]]
+In iteration 91 in the state7 Aa: [[ 92 113]]
+In iteration 91 in the state8 Aa: [[50 72]]
+In iteration 91 in the state9 Ma: [[29 43]]
+In iteration 91 in the state10 Aa: [[ -47 -144]]
+In iteration 92 in the state1 Ma: [[-24 -72]] Aa: -204 Mb: 0
+In iteration 92 in the state2 Ma: [[-15 -44]] Mb: 0
+In iteration 92 in the state3 Aa: [[389 373]]
+In iteration 92 in the state4 Ma: [[389 373]] Mb: [[-155 -149]]
+In iteration 92 in the state5 Ma: [[295 271]] Aa: [[-155 -149]]
+In iteration 92 in the state6 Aa: [[224 197]]
+In iteration 92 in the state7 Aa: [[69 48]]
+In iteration 92 in the state8 Aa: [[31  9]]
+In iteration 92 in the state9 Ma: [[18  5]]
+In iteration 92 in the state10 Aa: [[ -65 -149]]
+In iteration 93 in the state1 Ma: [[-33 -75]] Aa: -209 Mb: 0
+In iteration 93 in the state2 Ma: [[-20 -45]] Mb: 0
+In iteration 93 in the state3 Aa: [[369 328]]
+In iteration 93 in the state4 Ma: [[369 328]] Mb: [[-151 -134]]
+In iteration 93 in the state5 Ma: [[265 210]] Aa: [[-151 -134]]
+In iteration 93 in the state6 Aa: [[190 134]]
+In iteration 93 in the state7 Aa: [[39  0]]
+In iteration 93 in the state8 Aa: [[  6 -37]]
+In iteration 93 in the state9 Ma: [[  3 -23]]
+In iteration 93 in the state10 Aa: [[ -68 -126]]
+In iteration 94 in the state1 Ma: [[-34 -63]] Aa: -214 Mb: 0
+In iteration 94 in the state2 Ma: [[-21 -38]] Mb: 0
+In iteration 94 in the state3 Aa: [[348 290]]
+In iteration 94 in the state4 Ma: [[348 290]] Mb: [[-146 -122]]
+In iteration 94 in the state5 Ma: [[236 164]] Aa: [[-146 -122]]
+In iteration 94 in the state6 Aa: [[160  92]]
+In iteration 94 in the state7 Aa: [[ 14 -30]]
+In iteration 94 in the state8 Aa: [[-15 -65]]
+In iteration 94 in the state9 Ma: [[ -9 -39]]
+In iteration 94 in the state10 Aa: [[-59 -87]]
+In iteration 95 in the state1 Ma: [[-30 -44]] Aa: -219 Mb: 0
+In iteration 95 in the state2 Ma: [[-18 -27]] Mb: 0
+In iteration 95 in the state3 Aa: [[330 263]]
+In iteration 95 in the state4 Ma: [[330 263]] Mb: [[-142 -113]]
+In iteration 95 in the state5 Ma: [[212 135]] Aa: [[-142 -113]]
+In iteration 95 in the state6 Aa: [[136  69]]
+In iteration 95 in the state7 Aa: [[ -6 -44]]
+In iteration 95 in the state8 Aa: [[-33 -77]]
+In iteration 95 in the state9 Ma: [[-20 -47]]
+In iteration 95 in the state10 Aa: [[-39 -40]]
+In iteration 96 in the state1 Ma: [[-20 -20]] Aa: -224 Mb: 0
+In iteration 96 in the state2 Ma: [[-12 -12]] Mb: 0
+In iteration 96 in the state3 Aa: [[318 251]]
+In iteration 96 in the state4 Ma: [[318 251]] Mb: [[-140 -110]]
+In iteration 96 in the state5 Ma: [[197 123]] Aa: [[-140 -110]]
+In iteration 96 in the state6 Aa: [[122  60]]
+In iteration 96 in the state7 Aa: [[-18 -50]]
+In iteration 96 in the state8 Aa: [[-44 -82]]
+In iteration 96 in the state9 Ma: [[-27 -50]]
+In iteration 96 in the state10 Aa: [[-12  10]]
+In iteration 97 in the state1 Ma: [[-6  5]] Aa: -229 Mb: 0
+In iteration 97 in the state2 Ma: [[-4  2]] Mb: 0
+In iteration 97 in the state3 Aa: [[314 253]]
+In iteration 97 in the state4 Ma: [[314 253]] Mb: [[-141 -114]]
+In iteration 97 in the state5 Ma: [[192 125]] Aa: [[-141 -114]]
+In iteration 97 in the state6 Aa: [[117  61]]
+In iteration 97 in the state7 Aa: [[-24 -53]]
+In iteration 97 in the state8 Aa: [[-50 -85]]
+In iteration 97 in the state9 Ma: [[-30 -51]]
+In iteration 97 in the state10 Aa: [[18 61]]
+In iteration 98 in the state1 Ma: [[ 9 30]] Aa: -234 Mb: 0
+In iteration 98 in the state2 Ma: [[ 5 17]] Mb: 0
+In iteration 98 in the state3 Aa: [[319 270]]
+In iteration 98 in the state4 Ma: [[319 270]] Mb: [[-146 -124]]
+In iteration 98 in the state5 Ma: [[198 142]] Aa: [[-146 -124]]
+In iteration 98 in the state6 Aa: [[123  74]]
+In iteration 98 in the state7 Aa: [[-23 -50]]
+In iteration 98 in the state8 Aa: [[-50 -82]]
+In iteration 98 in the state9 Ma: [[-30 -50]]
+In iteration 98 in the state10 Aa: [[ 48 111]]
+In iteration 99 in the state1 Ma: [[24 55]] Aa: -239 Mb: 0
+In iteration 99 in the state2 Ma: [[14 32]] Mb: 0
+In iteration 99 in the state3 Aa: [[333 302]]
+In iteration 99 in the state4 Ma: [[333 302]] Mb: [[-156 -141]]
+In iteration 99 in the state5 Ma: [[216 178]] Aa: [[-156 -141]]
+In iteration 99 in the state6 Aa: [[140 104]]
+In iteration 99 in the state7 Aa: [[-16 -37]]
+In iteration 99 in the state8 Aa: [[-47 -71]]
+In iteration 99 in the state9 Ma: [[-29 -43]]
+In iteration 99 in the state10 Aa: [[ 77 154]]
+In iteration 100 in the state1 Ma: [[38 77]] Aa: -244 Mb: 0
+In iteration 100 in the state2 Ma: [[22 46]] Mb: 0
+In iteration 100 in the state3 Aa: [[355 348]]
+In iteration 100 in the state4 Ma: [[355 348]] Mb: [[-170 -166]]
+In iteration 100 in the state5 Ma: [[246 236]] Aa: [[-170 -166]]
+In iteration 100 in the state6 Aa: [[170 160]]
+In iteration 100 in the state7 Aa: [[ 0 -6]]
+In iteration 100 in the state8 Aa: [[-35 -42]]
+In iteration 100 in the state9 Ma: [[-21 -26]]
+In iteration 100 in the state10 Aa: [[ 98 180]]
+In iteration 101 in the state1 Ma: [[49 90]] Aa: -249 Mb: 0
+In iteration 101 in the state2 Ma: [[29 53]] Mb: 0
+In iteration 101 in the state3 Aa: [[384 401]]
+In iteration 101 in the state4 Ma: [[384 401]] Mb: [[-187 -196]]
+In iteration 101 in the state5 Ma: [[288 314]] Aa: [[-187 -196]]
+In iteration 101 in the state6 Aa: [[216 245]]
+In iteration 101 in the state7 Aa: [[29 49]]
+In iteration 101 in the state8 Aa: [[-11  10]]
+In iteration 101 in the state9 Ma: [[-7  5]]
+In iteration 101 in the state10 Aa: [[105 175]]
+In iteration 102 in the state1 Ma: [[52 87]] Aa: -254 Mb: 0
+In iteration 102 in the state2 Ma: [[31 52]] Mb: 0
+In iteration 102 in the state3 Aa: [[415 453]]
+In iteration 102 in the state4 Ma: [[415 453]] Mb: [[-206 -225]]
+In iteration 102 in the state5 Ma: [[336 400]] Aa: [[-206 -225]]
+In iteration 102 in the state6 Aa: [[272 353]]
+In iteration 102 in the state7 Aa: [[ 66 128]]
+In iteration 102 in the state8 Aa: [[20 86]]
+In iteration 102 in the state9 Ma: [[11 51]]
+In iteration 102 in the state10 Aa: [[ 94 124]]
+In iteration 103 in the state1 Ma: [[47 62]] Aa: -259 Mb: 0
+In iteration 103 in the state2 Ma: [[28 37]] Mb: 0
+In iteration 103 in the state3 Aa: [[443 490]]
+In iteration 103 in the state4 Ma: [[443 490]] Mb: [[-225 -248]]
+In iteration 103 in the state5 Ma: [[383 468]] Aa: [[-225 -248]]
+In iteration 103 in the state6 Aa: [[331 447]]
+In iteration 103 in the state7 Aa: [[106 199]]
+In iteration 103 in the state8 Aa: [[ 57 154]]
+In iteration 103 in the state9 Ma: [[34 92]]
+In iteration 103 in the state10 Aa: [[60 32]]
+In iteration 104 in the state1 Ma: [[30 16]] Aa: -264 Mb: 0
+In iteration 104 in the state2 Ma: [[17  9]] Mb: 0
+In iteration 104 in the state3 Aa: [[460 499]]
+In iteration 104 in the state4 Ma: [[460 499]] Mb: [[-238 -258]]
+In iteration 104 in the state5 Ma: [[413 486]] Aa: [[-238 -258]]
+In iteration 104 in the state6 Aa: [[371 473]]
+In iteration 104 in the state7 Aa: [[133 215]]
+In iteration 104 in the state8 Aa: [[ 83 169]]
+In iteration 104 in the state9 Ma: [[ 49 101]]
+In iteration 104 in the state10 Aa: [[ 11 -69]]
+In iteration 105 in the state1 Ma: [[  5 -35]] Aa: -269 Mb: 0
+In iteration 105 in the state2 Ma: [[  2 -21]] Mb: 0
+In iteration 105 in the state3 Aa: [[462 478]]
+In iteration 105 in the state4 Ma: [[462 478]] Mb: [[-243 -252]]
+In iteration 105 in the state5 Ma: [[416 446]] Aa: [[-243 -252]]
+In iteration 105 in the state6 Aa: [[375 416]]
+In iteration 105 in the state7 Aa: [[132 164]]
+In iteration 105 in the state8 Aa: [[ 84 117]]
+In iteration 105 in the state9 Ma: [[50 70]]
+In iteration 105 in the state10 Aa: [[ -39 -139]]
+In iteration 106 in the state1 Ma: [[-20 -70]] Aa: -274 Mb: 0
+In iteration 106 in the state2 Ma: [[-12 -42]] Mb: 0
+In iteration 106 in the state3 Aa: [[450 436]]
+In iteration 106 in the state4 Ma: [[450 436]] Mb: [[-241 -234]]
+In iteration 106 in the state5 Ma: [[395 371]] Aa: [[-241 -234]]
+In iteration 106 in the state6 Aa: [[347 315]]
+In iteration 106 in the state7 Aa: [[106  81]]
+In iteration 106 in the state8 Aa: [[62 36]]
+In iteration 106 in the state9 Ma: [[37 21]]
+In iteration 106 in the state10 Aa: [[ -76 -160]]
+In iteration 107 in the state1 Ma: [[-38 -80]] Aa: -279 Mb: 0
+In iteration 107 in the state2 Ma: [[-23 -48]] Mb: 0
+In iteration 107 in the state3 Aa: [[427 388]]
+In iteration 107 in the state4 Ma: [[427 388]] Mb: [[-233 -212]]
+In iteration 107 in the state5 Ma: [[356 294]] Aa: [[-233 -212]]
+In iteration 107 in the state6 Aa: [[296 222]]
+In iteration 107 in the state7 Aa: [[63 10]]
+In iteration 107 in the state8 Aa: [[ 24 -33]]
+In iteration 107 in the state9 Ma: [[ 14 -20]]
+In iteration 107 in the state10 Aa: [[ -90 -140]]
+In iteration 108 in the state1 Ma: [[-45 -70]] Aa: -284 Mb: 0
+In iteration 108 in the state2 Ma: [[-27 -42]] Mb: 0
+In iteration 108 in the state3 Aa: [[400 346]]
+In iteration 108 in the state4 Ma: [[400 346]] Mb: [[-222 -192]]
+In iteration 108 in the state5 Ma: [[312 233]] Aa: [[-222 -192]]
+In iteration 108 in the state6 Aa: [[243 157]]
+In iteration 108 in the state7 Aa: [[ 21 -35]]
+In iteration 108 in the state8 Aa: [[-14 -75]]
+In iteration 108 in the state9 Ma: [[ -9 -45]]
+In iteration 108 in the state10 Aa: [[-81 -95]]
+In iteration 109 in the state1 Ma: [[-41 -48]] Aa: -289 Mb: 0
+In iteration 109 in the state2 Ma: [[-25 -29]] Mb: 0
+In iteration 109 in the state3 Aa: [[375 317]]
+In iteration 109 in the state4 Ma: [[375 317]] Mb: [[-212 -179]]
+In iteration 109 in the state5 Ma: [[274 196]] Aa: [[-212 -179]]
+In iteration 109 in the state6 Aa: [[200 121]]
+In iteration 109 in the state7 Aa: [[-12 -58]]
+In iteration 109 in the state8 Aa: [[-44 -96]]
+In iteration 109 in the state9 Ma: [[-27 -58]]
+In iteration 109 in the state10 Aa: [[-54 -37]]
+In iteration 110 in the state1 Ma: [[-27 -19]] Aa: -294 Mb: 0
+In iteration 110 in the state2 Ma: [[-17 -12]] Mb: 0
+In iteration 110 in the state3 Aa: [[358 305]]
+In iteration 110 in the state4 Ma: [[358 305]] Mb: [[-206 -176]]
+In iteration 110 in the state5 Ma: [[250 181]] Aa: [[-206 -176]]
+In iteration 110 in the state6 Aa: [[174 107]]
+In iteration 110 in the state7 Aa: [[-32 -69]]
+In iteration 110 in the state8 Aa: [[ -63 -105]]
+In iteration 110 in the state9 Ma: [[-38 -63]]
+In iteration 110 in the state10 Aa: [[-16  26]]
+In iteration 111 in the state1 Ma: [[-8 13]] Aa: -299 Mb: 0
+In iteration 111 in the state2 Ma: [[-5  7]] Mb: 0
+In iteration 111 in the state3 Aa: [[353 312]]
+In iteration 111 in the state4 Ma: [[353 312]] Mb: [[-207 -183]]
+In iteration 111 in the state5 Ma: [[243 190]] Aa: [[-207 -183]]
+In iteration 111 in the state6 Aa: [[167 115]]
+In iteration 111 in the state7 Aa: [[-40 -68]]
+In iteration 111 in the state8 Aa: [[ -72 -104]]
+In iteration 111 in the state9 Ma: [[-44 -63]]
+In iteration 111 in the state10 Aa: [[28 89]]
+In iteration 112 in the state1 Ma: [[14 44]] Aa: -304 Mb: 0
+In iteration 112 in the state2 Ma: [[ 8 26]] Mb: 0
+In iteration 112 in the state3 Aa: [[361 338]]
+In iteration 112 in the state4 Ma: [[361 338]] Mb: [[-215 -201]]
+In iteration 112 in the state5 Ma: [[254 223]] Aa: [[-215 -201]]
+In iteration 112 in the state6 Aa: [[179 147]]
+In iteration 112 in the state7 Aa: [[-36 -54]]
+In iteration 112 in the state8 Aa: [[-70 -90]]
+In iteration 112 in the state9 Ma: [[-42 -54]]
+In iteration 112 in the state10 Aa: [[ 70 143]]
+In iteration 113 in the state1 Ma: [[35 71]] Aa: -309 Mb: 0
+In iteration 113 in the state2 Ma: [[20 42]] Mb: 0
+In iteration 113 in the state3 Aa: [[381 380]]
+In iteration 113 in the state4 Ma: [[381 380]] Mb: [[-230 -230]]
+In iteration 113 in the state5 Ma: [[283 282]] Aa: [[-230 -230]]
+In iteration 113 in the state6 Aa: [[210 209]]
+In iteration 113 in the state7 Aa: [[-20 -21]]
+In iteration 113 in the state8 Aa: [[-58 -59]]
+In iteration 113 in the state9 Ma: [[-35 -36]]
+In iteration 113 in the state10 Aa: [[105 179]]
+In iteration 114 in the state1 Ma: [[52 89]] Aa: -314 Mb: 0
+In iteration 114 in the state2 Ma: [[31 53]] Mb: 0
+In iteration 114 in the state3 Aa: [[412 433]]
+In iteration 114 in the state4 Ma: [[412 433]] Mb: [[-253 -266]]
+In iteration 114 in the state5 Ma: [[331 366]] Aa: [[-253 -266]]
+In iteration 114 in the state6 Aa: [[266 309]]
+In iteration 114 in the state7 Aa: [[13 43]]
+In iteration 114 in the state8 Aa: [[-31   1]]
+In iteration 114 in the state9 Ma: [[-19   0]]
+In iteration 114 in the state10 Aa: [[124 179]]
+In iteration 115 in the state1 Ma: [[62 89]] Aa: -319 Mb: 0
+In iteration 115 in the state2 Ma: [[37 53]] Mb: 0
+In iteration 115 in the state3 Aa: [[449 486]]
+In iteration 115 in the state4 Ma: [[449 486]] Mb: [[-280 -303]]
+In iteration 115 in the state5 Ma: [[393 461]] Aa: [[-280 -303]]
+In iteration 115 in the state6 Aa: [[344 437]]
+In iteration 115 in the state7 Aa: [[ 64 134]]
+In iteration 115 in the state8 Aa: [[15 89]]
+In iteration 115 in the state9 Ma: [[ 8 53]]
+In iteration 115 in the state10 Aa: [[116 126]]
+In iteration 116 in the state1 Ma: [[58 63]] Aa: -324 Mb: 0
+In iteration 116 in the state2 Ma: [[34 37]] Mb: 0
+In iteration 116 in the state3 Aa: [[483 523]]
+In iteration 116 in the state4 Ma: [[483 523]] Mb: [[-306 -331]]
+In iteration 116 in the state5 Ma: [[455 534]] Aa: [[-306 -331]]
+In iteration 116 in the state6 Aa: [[429 545]]
+In iteration 116 in the state7 Aa: [[123 214]]
+In iteration 116 in the state8 Aa: [[ 70 165]]
+In iteration 116 in the state9 Ma: [[41 98]]
+In iteration 116 in the state10 Aa: [[75 28]]
+In iteration 117 in the state1 Ma: [[37 14]] Aa: -329 Mb: 0
+In iteration 117 in the state2 Ma: [[22  8]] Mb: 0
+In iteration 117 in the state3 Aa: [[505 531]]
+In iteration 117 in the state4 Ma: [[505 531]] Mb: [[-325 -342]]
+In iteration 117 in the state5 Ma: [[498 550]] Aa: [[-325 -342]]
+In iteration 117 in the state6 Aa: [[491 570]]
+In iteration 117 in the state7 Aa: [[166 228]]
+In iteration 117 in the state8 Aa: [[113 177]]
+In iteration 117 in the state9 Ma: [[ 67 106]]
+In iteration 117 in the state10 Aa: [[  8 -78]]
+In iteration 118 in the state1 Ma: [[  4 -39]] Aa: -334 Mb: 0
+In iteration 118 in the state2 Ma: [[  2 -24]] Mb: 0
+In iteration 118 in the state3 Aa: [[507 507]]
+In iteration 118 in the state4 Ma: [[507 507]] Mb: [[-331 -331]]
+In iteration 118 in the state5 Ma: [[502 502]] Aa: [[-331 -331]]
+In iteration 118 in the state6 Aa: [[497 497]]
+In iteration 118 in the state7 Aa: [[166 166]]
+In iteration 118 in the state8 Aa: [[115 115]]
+In iteration 118 in the state9 Ma: [[68 68]]
+In iteration 118 in the state10 Aa: [[ -60 -146]]
+In iteration 119 in the state1 Ma: [[-30 -73]] Aa: -339 Mb: 0
+In iteration 119 in the state2 Ma: [[-18 -44]] Mb: 0
+In iteration 119 in the state3 Aa: [[489 463]]
+In iteration 119 in the state4 Ma: [[489 463]] Mb: [[-324 -307]]
+In iteration 119 in the state5 Ma: [[467 418]] Aa: [[-324 -307]]
+In iteration 119 in the state6 Aa: [[446 377]]
+In iteration 119 in the state7 Aa: [[122  70]]
+In iteration 119 in the state8 Aa: [[75 21]]
+In iteration 119 in the state9 Ma: [[44 12]]
+In iteration 119 in the state10 Aa: [[-104 -158]]
+In iteration 120 in the state1 Ma: [[-52 -79]] Aa: -344 Mb: 0
+In iteration 120 in the state2 Ma: [[-32 -48]] Mb: 0
+In iteration 120 in the state3 Aa: [[457 415]]
+In iteration 120 in the state4 Ma: [[457 415]] Mb: [[-308 -279]]
+In iteration 120 in the state5 Ma: [[407 336]] Aa: [[-308 -279]]
+In iteration 120 in the state6 Aa: [[363 272]]
+In iteration 120 in the state7 Aa: [[55 -7]]
+In iteration 120 in the state8 Aa: [[ 13 -53]]
+In iteration 120 in the state9 Ma: [[  7 -32]]
+In iteration 120 in the state10 Aa: [[-111 -126]]
+In iteration 121 in the state1 Ma: [[-56 -63]] Aa: -349 Mb: 0
+In iteration 121 in the state2 Ma: [[-34 -38]] Mb: 0
+In iteration 121 in the state3 Aa: [[423 377]]
+In iteration 121 in the state4 Ma: [[423 377]] Mb: [[-289 -257]]
+In iteration 121 in the state5 Ma: [[349 277]] Aa: [[-289 -257]]
+In iteration 121 in the state6 Aa: [[288 203]]
+In iteration 121 in the state7 Aa: [[ -1 -54]]
+In iteration 121 in the state8 Aa: [[-39 -97]]
+In iteration 121 in the state9 Ma: [[-24 -59]]
+In iteration 121 in the state10 Aa: [[-87 -67]]
+In iteration 122 in the state1 Ma: [[-44 -34]] Aa: -354 Mb: 0
+In iteration 122 in the state2 Ma: [[-27 -21]] Mb: 0
+In iteration 122 in the state3 Aa: [[396 356]]
+In iteration 122 in the state4 Ma: [[396 356]] Mb: [[-274 -247]]
+In iteration 122 in the state5 Ma: [[306 247]] Aa: [[-274 -247]]
+In iteration 122 in the state6 Aa: [[236 171]]
+In iteration 122 in the state7 Aa: [[-38 -76]]
+In iteration 122 in the state8 Aa: [[ -74 -116]]
+In iteration 122 in the state9 Ma: [[-45 -70]]
+In iteration 122 in the state10 Aa: [[-42   3]]
+In iteration 123 in the state1 Ma: [[-21   1]] Aa: -359 Mb: 0
+In iteration 123 in the state2 Ma: [[-13   0]] Mb: 0
+In iteration 123 in the state3 Aa: [[383 356]]
+In iteration 123 in the state4 Ma: [[383 356]] Mb: [[-269 -250]]
+In iteration 123 in the state5 Ma: [[286 247]] Aa: [[-269 -250]]
+In iteration 123 in the state6 Aa: [[213 171]]
+In iteration 123 in the state7 Aa: [[-56 -79]]
+In iteration 123 in the state8 Aa: [[ -92 -118]]
+In iteration 123 in the state9 Ma: [[-56 -71]]
+In iteration 123 in the state10 Aa: [[14 74]]
+In iteration 124 in the state1 Ma: [[ 7 37]] Aa: -364 Mb: 0
+In iteration 124 in the state2 Ma: [[ 4 22]] Mb: 0
+In iteration 124 in the state3 Aa: [[387 378]]
+In iteration 124 in the state4 Ma: [[387 378]] Mb: [[-276 -269]]
+In iteration 124 in the state5 Ma: [[292 279]] Aa: [[-276 -269]]
+In iteration 124 in the state6 Aa: [[220 205]]
+In iteration 124 in the state7 Aa: [[-56 -64]]
+In iteration 124 in the state8 Aa: [[ -94 -103]]
+In iteration 124 in the state9 Ma: [[-57 -62]]
+In iteration 124 in the state10 Aa: [[ 71 136]]
+In iteration 125 in the state1 Ma: [[35 68]] Aa: -369 Mb: 0
+In iteration 125 in the state2 Ma: [[20 40]] Mb: 0
+In iteration 125 in the state3 Aa: [[407 418]]
+In iteration 125 in the state4 Ma: [[407 418]] Mb: [[-294 -302]]
+In iteration 125 in the state5 Ma: [[323 341]] Aa: [[-294 -302]]
+In iteration 125 in the state6 Aa: [[256 278]]
+In iteration 125 in the state7 Aa: [[-38 -24]]
+In iteration 125 in the state8 Aa: [[-80 -65]]
+In iteration 125 in the state9 Ma: [[-48 -39]]
+In iteration 125 in the state10 Aa: [[119 175]]
+In iteration 126 in the state1 Ma: [[59 87]] Aa: -374 Mb: 0
+In iteration 126 in the state2 Ma: [[35 52]] Mb: 0
+In iteration 126 in the state3 Aa: [[442 470]]
+In iteration 126 in the state4 Ma: [[442 470]] Mb: [[-323 -344]]
+In iteration 126 in the state5 Ma: [[381 431]] Aa: [[-323 -344]]
+In iteration 126 in the state6 Aa: [[328 395]]
+In iteration 126 in the state7 Aa: [[ 5 51]]
+In iteration 126 in the state8 Aa: [[-42   6]]
+In iteration 126 in the state9 Ma: [[-26   3]]
+In iteration 126 in the state10 Aa: [[145 172]]
+In iteration 127 in the state1 Ma: [[72 86]] Aa: -379 Mb: 0
+In iteration 127 in the state2 Ma: [[43 51]] Mb: 0
+In iteration 127 in the state3 Aa: [[485 521]]
+In iteration 127 in the state4 Ma: [[485 521]] Mb: [[-360 -386]]
+In iteration 127 in the state5 Ma: [[459 530]] Aa: [[-360 -386]]
+In iteration 127 in the state6 Aa: [[434 539]]
+In iteration 127 in the state7 Aa: [[ 74 153]]
+In iteration 127 in the state8 Aa: [[ 22 104]]
+In iteration 127 in the state9 Ma: [[13 62]]
+In iteration 127 in the state10 Aa: [[132 110]]
+In iteration 128 in the state1 Ma: [[66 55]] Aa: -384 Mb: 0
+In iteration 128 in the state2 Ma: [[39 32]] Mb: 0
+In iteration 128 in the state3 Aa: [[524 553]]
+In iteration 128 in the state4 Ma: [[524 553]] Mb: [[-393 -415]]
+In iteration 128 in the state5 Ma: [[536 597]] Aa: [[-393 -415]]
+In iteration 128 in the state6 Aa: [[548 644]]
+In iteration 128 in the state7 Aa: [[155 229]]
+In iteration 128 in the state8 Aa: [[ 99 176]]
+In iteration 128 in the state9 Ma: [[ 59 105]]
+In iteration 128 in the state10 Aa: [[73  5]]
+In iteration 129 in the state1 Ma: [[36  2]] Aa: -389 Mb: 0
+In iteration 129 in the state2 Ma: [[21  1]] Mb: 0
+In iteration 129 in the state3 Aa: [[545 554]]
+In iteration 129 in the state4 Ma: [[545 554]] Mb: [[-415 -421]]
+In iteration 129 in the state5 Ma: [[580 599]] Aa: [[-415 -421]]
+In iteration 129 in the state6 Aa: [[617 648]]
+In iteration 129 in the state7 Aa: [[202 227]]
+In iteration 129 in the state8 Aa: [[146 172]]
+In iteration 129 in the state9 Ma: [[ 87 103]]
+In iteration 129 in the state10 Aa: [[-14 -98]]
+In iteration 130 in the state1 Ma: [[ -7 -49]] Aa: -394 Mb: 0
+In iteration 130 in the state2 Ma: [[ -5 -30]] Mb: 0
+In iteration 130 in the state3 Aa: [[540 524]]
+In iteration 130 in the state4 Ma: [[540 524]] Mb: [[-416 -404]]
+In iteration 130 in the state5 Ma: [[569 536]] Aa: [[-416 -404]]
+In iteration 130 in the state6 Aa: [[600 548]]
+In iteration 130 in the state7 Aa: [[184 144]]
+In iteration 130 in the state8 Aa: [[131  90]]
+In iteration 130 in the state9 Ma: [[78 53]]
+In iteration 130 in the state10 Aa: [[ -92 -151]]
+In iteration 131 in the state1 Ma: [[-46 -76]] Aa: -399 Mb: 0
+In iteration 131 in the state2 Ma: [[-28 -46]] Mb: 0
+In iteration 131 in the state3 Aa: [[512 478]]
+In iteration 131 in the state4 Ma: [[512 478]] Mb: [[-399 -373]]
+In iteration 131 in the state5 Ma: [[512 446]] Aa: [[-399 -373]]
+In iteration 131 in the state6 Aa: [[512 416]]
+In iteration 131 in the state7 Aa: [[113  43]]
+In iteration 131 in the state8 Aa: [[65 -8]]
+In iteration 131 in the state9 Ma: [[38 -5]]
+In iteration 131 in the state10 Aa: [[-130 -146]]
+In iteration 132 in the state1 Ma: [[-65 -73]] Aa: -404 Mb: 0
+In iteration 132 in the state2 Ma: [[-39 -44]] Mb: 0
+In iteration 132 in the state3 Aa: [[473 434]]
+In iteration 132 in the state4 Ma: [[473 434]] Mb: [[-374 -343]]
+In iteration 132 in the state5 Ma: [[436 367]] Aa: [[-374 -343]]
+In iteration 132 in the state6 Aa: [[402 311]]
+In iteration 132 in the state7 Aa: [[ 28 -32]]
+In iteration 132 in the state8 Aa: [[-16 -80]]
+In iteration 132 in the state9 Ma: [[-10 -48]]
+In iteration 132 in the state10 Aa: [[-120  -98]]
+In iteration 133 in the state1 Ma: [[-60 -49]] Aa: -409 Mb: 0
+In iteration 133 in the state2 Ma: [[-36 -30]] Mb: 0
+In iteration 133 in the state3 Aa: [[437 404]]
+In iteration 133 in the state4 Ma: [[437 404]] Mb: [[-350 -323]]
+In iteration 133 in the state5 Ma: [[372 318]] Aa: [[-350 -323]]
+In iteration 133 in the state6 Aa: [[317 250]]
+In iteration 133 in the state7 Aa: [[-33 -73]]
+In iteration 133 in the state8 Aa: [[ -74 -117]]
+In iteration 133 in the state9 Ma: [[-45 -71]]
+In iteration 133 in the state10 Aa: [[-75 -27]]
+In iteration 134 in the state1 Ma: [[-38 -14]] Aa: -414 Mb: 0
+In iteration 134 in the state2 Ma: [[-23  -9]] Mb: 0
+In iteration 134 in the state3 Aa: [[414 395]]
+In iteration 134 in the state4 Ma: [[414 395]] Mb: [[-335 -320]]
+In iteration 134 in the state5 Ma: [[334 304]] Aa: [[-335 -320]]
+In iteration 134 in the state6 Aa: [[270 234]]
+In iteration 134 in the state7 Aa: [[-65 -86]]
+In iteration 134 in the state8 Aa: [[-105 -128]]
+In iteration 134 in the state9 Ma: [[-63 -77]]
+In iteration 134 in the state10 Aa: [[-12  50]]
+In iteration 135 in the state1 Ma: [[-6 25]] Aa: -419 Mb: 0
+In iteration 135 in the state2 Ma: [[-4 14]] Mb: 0
+In iteration 135 in the state3 Aa: [[410 409]]
+In iteration 135 in the state4 Ma: [[410 409]] Mb: [[-336 -335]]
+In iteration 135 in the state5 Ma: [[328 326]] Aa: [[-336 -335]]
+In iteration 135 in the state6 Aa: [[262 260]]
+In iteration 135 in the state7 Aa: [[-74 -75]]
+In iteration 135 in the state8 Aa: [[-115 -116]]
+In iteration 135 in the state9 Ma: [[-69 -70]]
+In iteration 135 in the state10 Aa: [[ 57 120]]
+In iteration 136 in the state1 Ma: [[28 60]] Aa: -424 Mb: 0
+In iteration 136 in the state2 Ma: [[16 35]] Mb: 0
+In iteration 136 in the state3 Aa: [[426 444]]
+In iteration 136 in the state4 Ma: [[426 444]] Mb: [[-353 -368]]
+In iteration 136 in the state5 Ma: [[354 385]] Aa: [[-353 -368]]
+In iteration 136 in the state6 Aa: [[294 333]]
+In iteration 136 in the state7 Aa: [[-59 -35]]
+In iteration 136 in the state8 Aa: [[-104  -78]]
+In iteration 136 in the state9 Ma: [[-63 -47]]
+In iteration 136 in the state10 Aa: [[120 167]]
+In iteration 137 in the state1 Ma: [[60 83]] Aa: -429 Mb: 0
+In iteration 137 in the state2 Ma: [[35 49]] Mb: 0
+In iteration 137 in the state3 Aa: [[461 493]]
+In iteration 137 in the state4 Ma: [[461 493]] Mb: [[-387 -414]]
+In iteration 137 in the state5 Ma: [[415 474]] Aa: [[-387 -414]]
+In iteration 137 in the state6 Aa: [[373 456]]
+In iteration 137 in the state7 Aa: [[-14  42]]
+In iteration 137 in the state8 Aa: [[-64  -4]]
+In iteration 137 in the state9 Ma: [[-39  -3]]
+In iteration 137 in the state10 Aa: [[159 170]]
+In iteration 138 in the state1 Ma: [[79 85]] Aa: -434 Mb: 0
+In iteration 138 in the state2 Ma: [[47 50]] Mb: 0
+In iteration 138 in the state3 Aa: [[508 543]]
+In iteration 138 in the state4 Ma: [[508 543]] Mb: [[-431 -461]]
+In iteration 138 in the state5 Ma: [[504 575]] Aa: [[-431 -461]]
+In iteration 138 in the state6 Aa: [[500 609]]
+In iteration 138 in the state7 Aa: [[ 69 148]]
+In iteration 138 in the state8 Aa: [[14 97]]
+In iteration 138 in the state9 Ma: [[ 8 58]]
+In iteration 138 in the state10 Aa: [[151 112]]
+In iteration 139 in the state1 Ma: [[75 56]] Aa: -439 Mb: 0
+In iteration 139 in the state2 Ma: [[44 33]] Mb: 0
+In iteration 139 in the state3 Aa: [[552 576]]
+In iteration 139 in the state4 Ma: [[552 576]] Mb: [[-474 -494]]
+In iteration 139 in the state5 Ma: [[595 648]] Aa: [[-474 -494]]
+In iteration 139 in the state6 Aa: [[641 729]]
+In iteration 139 in the state7 Aa: [[167 235]]
+In iteration 139 in the state8 Aa: [[109 180]]
+In iteration 139 in the state9 Ma: [[ 65 107]]
+In iteration 139 in the state10 Aa: [[86  5]]
+In iteration 140 in the state1 Ma: [[43  2]] Aa: -444 Mb: 0
+In iteration 140 in the state2 Ma: [[25  1]] Mb: 0
+In iteration 140 in the state3 Aa: [[577 577]]
+In iteration 140 in the state4 Ma: [[577 577]] Mb: [[-501 -501]]
+In iteration 140 in the state5 Ma: [[650 650]] Aa: [[-501 -501]]
+In iteration 140 in the state6 Aa: [[732 732]]
+In iteration 140 in the state7 Aa: [[231 231]]
+In iteration 140 in the state8 Aa: [[173 173]]
+In iteration 140 in the state9 Ma: [[103 103]]
+In iteration 140 in the state10 Aa: [[-17 -98]]
+In iteration 141 in the state1 Ma: [[ -9 -49]] Aa: -449 Mb: 0
+In iteration 141 in the state2 Ma: [[ -6 -30]] Mb: 0
+In iteration 141 in the state3 Aa: [[571 547]]
+In iteration 141 in the state4 Ma: [[571 547]] Mb: [[-501 -480]]
+In iteration 141 in the state5 Ma: [[636 584]] Aa: [[-501 -480]]
+In iteration 141 in the state6 Aa: [[709 623]]
+In iteration 141 in the state7 Aa: [[208 143]]
+In iteration 141 in the state8 Aa: [[153  86]]
+In iteration 141 in the state9 Ma: [[91 51]]
+In iteration 141 in the state10 Aa: [[-108 -149]]
+In iteration 142 in the state1 Ma: [[-54 -75]] Aa: -454 Mb: 0
+In iteration 142 in the state2 Ma: [[-33 -45]] Mb: 0
+In iteration 142 in the state3 Aa: [[538 502]]
+In iteration 142 in the state4 Ma: [[538 502]] Mb: [[-478 -446]]
+In iteration 142 in the state5 Ma: [[565 492]] Aa: [[-478 -446]]
+In iteration 142 in the state6 Aa: [[593 482]]
+In iteration 142 in the state7 Aa: [[115  36]]
+In iteration 142 in the state8 Aa: [[ 64 -18]]
+In iteration 142 in the state9 Ma: [[ 38 -11]]
+In iteration 142 in the state10 Aa: [[-146 -138]]
+In iteration 143 in the state1 Ma: [[-73 -69]] Aa: -459 Mb: 0
+In iteration 143 in the state2 Ma: [[-44 -42]] Mb: 0
+In iteration 143 in the state3 Aa: [[494 460]]
+In iteration 143 in the state4 Ma: [[494 460]] Mb: [[-443 -413]]
+In iteration 143 in the state5 Ma: [[476 413]] Aa: [[-443 -413]]
+In iteration 143 in the state6 Aa: [[459 371]]
+In iteration 143 in the state7 Aa: [[ 16 -42]]
+In iteration 143 in the state8 Aa: [[-30 -92]]
+In iteration 143 in the state9 Ma: [[-18 -56]]
+In iteration 143 in the state10 Aa: [[-128  -82]]
+In iteration 144 in the state1 Ma: [[-64 -41]] Aa: -464 Mb: 0
+In iteration 144 in the state2 Ma: [[-39 -25]] Mb: 0
+In iteration 144 in the state3 Aa: [[455 435]]
+In iteration 144 in the state4 Ma: [[455 435]] Mb: [[-413 -395]]
+In iteration 144 in the state5 Ma: [[404 369]] Aa: [[-413 -395]]
+In iteration 144 in the state6 Aa: [[359 313]]
+In iteration 144 in the state7 Aa: [[-54 -82]]
+In iteration 144 in the state8 Aa: [[ -98 -128]]
+In iteration 144 in the state9 Ma: [[-59 -77]]
+In iteration 144 in the state10 Aa: [[-69  -5]]
+In iteration 145 in the state1 Ma: [[-35  -3]] Aa: -469 Mb: 0
+In iteration 145 in the state2 Ma: [[-21  -2]] Mb: 0
+In iteration 145 in the state3 Aa: [[434 433]]
+In iteration 145 in the state4 Ma: [[434 433]] Mb: [[-398 -397]]
+In iteration 145 in the state5 Ma: [[367 366]] Aa: [[-398 -397]]
+In iteration 145 in the state6 Aa: [[311 309]]
+In iteration 145 in the state7 Aa: [[-87 -88]]
+In iteration 145 in the state8 Aa: [[-131 -132]]
+In iteration 145 in the state9 Ma: [[-79 -80]]
+In iteration 145 in the state10 Aa: [[10 75]]
+In iteration 146 in the state1 Ma: [[ 5 37]] Aa: -474 Mb: 0
+In iteration 146 in the state2 Ma: [[ 2 22]] Mb: 0
+In iteration 146 in the state3 Aa: [[436 455]]
+In iteration 146 in the state4 Ma: [[436 455]] Mb: [[-404 -422]]
+In iteration 146 in the state5 Ma: [[371 404]] Aa: [[-404 -422]]
+In iteration 146 in the state6 Aa: [[315 359]]
+In iteration 146 in the state7 Aa: [[-89 -63]]
+In iteration 146 in the state8 Aa: [[-135 -107]]
+In iteration 146 in the state9 Ma: [[-81 -65]]
+In iteration 146 in the state10 Aa: [[ 91 140]]
+In iteration 147 in the state1 Ma: [[45 70]] Aa: -479 Mb: 0
+In iteration 147 in the state2 Ma: [[26 41]] Mb: 0
+In iteration 147 in the state3 Aa: [[462 496]]
+In iteration 147 in the state4 Ma: [[462 496]] Mb: [[-433 -465]]
+In iteration 147 in the state5 Ma: [[416 480]] Aa: [[-433 -465]]
+In iteration 147 in the state6 Aa: [[375 465]]
+In iteration 147 in the state7 Aa: [[-58   0]]
+In iteration 147 in the state8 Aa: [[-108  -47]]
+In iteration 147 in the state9 Ma: [[-65 -29]]
+In iteration 147 in the state10 Aa: [[156 169]]
+In iteration 148 in the state1 Ma: [[78 84]] Aa: -484 Mb: 0
+In iteration 148 in the state2 Ma: [[46 50]] Mb: 0
+In iteration 148 in the state3 Aa: [[508 546]]
+In iteration 148 in the state4 Ma: [[508 546]] Mb: [[-481 -517]]
+In iteration 148 in the state5 Ma: [[504 582]] Aa: [[-481 -517]]
+In iteration 148 in the state6 Aa: [[500 620]]
+In iteration 148 in the state7 Aa: [[ 19 103]]
+In iteration 148 in the state8 Aa: [[-36  52]]
+In iteration 148 in the state9 Ma: [[-22  31]]
+In iteration 148 in the state10 Aa: [[178 138]]
+In iteration 149 in the state1 Ma: [[89 69]] Aa: -489 Mb: 0
+In iteration 149 in the state2 Ma: [[53 41]] Mb: 0
+In iteration 149 in the state3 Aa: [[561 587]]
+In iteration 149 in the state4 Ma: [[561 587]] Mb: [[-536 -561]]
+In iteration 149 in the state5 Ma: [[614 672]] Aa: [[-536 -561]]
+In iteration 149 in the state6 Aa: [[672 770]]
+In iteration 149 in the state7 Aa: [[136 209]]
+In iteration 149 in the state8 Aa: [[ 77 153]]
+In iteration 149 in the state9 Ma: [[46 91]]
+In iteration 149 in the state10 Aa: [[132  47]]
+In iteration 150 in the state1 Ma: [[66 23]] Aa: -494 Mb: 0
+In iteration 150 in the state2 Ma: [[39 13]] Mb: 0
+In iteration 150 in the state3 Aa: [[600 600]]
+In iteration 150 in the state4 Ma: [[600 600]] Mb: [[-579 -579]]
+In iteration 150 in the state5 Ma: [[703 703]] Aa: [[-579 -579]]
+In iteration 150 in the state6 Aa: [[823 823]]
+In iteration 150 in the state7 Aa: [[244 244]]
+In iteration 150 in the state8 Aa: [[184 184]]
+In iteration 150 in the state9 Ma: [[110 110]]
+In iteration 150 in the state10 Aa: [[ 22 -63]]
+In iteration 151 in the state1 Ma: [[ 11 -32]] Aa: -499 Mb: 0
+In iteration 151 in the state2 Ma: [[  6 -20]] Mb: 0
+In iteration 151 in the state3 Aa: [[606 580]]
+In iteration 151 in the state4 Ma: [[606 580]] Mb: [[-591 -566]]
+In iteration 151 in the state5 Ma: [[717 657]] Aa: [[-591 -566]]
+In iteration 151 in the state6 Aa: [[848 744]]
+In iteration 151 in the state7 Aa: [[257 178]]
+In iteration 151 in the state8 Aa: [[199 117]]
+In iteration 151 in the state9 Ma: [[119  70]]
+In iteration 151 in the state10 Aa: [[ -97 -133]]
+In iteration 152 in the state1 Ma: [[-49 -67]] Aa: -504 Mb: 0
+In iteration 152 in the state2 Ma: [[-30 -41]] Mb: 0
+In iteration 152 in the state3 Aa: [[576 539]]
+In iteration 152 in the state4 Ma: [[576 539]] Mb: [[-567 -531]]
+In iteration 152 in the state5 Ma: [[648 567]] Aa: [[-567 -531]]
+In iteration 152 in the state6 Aa: [[729 596]]
+In iteration 152 in the state7 Aa: [[162  65]]
+In iteration 152 in the state8 Aa: [[108   7]]
+In iteration 152 in the state9 Ma: [[64  4]]
+In iteration 152 in the state10 Aa: [[-161 -137]]
+In iteration 153 in the state1 Ma: [[-81 -69]] Aa: -509 Mb: 0
+In iteration 153 in the state2 Ma: [[-49 -42]] Mb: 0
+In iteration 153 in the state3 Aa: [[527 497]]
+In iteration 153 in the state4 Ma: [[527 497]] Mb: [[-524 -495]]
+In iteration 153 in the state5 Ma: [[542 482]] Aa: [[-524 -495]]
+In iteration 153 in the state6 Aa: [[557 467]]
+In iteration 153 in the state7 Aa: [[ 33 -28]]
+In iteration 153 in the state8 Aa: [[-17 -81]]
+In iteration 153 in the state9 Ma: [[-11 -49]]
+In iteration 153 in the state10 Aa: [[-150  -88]]
+In iteration 154 in the state1 Ma: [[-75 -44]] Aa: -514 Mb: 0
+In iteration 154 in the state2 Ma: [[-45 -27]] Mb: 0
+In iteration 154 in the state3 Aa: [[482 470]]
+In iteration 154 in the state4 Ma: [[482 470]] Mb: [[-484 -472]]
+In iteration 154 in the state5 Ma: [[453 431]] Aa: [[-484 -472]]
+In iteration 154 in the state6 Aa: [[426 395]]
+In iteration 154 in the state7 Aa: [[-58 -77]]
+In iteration 154 in the state8 Aa: [[-105 -126]]
+In iteration 154 in the state9 Ma: [[-63 -76]]
+In iteration 154 in the state10 Aa: [[-87 -12]]
+In iteration 155 in the state1 Ma: [[-44  -6]] Aa: -519 Mb: 0
+In iteration 155 in the state2 Ma: [[-27  -4]] Mb: 0
+In iteration 155 in the state3 Aa: [[455 466]]
+In iteration 155 in the state4 Ma: [[455 466]] Mb: [[-462 -473]]
+In iteration 155 in the state5 Ma: [[404 424]] Aa: [[-462 -473]]
+In iteration 155 in the state6 Aa: [[359 385]]
+In iteration 155 in the state7 Aa: [[-103  -88]]
+In iteration 155 in the state8 Aa: [[-150 -134]]
+In iteration 155 in the state9 Ma: [[-90 -81]]
+In iteration 155 in the state10 Aa: [[ 3 69]]
+In iteration 156 in the state1 Ma: [[ 1 34]] Aa: -524 Mb: 0
+In iteration 156 in the state2 Ma: [[ 0 20]] Mb: 0
+In iteration 156 in the state3 Aa: [[455 486]]
+In iteration 156 in the state4 Ma: [[455 486]] Mb: [[-466 -498]]
+In iteration 156 in the state5 Ma: [[404 461]] Aa: [[-466 -498]]
+In iteration 156 in the state6 Aa: [[359 437]]
+In iteration 156 in the state7 Aa: [[-107  -61]]
+In iteration 156 in the state8 Aa: [[-156 -107]]
+In iteration 156 in the state9 Ma: [[-94 -65]]
+In iteration 156 in the state10 Aa: [[ 97 134]]
+In iteration 157 in the state1 Ma: [[48 67]] Aa: -529 Mb: 0
+In iteration 157 in the state2 Ma: [[28 40]] Mb: 0
+In iteration 157 in the state3 Aa: [[483 526]]
+In iteration 157 in the state4 Ma: [[483 526]] Mb: [[-500 -544]]
+In iteration 157 in the state5 Ma: [[455 540]] Aa: [[-500 -544]]
+In iteration 157 in the state6 Aa: [[429 554]]
+In iteration 157 in the state7 Aa: [[-71  10]]
+In iteration 157 in the state8 Aa: [[-124  -39]]
+In iteration 157 in the state9 Ma: [[-75 -24]]
+In iteration 157 in the state10 Aa: [[172 158]]
+In iteration 158 in the state1 Ma: [[86 79]] Aa: -534 Mb: 0
+In iteration 158 in the state2 Ma: [[51 47]] Mb: 0
+In iteration 158 in the state3 Aa: [[534 573]]
+In iteration 158 in the state4 Ma: [[534 573]] Mb: [[-557 -598]]
+In iteration 158 in the state5 Ma: [[556 641]] Aa: [[-557 -598]]
+In iteration 158 in the state6 Aa: [[579 717]]
+In iteration 158 in the state7 Aa: [[ 22 119]]
+In iteration 158 in the state8 Aa: [[-36  65]]
+In iteration 158 in the state9 Ma: [[-22  38]]
+In iteration 158 in the state10 Aa: [[194 120]]
+In iteration 159 in the state1 Ma: [[97 60]] Aa: -539 Mb: 0
+In iteration 159 in the state2 Ma: [[58 35]] Mb: 0
+In iteration 159 in the state3 Aa: [[592 608]]
+In iteration 159 in the state4 Ma: [[592 608]] Mb: [[-624 -641]]
+In iteration 159 in the state5 Ma: [[684 722]] Aa: [[-624 -641]]
+In iteration 159 in the state6 Aa: [[790 857]]
+In iteration 159 in the state7 Aa: [[166 216]]
+In iteration 159 in the state8 Aa: [[105 157]]
+In iteration 159 in the state9 Ma: [[62 94]]
+In iteration 159 in the state10 Aa: [[132  26]]
+In iteration 160 in the state1 Ma: [[66 13]] Aa: -544 Mb: 0
+In iteration 160 in the state2 Ma: [[39  7]] Mb: 0
+In iteration 160 in the state3 Aa: [[631 615]]
+In iteration 160 in the state4 Ma: [[631 615]] Mb: [[-671 -654]]
+In iteration 160 in the state5 Ma: [[777 738]] Aa: [[-671 -654]]
+In iteration 160 in the state6 Aa: [[957 886]]
+In iteration 160 in the state7 Aa: [[286 232]]
+In iteration 160 in the state8 Aa: [[224 169]]
+In iteration 160 in the state9 Ma: [[134 101]]
+In iteration 160 in the state10 Aa: [[ -2 -75]]
+In iteration 161 in the state1 Ma: [[ -1 -38]] Aa: -549 Mb: 0
+In iteration 161 in the state2 Ma: [[ -1 -23]] Mb: 0
+In iteration 161 in the state3 Aa: [[630 592]]
+In iteration 161 in the state4 Ma: [[630 592]] Mb: [[-676 -635]]
+In iteration 161 in the state5 Ma: [[775 684]] Aa: [[-676 -635]]
+In iteration 161 in the state6 Aa: [[953 790]]
+In iteration 161 in the state7 Aa: [[277 155]]
+In iteration 161 in the state8 Aa: [[218  92]]
+In iteration 161 in the state9 Ma: [[130  55]]
+In iteration 161 in the state10 Aa: [[-132 -130]]
+In iteration 162 in the state1 Ma: [[-66 -65]] Aa: -554 Mb: 0
+In iteration 162 in the state2 Ma: [[-40 -39]] Mb: 0
+In iteration 162 in the state3 Aa: [[590 553]]
+In iteration 162 in the state4 Ma: [[590 553]] Mb: [[-639 -599]]
+In iteration 162 in the state5 Ma: [[679 597]] Aa: [[-639 -599]]
+In iteration 162 in the state6 Aa: [[782 644]]
+In iteration 162 in the state7 Aa: [[143  45]]
+In iteration 162 in the state8 Aa: [[ 87 -14]]
+In iteration 162 in the state9 Ma: [[52 -9]]
+In iteration 162 in the state10 Aa: [[-184 -121]]
+In iteration 163 in the state1 Ma: [[-92 -61]] Aa: -559 Mb: 0
+In iteration 163 in the state2 Ma: [[-56 -37]] Mb: 0
+In iteration 163 in the state3 Aa: [[534 516]]
+In iteration 163 in the state4 Ma: [[534 516]] Mb: [[-584 -564]]
+In iteration 163 in the state5 Ma: [[556 520]] Aa: [[-584 -564]]
+In iteration 163 in the state6 Aa: [[579 524]]
+In iteration 163 in the state7 Aa: [[ -5 -40]]
+In iteration 163 in the state8 Aa: [[-57 -94]]
+In iteration 163 in the state9 Ma: [[-35 -57]]
+In iteration 163 in the state10 Aa: [[-149  -64]]
+In iteration 164 in the state1 Ma: [[-75 -32]] Aa: -564 Mb: 0
+In iteration 164 in the state2 Ma: [[-45 -20]] Mb: 0
+In iteration 164 in the state3 Aa: [[489 496]]
+In iteration 164 in the state4 Ma: [[489 496]] Mb: [[-539 -547]]
+In iteration 164 in the state5 Ma: [[467 480]] Aa: [[-539 -547]]
+In iteration 164 in the state6 Aa: [[446 465]]
+In iteration 164 in the state7 Aa: [[-93 -82]]
+In iteration 164 in the state8 Aa: [[-143 -131]]
+In iteration 164 in the state9 Ma: [[-86 -79]]
+In iteration 164 in the state10 Aa: [[-63  15]]
+In iteration 165 in the state1 Ma: [[-32   7]] Aa: -569 Mb: 0
+In iteration 165 in the state2 Ma: [[-20   4]] Mb: 0
+In iteration 165 in the state3 Aa: [[469 500]]
+In iteration 165 in the state4 Ma: [[469 500]] Mb: [[-522 -556]]
+In iteration 165 in the state5 Ma: [[429 488]] Aa: [[-522 -556]]
+In iteration 165 in the state6 Aa: [[392 476]]
+In iteration 165 in the state7 Aa: [[-130  -80]]
+In iteration 165 in the state8 Aa: [[-180 -127]]
+In iteration 165 in the state9 Ma: [[-108  -77]]
+In iteration 165 in the state10 Aa: [[45 92]]
+In iteration 166 in the state1 Ma: [[22 46]] Aa: -574 Mb: 0
+In iteration 166 in the state2 Ma: [[13 27]] Mb: 0
+In iteration 166 in the state3 Aa: [[482 527]]
+In iteration 166 in the state4 Ma: [[482 527]] Mb: [[-541 -591]]
+In iteration 166 in the state5 Ma: [[453 542]] Aa: [[-541 -591]]
+In iteration 166 in the state6 Aa: [[426 557]]
+In iteration 166 in the state7 Aa: [[-115  -34]]
+In iteration 166 in the state8 Aa: [[-168  -83]]
+In iteration 166 in the state9 Ma: [[-101  -50]]
+In iteration 166 in the state10 Aa: [[146 142]]
+In iteration 167 in the state1 Ma: [[73 71]] Aa: -579 Mb: 0
+In iteration 167 in the state2 Ma: [[43 42]] Mb: 0
+In iteration 167 in the state3 Aa: [[525 569]]
+In iteration 167 in the state4 Ma: [[525 569]] Mb: [[-594 -644]]
+In iteration 167 in the state5 Ma: [[538 632]] Aa: [[-594 -644]]
+In iteration 167 in the state6 Aa: [[551 702]]
+In iteration 167 in the state7 Aa: [[-43  58]]
+In iteration 167 in the state8 Aa: [[-100    5]]
+In iteration 167 in the state9 Ma: [[-60   2]]
+In iteration 167 in the state10 Aa: [[206 140]]
+In iteration 168 in the state1 Ma: [[103  70]] Aa: -584 Mb: 0
+In iteration 168 in the state2 Ma: [[61 41]] Mb: 0
+In iteration 168 in the state3 Aa: [[586 610]]
+In iteration 168 in the state4 Ma: [[586 610]] Mb: [[-669 -696]]
+In iteration 168 in the state5 Ma: [[670 726]] Aa: [[-669 -696]]
+In iteration 168 in the state6 Aa: [[766 864]]
+In iteration 168 in the state7 Aa: [[ 97 168]]
+In iteration 168 in the state8 Aa: [[ 36 109]]
+In iteration 168 in the state9 Ma: [[21 65]]
+In iteration 168 in the state10 Aa: [[185  75]]
+In iteration 169 in the state1 Ma: [[92 37]] Aa: -589 Mb: 0
+In iteration 169 in the state2 Ma: [[55 22]] Mb: 0
+In iteration 169 in the state3 Aa: [[641 632]]
+In iteration 169 in the state4 Ma: [[641 632]] Mb: [[-738 -728]]
+In iteration 169 in the state5 Ma: [[802 780]] Aa: [[-738 -728]]
+In iteration 169 in the state6 Aa: [[1004  962]]
+In iteration 169 in the state7 Aa: [[266 234]]
+In iteration 169 in the state8 Aa: [[203 170]]
+In iteration 169 in the state9 Ma: [[121 101]]
+In iteration 169 in the state10 Aa: [[ 64 -26]]
+In iteration 170 in the state1 Ma: [[ 32 -13]] Aa: -594 Mb: 0
+In iteration 170 in the state2 Ma: [[19 -8]] Mb: 0
+In iteration 170 in the state3 Aa: [[660 624]]
+In iteration 170 in the state4 Ma: [[660 624]] Mb: [[-766 -724]]
+In iteration 170 in the state5 Ma: [[850 760]] Aa: [[-766 -724]]
+In iteration 170 in the state6 Aa: [[1095  926]]
+In iteration 170 in the state7 Aa: [[329 202]]
+In iteration 170 in the state8 Aa: [[266 136]]
+In iteration 170 in the state9 Ma: [[159  81]]
+In iteration 170 in the state10 Aa: [[ -95 -107]]
+In iteration 171 in the state1 Ma: [[-48 -54]] Aa: -599 Mb: 0
+In iteration 171 in the state2 Ma: [[-29 -33]] Mb: 0
+In iteration 171 in the state3 Aa: [[631 591]]
+In iteration 171 in the state4 Ma: [[631 591]] Mb: [[-739 -692]]
+In iteration 171 in the state5 Ma: [[777 682]] Aa: [[-739 -692]]
+In iteration 171 in the state6 Aa: [[957 787]]
+In iteration 171 in the state7 Aa: [[218  95]]
+In iteration 171 in the state8 Aa: [[159  32]]
+In iteration 171 in the state9 Ma: [[95 19]]
+In iteration 171 in the state10 Aa: [[-190 -126]]
+In iteration 172 in the state1 Ma: [[-95 -63]] Aa: -604 Mb: 0
+In iteration 172 in the state2 Ma: [[-57 -38]] Mb: 0
+In iteration 172 in the state3 Aa: [[574 553]]
+In iteration 172 in the state4 Ma: [[574 553]] Mb: [[-678 -653]]
+In iteration 172 in the state5 Ma: [[643 597]] Aa: [[-678 -653]]
+In iteration 172 in the state6 Aa: [[720 644]]
+In iteration 172 in the state7 Aa: [[42 -9]]
+In iteration 172 in the state8 Aa: [[-14 -67]]
+In iteration 172 in the state9 Ma: [[ -9 -41]]
+In iteration 172 in the state10 Aa: [[-181  -85]]
+In iteration 173 in the state1 Ma: [[-91 -43]] Aa: -609 Mb: 0
+In iteration 173 in the state2 Ma: [[-55 -26]] Mb: 0
+In iteration 173 in the state3 Aa: [[519 527]]
+In iteration 173 in the state4 Ma: [[519 527]] Mb: [[-618 -627]]
+In iteration 173 in the state5 Ma: [[526 542]] Aa: [[-618 -627]]
+In iteration 173 in the state6 Aa: [[533 557]]
+In iteration 173 in the state7 Aa: [[-85 -70]]
+In iteration 173 in the state8 Aa: [[-138 -122]]
+In iteration 173 in the state9 Ma: [[-83 -74]]
+In iteration 173 in the state10 Aa: [[-98 -11]]
+In iteration 174 in the state1 Ma: [[-49  -6]] Aa: -614 Mb: 0
+In iteration 174 in the state2 Ma: [[-30  -4]] Mb: 0
+In iteration 174 in the state3 Aa: [[489 523]]
+In iteration 174 in the state4 Ma: [[489 523]] Mb: [[-587 -628]]
+In iteration 174 in the state5 Ma: [[467 534]] Aa: [[-587 -628]]
+In iteration 174 in the state6 Aa: [[446 545]]
+In iteration 174 in the state7 Aa: [[-141  -83]]
+In iteration 174 in the state8 Aa: [[-194 -132]]
+In iteration 174 in the state9 Ma: [[-117  -80]]
+In iteration 174 in the state10 Aa: [[19 69]]
+In iteration 175 in the state1 Ma: [[ 9 34]] Aa: -619 Mb: 0
+In iteration 175 in the state2 Ma: [[ 5 20]] Mb: 0
+In iteration 175 in the state3 Aa: [[494 543]]
+In iteration 175 in the state4 Ma: [[494 543]] Mb: [[-598 -657]]
+In iteration 175 in the state5 Ma: [[476 575]] Aa: [[-598 -657]]
+In iteration 175 in the state6 Aa: [[459 609]]
+In iteration 175 in the state7 Aa: [[-139  -48]]
+In iteration 175 in the state8 Aa: [[-194  -98]]
+In iteration 175 in the state9 Ma: [[-117  -59]]
+In iteration 175 in the state10 Aa: [[136 128]]
+In iteration 176 in the state1 Ma: [[68 64]] Aa: -624 Mb: 0
+In iteration 176 in the state2 Ma: [[40 38]] Mb: 0
+In iteration 176 in the state3 Aa: [[534 581]]
+In iteration 176 in the state4 Ma: [[534 581]] Mb: [[-651 -709]]
+In iteration 176 in the state5 Ma: [[556 659]] Aa: [[-651 -709]]
+In iteration 176 in the state6 Aa: [[579 747]]
+In iteration 176 in the state7 Aa: [[-72  38]]
+In iteration 176 in the state8 Aa: [[-130  -16]]
+In iteration 176 in the state9 Ma: [[-78 -10]]
+In iteration 176 in the state10 Aa: [[214 138]]
+In iteration 177 in the state1 Ma: [[107  69]] Aa: -629 Mb: 0
+In iteration 177 in the state2 Ma: [[64 41]] Mb: 0
+In iteration 177 in the state3 Aa: [[598 622]]
+In iteration 177 in the state4 Ma: [[598 622]] Mb: [[-735 -765]]
+In iteration 177 in the state5 Ma: [[698 755]] Aa: [[-735 -765]]
+In iteration 177 in the state6 Aa: [[815 917]]
+In iteration 177 in the state7 Aa: [[ 80 152]]
+In iteration 177 in the state8 Aa: [[18 92]]
+In iteration 177 in the state9 Ma: [[10 55]]
+In iteration 177 in the state10 Aa: [[204  83]]
+In iteration 178 in the state1 Ma: [[102  41]] Aa: -634 Mb: 0
+In iteration 178 in the state2 Ma: [[61 24]] Mb: 0
+In iteration 178 in the state3 Aa: [[659 646]]
+In iteration 178 in the state4 Ma: [[659 646]] Mb: [[-817 -800]]
+In iteration 178 in the state5 Ma: [[848 815]] Aa: [[-817 -800]]
+In iteration 178 in the state6 Aa: [[1091 1028]]
+In iteration 178 in the state7 Aa: [[274 228]]
+In iteration 178 in the state8 Aa: [[209 162]]
+In iteration 178 in the state9 Ma: [[125  97]]
+In iteration 178 in the state10 Aa: [[ 79 -14]]
+In iteration 179 in the state1 Ma: [[39 -7]] Aa: -639 Mb: 0
+In iteration 179 in the state2 Ma: [[23 -5]] Mb: 0
+In iteration 179 in the state3 Aa: [[682 641]]
+In iteration 179 in the state4 Ma: [[682 641]] Mb: [[-852 -800]]
+In iteration 179 in the state5 Ma: [[908 802]] Aa: [[-852 -800]]
+In iteration 179 in the state6 Aa: [[1209 1004]]
+In iteration 179 in the state7 Aa: [[357 204]]
+In iteration 179 in the state8 Aa: [[293 136]]
+In iteration 179 in the state9 Ma: [[175  81]]
+In iteration 179 in the state10 Aa: [[-96 -95]]
+In iteration 180 in the state1 Ma: [[-48 -48]] Aa: -644 Mb: 0
+In iteration 180 in the state2 Ma: [[-29 -29]] Mb: 0
+In iteration 180 in the state3 Aa: [[653 612]]
+In iteration 180 in the state4 Ma: [[653 612]] Mb: [[-822 -770]]
+In iteration 180 in the state5 Ma: [[832 731]] Aa: [[-822 -770]]
+In iteration 180 in the state6 Aa: [[1061  873]]
+In iteration 180 in the state7 Aa: [[239 103]]
+In iteration 180 in the state8 Aa: [[178  37]]
+In iteration 180 in the state9 Ma: [[106  22]]
+In iteration 180 in the state10 Aa: [[-202 -117]]
+In iteration 181 in the state1 Ma: [[-101  -59]] Aa: -649 Mb: 0
+In iteration 181 in the state2 Ma: [[-61 -36]] Mb: 0
+In iteration 181 in the state3 Aa: [[592 576]]
+In iteration 181 in the state4 Ma: [[592 576]] Mb: [[-751 -731]]
+In iteration 181 in the state5 Ma: [[684 648]] Aa: [[-751 -731]]
+In iteration 181 in the state6 Aa: [[790 729]]
+In iteration 181 in the state7 Aa: [[39 -2]]
+In iteration 181 in the state8 Aa: [[-19 -61]]
+In iteration 181 in the state9 Ma: [[-12 -37]]
+In iteration 181 in the state10 Aa: [[-190  -80]]
+In iteration 182 in the state1 Ma: [[-95 -40]] Aa: -654 Mb: 0
+In iteration 182 in the state2 Ma: [[-57 -24]] Mb: 0
+In iteration 182 in the state3 Aa: [[535 552]]
+In iteration 182 in the state4 Ma: [[535 552]] Mb: [[-684 -706]]
+In iteration 182 in the state5 Ma: [[559 595]] Aa: [[-684 -706]]
+In iteration 182 in the state6 Aa: [[584 641]]
+In iteration 182 in the state7 Aa: [[-100  -65]]
+In iteration 182 in the state8 Aa: [[-155 -119]]
+In iteration 182 in the state9 Ma: [[-93 -72]]
+In iteration 182 in the state10 Aa: [[-97  -8]]
+In iteration 183 in the state1 Ma: [[-49  -4]] Aa: -659 Mb: 0
+In iteration 183 in the state2 Ma: [[-30  -3]] Mb: 0
+In iteration 183 in the state3 Aa: [[505 549]]
+In iteration 183 in the state4 Ma: [[505 549]] Mb: [[-650 -707]]
+In iteration 183 in the state5 Ma: [[498 588]] Aa: [[-650 -707]]
+In iteration 183 in the state6 Aa: [[491 630]]
+In iteration 183 in the state7 Aa: [[-159  -77]]
+In iteration 183 in the state8 Aa: [[-214 -128]]
+In iteration 183 in the state9 Ma: [[-129  -77]]
+In iteration 183 in the state10 Aa: [[32 69]]
+In iteration 184 in the state1 Ma: [[16 34]] Aa: -664 Mb: 0
+In iteration 184 in the state2 Ma: [[ 9 20]] Mb: 0
+In iteration 184 in the state3 Aa: [[514 569]]
+In iteration 184 in the state4 Ma: [[514 569]] Mb: [[-667 -738]]
+In iteration 184 in the state5 Ma: [[516 632]] Aa: [[-667 -738]]
+In iteration 184 in the state6 Aa: [[518 702]]
+In iteration 184 in the state7 Aa: [[-149  -36]]
+In iteration 184 in the state8 Aa: [[-206  -88]]
+In iteration 184 in the state9 Ma: [[-124  -53]]
+In iteration 184 in the state10 Aa: [[156 122]]
+In iteration 185 in the state1 Ma: [[78 61]] Aa: -669 Mb: 0
+In iteration 185 in the state2 Ma: [[46 36]] Mb: 0
+In iteration 185 in the state3 Aa: [[560 605]]
+In iteration 185 in the state4 Ma: [[560 605]] Mb: [[-732 -791]]
+In iteration 185 in the state5 Ma: [[612 714]] Aa: [[-732 -791]]
+In iteration 185 in the state6 Aa: [[669 843]]
+In iteration 185 in the state7 Aa: [[-63  52]]
+In iteration 185 in the state8 Aa: [[-124   -4]]
+In iteration 185 in the state9 Ma: [[-75  -3]]
+In iteration 185 in the state10 Aa: [[231 125]]
+In iteration 186 in the state1 Ma: [[115  62]] Aa: -674 Mb: 0
+In iteration 186 in the state2 Ma: [[68 37]] Mb: 0
+In iteration 186 in the state3 Aa: [[628 642]]
+In iteration 186 in the state4 Ma: [[628 642]] Mb: [[-827 -846]]
+In iteration 186 in the state5 Ma: [[770 805]] Aa: [[-827 -846]]
+In iteration 186 in the state6 Aa: [[ 944 1009]]
+In iteration 186 in the state7 Aa: [[117 163]]
+In iteration 186 in the state8 Aa: [[ 53 100]]
+In iteration 186 in the state9 Ma: [[31 59]]
+In iteration 186 in the state10 Aa: [[200  66]]
+In iteration 187 in the state1 Ma: [[100  33]] Aa: -679 Mb: 0
+In iteration 187 in the state2 Ma: [[59 19]] Mb: 0
+In iteration 187 in the state3 Aa: [[687 661]]
+In iteration 187 in the state4 Ma: [[687 661]] Mb: [[-912 -877]]
+In iteration 187 in the state5 Ma: [[921 853]] Aa: [[-912 -877]]
+In iteration 187 in the state6 Aa: [[1235 1101]]
+In iteration 187 in the state7 Aa: [[323 224]]
+In iteration 187 in the state8 Aa: [[257 155]]
+In iteration 187 in the state9 Ma: [[154  92]]
+In iteration 187 in the state10 Aa: [[ 46 -26]]
+In iteration 188 in the state1 Ma: [[ 23 -13]] Aa: -684 Mb: 0
+In iteration 188 in the state2 Ma: [[13 -8]] Mb: 0
+In iteration 188 in the state3 Aa: [[700 653]]
+In iteration 188 in the state4 Ma: [[700 653]] Mb: [[-936 -873]]
+In iteration 188 in the state5 Ma: [[957 832]] Aa: [[-936 -873]]
+In iteration 188 in the state6 Aa: [[1308 1061]]
+In iteration 188 in the state7 Aa: [[372 188]]
+In iteration 188 in the state8 Aa: [[306 118]]
+In iteration 188 in the state9 Ma: [[183  70]]
+In iteration 188 in the state10 Aa: [[-137  -96]]
+In iteration 189 in the state1 Ma: [[-69 -48]] Aa: -689 Mb: 0
+In iteration 189 in the state2 Ma: [[-42 -29]] Mb: 0
+In iteration 189 in the state3 Aa: [[658 624]]
+In iteration 189 in the state4 Ma: [[658 624]] Mb: [[-886 -840]]
+In iteration 189 in the state5 Ma: [[845 760]] Aa: [[-886 -840]]
+In iteration 189 in the state6 Aa: [[1085  926]]
+In iteration 189 in the state7 Aa: [[199  86]]
+In iteration 189 in the state8 Aa: [[136  20]]
+In iteration 189 in the state9 Ma: [[81 11]]
+In iteration 189 in the state10 Aa: [[-218 -107]]
+In iteration 190 in the state1 Ma: [[-109  -54]] Aa: -694 Mb: 0
+In iteration 190 in the state2 Ma: [[-66 -33]] Mb: 0
+In iteration 190 in the state3 Aa: [[592 591]]
+In iteration 190 in the state4 Ma: [[592 591]] Mb: [[-803 -802]]
+In iteration 190 in the state5 Ma: [[684 682]] Aa: [[-803 -802]]
+In iteration 190 in the state6 Aa: [[790 787]]
+In iteration 190 in the state7 Aa: [[-13 -15]]
+In iteration 190 in the state8 Aa: [[-72 -74]]
+In iteration 190 in the state9 Ma: [[-44 -45]]
+In iteration 190 in the state10 Aa: [[-174  -62]]
+In iteration 191 in the state1 Ma: [[-87 -31]] Aa: -699 Mb: 0
+In iteration 191 in the state2 Ma: [[-53 -19]] Mb: 0
+In iteration 191 in the state3 Aa: [[539 572]]
+In iteration 191 in the state4 Ma: [[539 572]] Mb: [[-736 -781]]
+In iteration 191 in the state5 Ma: [[567 639]] Aa: [[-736 -781]]
+In iteration 191 in the state6 Aa: [[596 713]]
+In iteration 191 in the state7 Aa: [[-140  -68]]
+In iteration 191 in the state8 Aa: [[-197 -122]]
+In iteration 191 in the state9 Ma: [[-119  -74]]
+In iteration 191 in the state10 Aa: [[-55  12]]
+In iteration 192 in the state1 Ma: [[-28   6]] Aa: -704 Mb: 0
+In iteration 192 in the state2 Ma: [[-17   3]] Mb: 0
+In iteration 192 in the state3 Aa: [[522 575]]
+In iteration 192 in the state4 Ma: [[522 575]] Mb: [[-718 -791]]
+In iteration 192 in the state5 Ma: [[532 645]] Aa: [[-718 -791]]
+In iteration 192 in the state6 Aa: [[542 724]]
+In iteration 192 in the state7 Aa: [[-176  -67]]
+In iteration 192 in the state8 Aa: [[-234 -119]]
+In iteration 192 in the state9 Ma: [[-141  -72]]
+In iteration 192 in the state10 Aa: [[86 84]]
+In iteration 193 in the state1 Ma: [[43 42]] Aa: -709 Mb: 0
+In iteration 193 in the state2 Ma: [[25 25]] Mb: 0
+In iteration 193 in the state3 Aa: [[547 600]]
+In iteration 193 in the state4 Ma: [[547 600]] Mb: [[-758 -831]]
+In iteration 193 in the state5 Ma: [[584 703]] Aa: [[-758 -831]]
+In iteration 193 in the state6 Aa: [[623 823]]
+In iteration 193 in the state7 Aa: [[-135   -8]]
+In iteration 193 in the state8 Aa: [[-195  -63]]
+In iteration 193 in the state9 Ma: [[-117  -38]]
+In iteration 193 in the state10 Aa: [[203 122]]
+In iteration 194 in the state1 Ma: [[101  61]] Aa: -714 Mb: 0
+In iteration 194 in the state2 Ma: [[60 36]] Mb: 0
+In iteration 194 in the state3 Aa: [[607 636]]
+In iteration 194 in the state4 Ma: [[607 636]] Mb: [[-847 -887]]
+In iteration 194 in the state5 Ma: [[719 790]] Aa: [[-847 -887]]
+In iteration 194 in the state6 Aa: [[852 981]]
+In iteration 194 in the state7 Aa: [[ 5 94]]
+In iteration 194 in the state8 Aa: [[-59  33]]
+In iteration 194 in the state9 Ma: [[-36  19]]
+In iteration 194 in the state10 Aa: [[239 103]]
+In iteration 195 in the state1 Ma: [[119  51]] Aa: -719 Mb: 0
+In iteration 195 in the state2 Ma: [[71 30]] Mb: 0
+In iteration 195 in the state3 Aa: [[678 666]]
+In iteration 195 in the state4 Ma: [[678 666]] Mb: [[-953 -936]]
+In iteration 195 in the state5 Ma: [[897 866]] Aa: [[-953 -936]]
+In iteration 195 in the state6 Aa: [[1187 1126]]
+In iteration 195 in the state7 Aa: [[234 190]]
+In iteration 195 in the state8 Aa: [[167 122]]
+In iteration 195 in the state9 Ma: [[100  73]]
+In iteration 195 in the state10 Aa: [[139  30]]
+In iteration 196 in the state1 Ma: [[69 15]] Aa: -724 Mb: 0
+In iteration 196 in the state2 Ma: [[41  8]] Mb: 0
+In iteration 196 in the state3 Aa: [[719 674]]
+In iteration 196 in the state4 Ma: [[719 674]] Mb: [[-1017  -954]]
+In iteration 196 in the state5 Ma: [[1009  887]] Aa: [[-1017  -954]]
+In iteration 196 in the state6 Aa: [[1416 1167]]
+In iteration 196 in the state7 Aa: [[399 213]]
+In iteration 196 in the state8 Aa: [[331 141]]
+In iteration 196 in the state9 Ma: [[198  84]]
+In iteration 196 in the state10 Aa: [[-59 -54]]
+In iteration 197 in the state1 Ma: [[-30 -27]] Aa: -729 Mb: 0
+In iteration 197 in the state2 Ma: [[-18 -17]] Mb: 0
+In iteration 197 in the state3 Aa: [[701 657]]
+In iteration 197 in the state4 Ma: [[701 657]] Mb: [[-999 -936]]
+In iteration 197 in the state5 Ma: [[959 843]] Aa: [[-999 -936]]
+In iteration 197 in the state6 Aa: [[1313 1081]]
+In iteration 197 in the state7 Aa: [[314 145]]
+In iteration 197 in the state8 Aa: [[248  75]]
+In iteration 197 in the state9 Ma: [[148  44]]
+In iteration 197 in the state10 Aa: [[-207  -98]]
+In iteration 198 in the state1 Ma: [[-104  -49]] Aa: -734 Mb: 0
+In iteration 198 in the state2 Ma: [[-63 -30]] Mb: 0
+In iteration 198 in the state3 Aa: [[638 627]]
+In iteration 198 in the state4 Ma: [[638 627]] Mb: [[-915 -899]]
+In iteration 198 in the state5 Ma: [[795 767]] Aa: [[-915 -899]]
+In iteration 198 in the state6 Aa: [[990 939]]
+In iteration 198 in the state7 Aa: [[75 40]]
+In iteration 198 in the state8 Aa: [[ 12 -24]]
+In iteration 198 in the state9 Ma: [[  7 -15]]
+In iteration 198 in the state10 Aa: [[-214  -83]]
+In iteration 199 in the state1 Ma: [[-107  -42]] Aa: -739 Mb: 0
+In iteration 199 in the state2 Ma: [[-65 -26]] Mb: 0
+In iteration 199 in the state3 Aa: [[573 601]]
+In iteration 199 in the state4 Ma: [[573 601]] Mb: [[-828 -868]]
+In iteration 199 in the state5 Ma: [[641 705]] Aa: [[-828 -868]]
+In iteration 199 in the state6 Aa: [[717 827]]
+In iteration 199 in the state7 Aa: [[-111  -41]]
+In iteration 199 in the state8 Aa: [[-171  -99]]
+In iteration 199 in the state9 Ma: [[-103  -60]]
+In iteration 199 in the state10 Aa: [[-111  -23]]
+In iteration 200 in the state1 Ma: [[-56 -12]] Aa: -744 Mb: 0
+In iteration 200 in the state2 Ma: [[-34  -8]] Mb: 0
+In iteration 200 in the state3 Aa: [[539 593]]
+In iteration 200 in the state4 Ma: [[539 593]] Mb: [[-784 -862]]
+In iteration 200 in the state5 Ma: [[567 686]] Aa: [[-784 -862]]
+In iteration 200 in the state6 Aa: [[596 794]]
+In iteration 200 in the state7 Aa: [[-188  -68]]
+In iteration 200 in the state8 Aa: [[-248 -122]]
+In iteration 200 in the state9 Ma: [[-149  -74]]
+In iteration 200 in the state10 Aa: [[38 51]]
+In iteration 201 in the state1 Ma: [[19 25]] Aa: -749 Mb: 0
+In iteration 201 in the state2 Ma: [[11 14]] Mb: 0
+In iteration 201 in the state3 Aa: [[550 607]]
+In iteration 201 in the state4 Ma: [[550 607]] Mb: [[-805 -888]]
+In iteration 201 in the state5 Ma: [[590 719]] Aa: [[-805 -888]]
+In iteration 201 in the state6 Aa: [[633 852]]
+In iteration 201 in the state7 Aa: [[-172  -36]]
+In iteration 201 in the state8 Aa: [[-233  -91]]
+In iteration 201 in the state9 Ma: [[-140  -55]]
+In iteration 201 in the state10 Aa: [[178 106]]
+In iteration 202 in the state1 Ma: [[89 53]] Aa: -754 Mb: 0
+In iteration 202 in the state2 Ma: [[53 31]] Mb: 0
+In iteration 202 in the state3 Aa: [[603 638]]
+In iteration 202 in the state4 Ma: [[603 638]] Mb: [[-889 -940]]
+In iteration 202 in the state5 Ma: [[710 795]] Aa: [[-889 -940]]
+In iteration 202 in the state6 Aa: [[836 990]]
+In iteration 202 in the state7 Aa: [[-53  50]]
+In iteration 202 in the state8 Aa: [[-117  -11]]
+In iteration 202 in the state9 Ma: [[-71  -7]]
+In iteration 202 in the state10 Aa: [[249 113]]
+In iteration 203 in the state1 Ma: [[124  56]] Aa: -759 Mb: 0
+In iteration 203 in the state2 Ma: [[74 33]] Mb: 0
+In iteration 203 in the state3 Aa: [[677 671]]
+In iteration 203 in the state4 Ma: [[677 671]] Mb: [[-1004  -995]]
+In iteration 203 in the state5 Ma: [[895 879]] Aa: [[-1004  -995]]
+In iteration 203 in the state6 Aa: [[1183 1151]]
+In iteration 203 in the state7 Aa: [[179 156]]
+In iteration 203 in the state8 Aa: [[112  88]]
+In iteration 203 in the state9 Ma: [[67 52]]
+In iteration 203 in the state10 Aa: [[182  61]]
+In iteration 204 in the state1 Ma: [[91 30]] Aa: -764 Mb: 0
+In iteration 204 in the state2 Ma: [[54 17]] Mb: 0
+In iteration 204 in the state3 Aa: [[731 688]]
+In iteration 204 in the state4 Ma: [[731 688]] Mb: [[-1091 -1027]]
+In iteration 204 in the state5 Ma: [[1043  924]] Aa: [[-1091 -1027]]
+In iteration 204 in the state6 Aa: [[1489 1241]]
+In iteration 204 in the state7 Aa: [[398 214]]
+In iteration 204 in the state8 Aa: [[329 141]]
+In iteration 204 in the state9 Ma: [[197  84]]
+In iteration 204 in the state10 Aa: [[-15 -23]]
+In iteration 205 in the state1 Ma: [[ -8 -12]] Aa: -769 Mb: 0
+In iteration 205 in the state2 Ma: [[-5 -8]] Mb: 0
+In iteration 205 in the state3 Aa: [[726 680]]
+In iteration 205 in the state4 Ma: [[726 680]] Mb: [[-1091 -1022]]
+In iteration 205 in the state5 Ma: [[1029  903]] Aa: [[-1091 -1022]]
+In iteration 205 in the state6 Aa: [[1459 1199]]
+In iteration 205 in the state7 Aa: [[368 177]]
+In iteration 205 in the state8 Aa: [[300 104]]
+In iteration 205 in the state9 Ma: [[179  62]]
+In iteration 205 in the state10 Aa: [[-194  -85]]
+In iteration 206 in the state1 Ma: [[-97 -43]] Aa: -774 Mb: 0
+In iteration 206 in the state2 Ma: [[-59 -26]] Mb: 0
+In iteration 206 in the state3 Aa: [[667 654]]
+In iteration 206 in the state4 Ma: [[667 654]] Mb: [[-1009  -989]]
+In iteration 206 in the state5 Ma: [[868 835]] Aa: [[-1009  -989]]
+In iteration 206 in the state6 Aa: [[1130 1066]]
+In iteration 206 in the state7 Aa: [[121  77]]
+In iteration 206 in the state8 Aa: [[55 10]]
+In iteration 206 in the state9 Ma: [[32  5]]
+In iteration 206 in the state10 Aa: [[-226  -90]]
+In iteration 207 in the state1 Ma: [[-113  -45]] Aa: -779 Mb: 0
+In iteration 207 in the state2 Ma: [[-68 -27]] Mb: 0
+In iteration 207 in the state3 Aa: [[599 627]]
+In iteration 207 in the state4 Ma: [[599 627]] Mb: [[-912 -954]]
+In iteration 207 in the state5 Ma: [[700 767]] Aa: [[-912 -954]]
+In iteration 207 in the state6 Aa: [[818 939]]
+In iteration 207 in the state7 Aa: [[-94 -15]]
+In iteration 207 in the state8 Aa: [[-157  -75]]
+In iteration 207 in the state9 Ma: [[-95 -45]]
+In iteration 207 in the state10 Aa: [[-131  -45]]
+In iteration 208 in the state1 Ma: [[-66 -23]] Aa: -784 Mb: 0
+In iteration 208 in the state2 Ma: [[-40 -14]] Mb: 0
+In iteration 208 in the state3 Aa: [[559 613]]
+In iteration 208 in the state4 Ma: [[559 613]] Mb: [[-856 -939]]
+In iteration 208 in the state5 Ma: [[610 733]] Aa: [[-856 -939]]
+In iteration 208 in the state6 Aa: [[665 877]]
+In iteration 208 in the state7 Aa: [[-191  -62]]
+In iteration 208 in the state8 Aa: [[-253 -118]]
+In iteration 208 in the state9 Ma: [[-152  -71]]
+In iteration 208 in the state10 Aa: [[21 26]]
+In iteration 209 in the state1 Ma: [[10 13]] Aa: -789 Mb: 0
+In iteration 209 in the state2 Ma: [[5 7]] Mb: 0
+In iteration 209 in the state3 Aa: [[564 620]]
+In iteration 209 in the state4 Ma: [[564 620]] Mb: [[-870 -956]]
+In iteration 209 in the state5 Ma: [[621 750]] Aa: [[-870 -956]]
+In iteration 209 in the state6 Aa: [[684 908]]
+In iteration 209 in the state7 Aa: [[-186  -48]]
+In iteration 209 in the state8 Aa: [[-248 -105]]
+In iteration 209 in the state9 Ma: [[-149  -63]]
+In iteration 209 in the state10 Aa: [[170  89]]
+In iteration 210 in the state1 Ma: [[85 44]] Aa: -794 Mb: 0
+In iteration 210 in the state2 Ma: [[50 26]] Mb: 0
+In iteration 210 in the state3 Aa: [[614 646]]
+In iteration 210 in the state4 Ma: [[614 646]] Mb: [[ -953 -1002]]
+In iteration 210 in the state5 Ma: [[736 815]] Aa: [[ -953 -1002]]
+In iteration 210 in the state6 Aa: [[ 882 1028]]
+In iteration 210 in the state7 Aa: [[-71  26]]
+In iteration 210 in the state8 Aa: [[-136  -36]]
+In iteration 210 in the state9 Ma: [[-82 -22]]
+In iteration 210 in the state10 Aa: [[252 111]]
+In iteration 211 in the state1 Ma: [[126  55]] Aa: -799 Mb: 0
+In iteration 211 in the state2 Ma: [[75 32]] Mb: 0
+In iteration 211 in the state3 Aa: [[689 678]]
+In iteration 211 in the state4 Ma: [[689 678]] Mb: [[-1076 -1059]]
+In iteration 211 in the state5 Ma: [[927 897]] Aa: [[-1076 -1059]]
+In iteration 211 in the state6 Aa: [[1247 1187]]
+In iteration 211 in the state7 Aa: [[171 128]]
+In iteration 211 in the state8 Aa: [[103  59]]
+In iteration 211 in the state9 Ma: [[61 35]]
+In iteration 211 in the state10 Aa: [[191  76]]
+In iteration 212 in the state1 Ma: [[95 38]] Aa: -804 Mb: 0
+In iteration 212 in the state2 Ma: [[56 22]] Mb: 0
+In iteration 212 in the state3 Aa: [[745 700]]
+In iteration 212 in the state4 Ma: [[745 700]] Mb: [[-1170 -1100]]
+In iteration 212 in the state5 Ma: [[1084  957]] Aa: [[-1170 -1100]]
+In iteration 212 in the state6 Aa: [[1577 1308]]
+In iteration 212 in the state7 Aa: [[407 208]]
+In iteration 212 in the state8 Aa: [[337 133]]
+In iteration 212 in the state9 Ma: [[202  79]]
+In iteration 212 in the state10 Aa: [[-11  -3]]
+In iteration 213 in the state1 Ma: [[-6 -2]] Aa: -809 Mb: 0
+In iteration 213 in the state2 Ma: [[-4 -2]] Mb: 0
+In iteration 213 in the state3 Aa: [[741 698]]
+In iteration 213 in the state4 Ma: [[741 698]] Mb: [[-1171 -1103]]
+In iteration 213 in the state5 Ma: [[1072  951]] Aa: [[-1171 -1103]]
+In iteration 213 in the state6 Aa: [[1551 1296]]
+In iteration 213 in the state7 Aa: [[380 193]]
+In iteration 213 in the state8 Aa: [[310 119]]
+In iteration 213 in the state9 Ma: [[185  71]]
+In iteration 213 in the state10 Aa: [[-196  -74]]
+In iteration 214 in the state1 Ma: [[-98 -37]] Aa: -814 Mb: 0
+In iteration 214 in the state2 Ma: [[-59 -23]] Mb: 0
+In iteration 214 in the state3 Aa: [[682 675]]
+In iteration 214 in the state4 Ma: [[682 675]] Mb: [[-1085 -1074]]
+In iteration 214 in the state5 Ma: [[908 889]] Aa: [[-1085 -1074]]
+In iteration 214 in the state6 Aa: [[1209 1172]]
+In iteration 214 in the state7 Aa: [[124  98]]
+In iteration 214 in the state8 Aa: [[56 30]]
+In iteration 214 in the state9 Ma: [[33 17]]
+In iteration 214 in the state10 Aa: [[-229  -91]]
+In iteration 215 in the state1 Ma: [[-115  -46]] Aa: -819 Mb: 0
+In iteration 215 in the state2 Ma: [[-69 -28]] Mb: 0
+In iteration 215 in the state3 Aa: [[613 647]]
+In iteration 215 in the state4 Ma: [[613 647]] Mb: [[ -981 -1035]]
+In iteration 215 in the state5 Ma: [[733 817]] Aa: [[ -981 -1035]]
+In iteration 215 in the state6 Aa: [[ 877 1032]]
+In iteration 215 in the state7 Aa: [[-104   -3]]
+In iteration 215 in the state8 Aa: [[-169  -65]]
+In iteration 215 in the state9 Ma: [[-102  -39]]
+In iteration 215 in the state10 Aa: [[-127  -52]]
+In iteration 216 in the state1 Ma: [[-64 -26]] Aa: -824 Mb: 0
+In iteration 216 in the state2 Ma: [[-39 -16]] Mb: 0
+In iteration 216 in the state3 Aa: [[574 631]]
+In iteration 216 in the state4 Ma: [[574 631]] Mb: [[ -924 -1016]]
+In iteration 216 in the state5 Ma: [[643 777]] Aa: [[ -924 -1016]]
+In iteration 216 in the state6 Aa: [[720 957]]
+In iteration 216 in the state7 Aa: [[-204  -59]]
+In iteration 216 in the state8 Aa: [[-267 -117]]
+In iteration 216 in the state9 Ma: [[-161  -71]]
+In iteration 216 in the state10 Aa: [[34 19]]
+In iteration 217 in the state1 Ma: [[17  9]] Aa: -829 Mb: 0
+In iteration 217 in the state2 Ma: [[10  5]] Mb: 0
+In iteration 217 in the state3 Aa: [[584 636]]
+In iteration 217 in the state4 Ma: [[584 636]] Mb: [[ -946 -1030]]
+In iteration 217 in the state5 Ma: [[666 790]] Aa: [[ -946 -1030]]
+In iteration 217 in the state6 Aa: [[759 981]]
+In iteration 217 in the state7 Aa: [[-187  -49]]
+In iteration 217 in the state8 Aa: [[-251 -108]]
+In iteration 217 in the state9 Ma: [[-151  -65]]
+In iteration 217 in the state10 Aa: [[185  84]]
+In iteration 218 in the state1 Ma: [[92 42]] Aa: -834 Mb: 0
+In iteration 218 in the state2 Ma: [[55 25]] Mb: 0
+In iteration 218 in the state3 Aa: [[639 661]]
+In iteration 218 in the state4 Ma: [[639 661]] Mb: [[-1041 -1077]]
+In iteration 218 in the state5 Ma: [[797 853]] Aa: [[-1041 -1077]]
+In iteration 218 in the state6 Aa: [[ 994 1101]]
+In iteration 218 in the state7 Aa: [[-47  24]]
+In iteration 218 in the state8 Aa: [[-113  -40]]
+In iteration 218 in the state9 Ma: [[-68 -24]]
+In iteration 218 in the state10 Aa: [[253 108]]
+In iteration 219 in the state1 Ma: [[126  54]] Aa: -839 Mb: 0
+In iteration 219 in the state2 Ma: [[75 32]] Mb: 0
+In iteration 219 in the state3 Aa: [[714 693]]
+In iteration 219 in the state4 Ma: [[714 693]] Mb: [[-1171 -1136]]
+In iteration 219 in the state5 Ma: [[995 937]] Aa: [[-1171 -1136]]
+In iteration 219 in the state6 Aa: [[1387 1268]]
+In iteration 219 in the state7 Aa: [[216 132]]
+In iteration 219 in the state8 Aa: [[146  60]]
+In iteration 219 in the state9 Ma: [[87 35]]
+In iteration 219 in the state10 Aa: [[166  73]]
+In iteration 220 in the state1 Ma: [[83 36]] Aa: -844 Mb: 0
+In iteration 220 in the state2 Ma: [[49 21]] Mb: 0
+In iteration 220 in the state3 Aa: [[763 714]]
+In iteration 220 in the state4 Ma: [[763 714]] Mb: [[-1258 -1177]]
+In iteration 220 in the state5 Ma: [[1137  995]] Aa: [[-1258 -1177]]
+In iteration 220 in the state6 Aa: [[1694 1387]]
+In iteration 220 in the state7 Aa: [[436 210]]
+In iteration 220 in the state8 Aa: [[364 133]]
+In iteration 220 in the state9 Ma: [[218  79]]
+In iteration 220 in the state10 Aa: [[-52  -6]]
+In iteration 221 in the state1 Ma: [[-26  -3]] Aa: -849 Mb: 0
+In iteration 221 in the state2 Ma: [[-16  -2]] Mb: 0
+In iteration 221 in the state3 Aa: [[747 712]]
+In iteration 221 in the state4 Ma: [[747 712]] Mb: [[-1239 -1181]]
+In iteration 221 in the state5 Ma: [[1089  990]] Aa: [[-1239 -1181]]
+In iteration 221 in the state6 Aa: [[1588 1376]]
+In iteration 221 in the state7 Aa: [[349 195]]
+In iteration 221 in the state8 Aa: [[278 120]]
+In iteration 221 in the state9 Ma: [[166  71]]
+In iteration 221 in the state10 Aa: [[-218  -77]]
+In iteration 222 in the state1 Ma: [[-109  -39]] Aa: -854 Mb: 0
+In iteration 222 in the state2 Ma: [[-66 -24]] Mb: 0
+In iteration 222 in the state3 Aa: [[681 688]]
+In iteration 222 in the state4 Ma: [[681 688]] Mb: [[-1136 -1148]]
+In iteration 222 in the state5 Ma: [[905 924]] Aa: [[-1136 -1148]]
+In iteration 222 in the state6 Aa: [[1203 1241]]
+In iteration 222 in the state7 Aa: [[67 93]]
+In iteration 222 in the state8 Aa: [[-2 25]]
+In iteration 222 in the state9 Ma: [[-2 14]]
+In iteration 222 in the state10 Aa: [[-216  -91]]
+In iteration 223 in the state1 Ma: [[-108  -46]] Aa: -859 Mb: 0
+In iteration 223 in the state2 Ma: [[-65 -28]] Mb: 0
+In iteration 223 in the state3 Aa: [[616 660]]
+In iteration 223 in the state4 Ma: [[616 660]] Mb: [[-1034 -1108]]
+In iteration 223 in the state5 Ma: [[741 850]] Aa: [[-1034 -1108]]
+In iteration 223 in the state6 Aa: [[ 891 1095]]
+In iteration 223 in the state7 Aa: [[-143  -13]]
+In iteration 223 in the state8 Aa: [[-209  -75]]
+In iteration 223 in the state9 Ma: [[-126  -45]]
+In iteration 223 in the state10 Aa: [[-90 -46]]
+In iteration 224 in the state1 Ma: [[-45 -23]] Aa: -864 Mb: 0
+In iteration 224 in the state2 Ma: [[-27 -14]] Mb: 0
+In iteration 224 in the state3 Aa: [[589 646]]
+In iteration 224 in the state4 Ma: [[589 646]] Mb: [[ -994 -1091]]
+In iteration 224 in the state5 Ma: [[677 815]] Aa: [[ -994 -1091]]
+In iteration 224 in the state6 Aa: [[ 778 1028]]
+In iteration 224 in the state7 Aa: [[-216  -63]]
+In iteration 224 in the state8 Aa: [[-281 -122]]
+In iteration 224 in the state9 Ma: [[-169  -74]]
+In iteration 224 in the state10 Aa: [[79 28]]
+In iteration 225 in the state1 Ma: [[39 14]] Aa: -869 Mb: 0
+In iteration 225 in the state2 Ma: [[23  8]] Mb: 0
+In iteration 225 in the state3 Aa: [[612 654]]
+In iteration 225 in the state4 Ma: [[612 654]] Mb: [[-1039 -1111]]
+In iteration 225 in the state5 Ma: [[731 835]] Aa: [[-1039 -1111]]
+In iteration 225 in the state6 Aa: [[ 873 1066]]
+In iteration 225 in the state7 Aa: [[-166  -45]]
+In iteration 225 in the state8 Aa: [[-232 -106]]
+In iteration 225 in the state9 Ma: [[-140  -64]]
+In iteration 225 in the state10 Aa: [[219  92]]
+In iteration 226 in the state1 Ma: [[109  46]] Aa: -874 Mb: 0
+In iteration 226 in the state2 Ma: [[65 27]] Mb: 0
+In iteration 226 in the state3 Aa: [[677 681]]
+In iteration 226 in the state4 Ma: [[677 681]] Mb: [[-1156 -1163]]
+In iteration 226 in the state5 Ma: [[895 905]] Aa: [[-1156 -1163]]
+In iteration 226 in the state6 Aa: [[1183 1203]]
+In iteration 226 in the state7 Aa: [[27 40]]
+In iteration 226 in the state8 Aa: [[-41 -28]]
+In iteration 226 in the state9 Ma: [[-25 -17]]
+In iteration 226 in the state10 Aa: [[244 109]]
+In iteration 227 in the state1 Ma: [[122  54]] Aa: -879 Mb: 0
+In iteration 227 in the state2 Ma: [[73 32]] Mb: 0
+In iteration 227 in the state3 Aa: [[750 713]]
+In iteration 227 in the state4 Ma: [[750 713]] Mb: [[-1288 -1225]]
+In iteration 227 in the state5 Ma: [[1098  992]] Aa: [[-1288 -1225]]
+In iteration 227 in the state6 Aa: [[1608 1381]]
+In iteration 227 in the state7 Aa: [[320 156]]
+In iteration 227 in the state8 Aa: [[248  81]]
+In iteration 227 in the state9 Ma: [[148  48]]
+In iteration 227 in the state10 Aa: [[96 61]]
+In iteration 228 in the state1 Ma: [[48 30]] Aa: -884 Mb: 0
+In iteration 228 in the state2 Ma: [[28 17]] Mb: 0
+In iteration 228 in the state3 Aa: [[778 730]]
+In iteration 228 in the state4 Ma: [[778 730]] Mb: [[-1344 -1261]]
+In iteration 228 in the state5 Ma: [[1182 1040]] Aa: [[-1344 -1261]]
+In iteration 228 in the state6 Aa: [[1796 1482]]
+In iteration 228 in the state7 Aa: [[452 221]]
+In iteration 228 in the state8 Aa: [[379 143]]
+In iteration 228 in the state9 Ma: [[227  85]]
+In iteration 228 in the state10 Aa: [[-131  -24]]
+In iteration 229 in the state1 Ma: [[-66 -12]] Aa: -889 Mb: 0
+In iteration 229 in the state2 Ma: [[-40  -8]] Mb: 0
+In iteration 229 in the state3 Aa: [[738 722]]
+In iteration 229 in the state4 Ma: [[738 722]] Mb: [[-1282 -1254]]
+In iteration 229 in the state5 Ma: [[1063 1018]] Aa: [[-1282 -1254]]
+In iteration 229 in the state6 Aa: [[1532 1435]]
+In iteration 229 in the state7 Aa: [[250 181]]
+In iteration 229 in the state8 Aa: [[178 107]]
+In iteration 229 in the state9 Ma: [[106  64]]
+In iteration 229 in the state10 Aa: [[-237  -88]]
+In iteration 230 in the state1 Ma: [[-119  -44]] Aa: -894 Mb: 0
+In iteration 230 in the state2 Ma: [[-72 -27]] Mb: 0
+In iteration 230 in the state3 Aa: [[666 695]]
+In iteration 230 in the state4 Ma: [[666 695]] Mb: [[-1163 -1214]]
+In iteration 230 in the state5 Ma: [[866 943]] Aa: [[-1163 -1214]]
+In iteration 230 in the state6 Aa: [[1126 1280]]
+In iteration 230 in the state7 Aa: [[-37  66]]
+In iteration 230 in the state8 Aa: [[-107   -1]]
+In iteration 230 in the state9 Ma: [[-65  -1]]
+In iteration 230 in the state10 Aa: [[-172  -87]]
+In iteration 231 in the state1 Ma: [[-86 -44]] Aa: -899 Mb: 0
+In iteration 231 in the state2 Ma: [[-52 -27]] Mb: 0
+In iteration 231 in the state3 Aa: [[614 668]]
+In iteration 231 in the state4 Ma: [[614 668]] Mb: [[-1079 -1173]]
+In iteration 231 in the state5 Ma: [[736 871]] Aa: [[-1079 -1173]]
+In iteration 231 in the state6 Aa: [[ 882 1136]]
+In iteration 231 in the state7 Aa: [[-197  -37]]
+In iteration 231 in the state8 Aa: [[-264  -99]]
+In iteration 231 in the state9 Ma: [[-159  -60]]
+In iteration 231 in the state10 Aa: [[-13 -27]]
+In iteration 232 in the state1 Ma: [[ -7 -14]] Aa: -904 Mb: 0
+In iteration 232 in the state2 Ma: [[-5 -9]] Mb: 0
+In iteration 232 in the state3 Aa: [[609 659]]
+In iteration 232 in the state4 Ma: [[609 659]] Mb: [[-1076 -1164]]
+In iteration 232 in the state5 Ma: [[724 848]] Aa: [[-1076 -1164]]
+In iteration 232 in the state6 Aa: [[ 861 1091]]
+In iteration 232 in the state7 Aa: [[-215  -73]]
+In iteration 232 in the state8 Aa: [[-281 -134]]
+In iteration 232 in the state9 Ma: [[-169  -81]]
+In iteration 232 in the state10 Aa: [[156  54]]
+In iteration 233 in the state1 Ma: [[78 27]] Aa: -909 Mb: 0
+In iteration 233 in the state2 Ma: [[46 16]] Mb: 0
+In iteration 233 in the state3 Aa: [[655 675]]
+In iteration 233 in the state4 Ma: [[655 675]] Mb: [[-1163 -1199]]
+In iteration 233 in the state5 Ma: [[837 889]] Aa: [[-1163 -1199]]
+In iteration 233 in the state6 Aa: [[1070 1172]]
+In iteration 233 in the state7 Aa: [[-93 -27]]
+In iteration 233 in the state8 Aa: [[-161  -93]]
+In iteration 233 in the state9 Ma: [[-97 -56]]
+In iteration 233 in the state10 Aa: [[253 110]]
+In iteration 234 in the state1 Ma: [[126  55]] Aa: -914 Mb: 0
+In iteration 234 in the state2 Ma: [[75 32]] Mb: 0
+In iteration 234 in the state3 Aa: [[730 707]]
+In iteration 234 in the state4 Ma: [[730 707]] Mb: [[-1304 -1263]]
+In iteration 234 in the state5 Ma: [[1040  976]] Aa: [[-1304 -1263]]
+In iteration 234 in the state6 Aa: [[1482 1347]]
+In iteration 234 in the state7 Aa: [[178  84]]
+In iteration 234 in the state8 Aa: [[107  11]]
+In iteration 234 in the state9 Ma: [[64  6]]
+In iteration 234 in the state10 Aa: [[189 104]]
+In iteration 235 in the state1 Ma: [[94 52]] Aa: -919 Mb: 0
+In iteration 235 in the state2 Ma: [[56 31]] Mb: 0
+In iteration 235 in the state3 Aa: [[786 738]]
+In iteration 235 in the state4 Ma: [[786 738]] Mb: [[-1411 -1325]]
+In iteration 235 in the state5 Ma: [[1206 1063]] Aa: [[-1411 -1325]]
+In iteration 235 in the state6 Aa: [[1851 1532]]
+In iteration 235 in the state7 Aa: [[440 207]]
+In iteration 235 in the state8 Aa: [[366 128]]
+In iteration 235 in the state9 Ma: [[219  76]]
+In iteration 235 in the state10 Aa: [[-30  28]]
+In iteration 236 in the state1 Ma: [[-15  14]] Aa: -924 Mb: 0
+In iteration 236 in the state2 Ma: [[-9  8]] Mb: 0
+In iteration 236 in the state3 Aa: [[777 746]]
+In iteration 236 in the state4 Ma: [[777 746]] Mb: [[-1403 -1347]]
+In iteration 236 in the state5 Ma: [[1179 1086]] Aa: [[-1403 -1347]]
+In iteration 236 in the state6 Aa: [[1789 1582]]
+In iteration 236 in the state7 Aa: [[386 235]]
+In iteration 236 in the state8 Aa: [[311 157]]
+In iteration 236 in the state9 Ma: [[186  94]]
+In iteration 236 in the state10 Aa: [[-216  -66]]
+In iteration 237 in the state1 Ma: [[-108  -33]] Aa: -929 Mb: 0
+In iteration 237 in the state2 Ma: [[-65 -20]] Mb: 0
+In iteration 237 in the state3 Aa: [[712 726]]
+In iteration 237 in the state4 Ma: [[712 726]] Mb: [[-1292 -1318]]
+In iteration 237 in the state5 Ma: [[ 990 1029]] Aa: [[-1292 -1318]]
+In iteration 237 in the state6 Aa: [[1376 1459]]
+In iteration 237 in the state7 Aa: [[ 84 141]]
+In iteration 237 in the state8 Aa: [[11 70]]
+In iteration 237 in the state9 Ma: [[ 6 41]]
+In iteration 237 in the state10 Aa: [[-222 -107]]
+In iteration 238 in the state1 Ma: [[-111  -54]] Aa: -934 Mb: 0
+In iteration 238 in the state2 Ma: [[-67 -33]] Mb: 0
+In iteration 238 in the state3 Aa: [[645 693]]
+In iteration 238 in the state4 Ma: [[645 693]] Mb: [[-1177 -1265]]
+In iteration 238 in the state5 Ma: [[812 937]] Aa: [[-1177 -1265]]
+In iteration 238 in the state6 Aa: [[1022 1268]]
+In iteration 238 in the state7 Aa: [[-155    3]]
+In iteration 238 in the state8 Aa: [[-225  -62]]
+In iteration 238 in the state9 Ma: [[-135  -38]]
+In iteration 238 in the state10 Aa: [[-87 -69]]
+In iteration 239 in the state1 Ma: [[-44 -35]] Aa: -939 Mb: 0
+In iteration 239 in the state2 Ma: [[-27 -21]] Mb: 0
+In iteration 239 in the state3 Aa: [[618 672]]
+In iteration 239 in the state4 Ma: [[618 672]] Mb: [[-1134 -1233]]
+In iteration 239 in the state5 Ma: [[745 882]] Aa: [[-1134 -1233]]
+In iteration 239 in the state6 Aa: [[ 899 1157]]
+In iteration 239 in the state7 Aa: [[-235  -76]]
+In iteration 239 in the state8 Aa: [[-302 -138]]
+In iteration 239 in the state9 Ma: [[-182  -83]]
+In iteration 239 in the state10 Aa: [[95 14]]
+In iteration 240 in the state1 Ma: [[47  7]] Aa: -944 Mb: 0
+In iteration 240 in the state2 Ma: [[28  4]] Mb: 0
+In iteration 240 in the state3 Aa: [[646 676]]
+In iteration 240 in the state4 Ma: [[646 676]] Mb: [[-1192 -1247]]
+In iteration 240 in the state5 Ma: [[815 892]] Aa: [[-1192 -1247]]
+In iteration 240 in the state6 Aa: [[1028 1177]]
+In iteration 240 in the state7 Aa: [[-164  -70]]
+In iteration 240 in the state8 Aa: [[-232 -135]]
+In iteration 240 in the state9 Ma: [[-140  -81]]
+In iteration 240 in the state10 Aa: [[235  95]]
+In iteration 241 in the state1 Ma: [[117  47]] Aa: -949 Mb: 0
+In iteration 241 in the state2 Ma: [[70 28]] Mb: 0
+In iteration 241 in the state3 Aa: [[716 704]]
+In iteration 241 in the state4 Ma: [[716 704]] Mb: [[-1328 -1305]]
+In iteration 241 in the state5 Ma: [[1001  968]] Aa: [[-1328 -1305]]
+In iteration 241 in the state6 Aa: [[1399 1331]]
+In iteration 241 in the state7 Aa: [[71 26]]
+In iteration 241 in the state8 Aa: [[  0 -46]]
+In iteration 241 in the state9 Ma: [[  0 -28]]
+In iteration 241 in the state10 Aa: [[235 123]]
+In iteration 242 in the state1 Ma: [[117  61]] Aa: -954 Mb: 0
+In iteration 242 in the state2 Ma: [[70 36]] Mb: 0
+In iteration 242 in the state3 Aa: [[786 740]]
+In iteration 242 in the state4 Ma: [[786 740]] Mb: [[-1465 -1379]]
+In iteration 242 in the state5 Ma: [[1206 1069]] Aa: [[-1465 -1379]]
+In iteration 242 in the state6 Aa: [[1851 1545]]
+In iteration 242 in the state7 Aa: [[386 166]]
+In iteration 242 in the state8 Aa: [[312  87]]
+In iteration 242 in the state9 Ma: [[187  52]]
+In iteration 242 in the state10 Aa: [[48 71]]
+In iteration 243 in the state1 Ma: [[24 35]] Aa: -959 Mb: 0
+In iteration 243 in the state2 Ma: [[14 20]] Mb: 0
+In iteration 243 in the state3 Aa: [[800 760]]
+In iteration 243 in the state4 Ma: [[800 760]] Mb: [[-1499 -1424]]
+In iteration 243 in the state5 Ma: [[1250 1128]] Aa: [[-1499 -1424]]
+In iteration 243 in the state6 Aa: [[1953 1674]]
+In iteration 243 in the state7 Aa: [[454 250]]
+In iteration 243 in the state8 Aa: [[378 170]]
+In iteration 243 in the state9 Ma: [[226 101]]
+In iteration 243 in the state10 Aa: [[-178  -30]]
+In iteration 244 in the state1 Ma: [[-89 -15]] Aa: -964 Mb: 0
+In iteration 244 in the state2 Ma: [[-54  -9]] Mb: 0
+In iteration 244 in the state3 Aa: [[746 751]]
+In iteration 244 in the state4 Ma: [[746 751]] Mb: [[-1405 -1414]]
+In iteration 244 in the state5 Ma: [[1086 1101]] Aa: [[-1405 -1414]]
+In iteration 244 in the state6 Aa: [[1582 1614]]
+In iteration 244 in the state7 Aa: [[177 200]]
+In iteration 244 in the state8 Aa: [[102 125]]
+In iteration 244 in the state9 Ma: [[61 74]]
+In iteration 244 in the state10 Aa: [[-239 -104]]
+In iteration 245 in the state1 Ma: [[-120  -52]] Aa: -969 Mb: 0
+In iteration 245 in the state2 Ma: [[-72 -32]] Mb: 0
+In iteration 245 in the state3 Aa: [[674 719]]
+In iteration 245 in the state4 Ma: [[674 719]] Mb: [[-1276 -1361]]
+In iteration 245 in the state5 Ma: [[ 887 1009]] Aa: [[-1276 -1361]]
+In iteration 245 in the state6 Aa: [[1167 1416]]
+In iteration 245 in the state7 Aa: [[-109   55]]
+In iteration 245 in the state8 Aa: [[-181  -13]]
+In iteration 245 in the state9 Ma: [[-109   -8]]
+In iteration 245 in the state10 Aa: [[-130  -96]]
+In iteration 246 in the state1 Ma: [[-65 -48]] Aa: -974 Mb: 0
+In iteration 246 in the state2 Ma: [[-39 -29]] Mb: 0
+In iteration 246 in the state3 Aa: [[635 690]]
+In iteration 246 in the state4 Ma: [[635 690]] Mb: [[-1208 -1313]]
+In iteration 246 in the state5 Ma: [[787 929]] Aa: [[-1208 -1313]]
+In iteration 246 in the state6 Aa: [[ 976 1251]]
+In iteration 246 in the state7 Aa: [[-232  -62]]
+In iteration 246 in the state8 Aa: [[-301 -126]]
+In iteration 246 in the state9 Ma: [[-181  -76]]
+In iteration 246 in the state10 Aa: [[ 51 -20]]
+In iteration 247 in the state1 Ma: [[ 25 -10]] Aa: -979 Mb: 0
+In iteration 247 in the state2 Ma: [[14 -6]] Mb: 0
+In iteration 247 in the state3 Aa: [[649 684]]
+In iteration 247 in the state4 Ma: [[649 684]] Mb: [[-1241 -1308]]
+In iteration 247 in the state5 Ma: [[822 913]] Aa: [[-1241 -1308]]
+In iteration 247 in the state6 Aa: [[1041 1219]]
+In iteration 247 in the state7 Aa: [[-200  -89]]
+In iteration 247 in the state8 Aa: [[-269 -154]]
+In iteration 247 in the state9 Ma: [[-162  -93]]
+In iteration 247 in the state10 Aa: [[213  73]]
+In iteration 248 in the state1 Ma: [[106  36]] Aa: -984 Mb: 0
+In iteration 248 in the state2 Ma: [[63 21]] Mb: 0
+In iteration 248 in the state3 Aa: [[712 705]]
+In iteration 248 in the state4 Ma: [[712 705]] Mb: [[-1369 -1355]]
+In iteration 248 in the state5 Ma: [[990 970]] Aa: [[-1369 -1355]]
+In iteration 248 in the state6 Aa: [[1376 1335]]
+In iteration 248 in the state7 Aa: [[  7 -20]]
+In iteration 248 in the state8 Aa: [[-64 -91]]
+In iteration 248 in the state9 Ma: [[-39 -55]]
+In iteration 248 in the state10 Aa: [[252 128]]
+In iteration 249 in the state1 Ma: [[126  64]] Aa: -989 Mb: 0
+In iteration 249 in the state2 Ma: [[75 38]] Mb: 0
+In iteration 249 in the state3 Aa: [[787 743]]
+In iteration 249 in the state4 Ma: [[787 743]] Mb: [[-1521 -1436]]
+In iteration 249 in the state5 Ma: [[1209 1078]] Aa: [[-1521 -1436]]
+In iteration 249 in the state6 Aa: [[1858 1564]]
+In iteration 249 in the state7 Aa: [[337 128]]
+In iteration 249 in the state8 Aa: [[262  49]]
+In iteration 249 in the state9 Ma: [[157  29]]
+In iteration 249 in the state10 Aa: [[95 99]]
+In iteration 250 in the state1 Ma: [[47 49]] Aa: -994 Mb: 0
+In iteration 250 in the state2 Ma: [[28 29]] Mb: 0
+In iteration 250 in the state3 Aa: [[815 772]]
+In iteration 250 in the state4 Ma: [[815 772]] Mb: [[-1583 -1499]]
+In iteration 250 in the state5 Ma: [[1297 1164]] Aa: [[-1583 -1499]]
+In iteration 250 in the state6 Aa: [[2064 1755]]
+In iteration 250 in the state7 Aa: [[481 256]]
+In iteration 250 in the state8 Aa: [[404 174]]
+In iteration 250 in the state9 Ma: [[242 104]]
+In iteration 250 in the state10 Aa: [[-147   -5]]
+In iteration 251 in the state1 Ma: [[-74  -3]] Aa: -999 Mb: 0
+In iteration 251 in the state2 Ma: [[-45  -2]] Mb: 0
+In iteration 251 in the state3 Aa: [[770 770]]
+In iteration 251 in the state4 Ma: [[770 770]] Mb: [[-1503 -1503]]
+In iteration 251 in the state5 Ma: [[1158 1158]] Aa: [[-1503 -1503]]
+In iteration 251 in the state6 Aa: [[1741 1741]]
+In iteration 251 in the state7 Aa: [[238 238]]
+In iteration 251 in the state8 Aa: [[161 161]]
+In iteration 251 in the state9 Ma: [[96 96]]
+In iteration 251 in the state10 Aa: [[-243 -101]]
+In iteration 252 in the state1 Ma: [[-122  -51]] Aa: -1004 Mb: 0
+In iteration 252 in the state2 Ma: [[-74 -31]] Mb: 0
+In iteration 252 in the state3 Aa: [[696 739]]
+In iteration 252 in the state4 Ma: [[696 739]] Mb: [[-1365 -1450]]
+In iteration 252 in the state5 Ma: [[ 946 1066]] Aa: [[-1365 -1450]]
+In iteration 252 in the state6 Aa: [[1285 1538]]
+In iteration 252 in the state7 Aa: [[-80  88]]
+In iteration 252 in the state8 Aa: [[-154   18]]
+In iteration 252 in the state9 Ma: [[-93  10]]
+In iteration 252 in the state10 Aa: [[-150 -111]]
+In iteration 253 in the state1 Ma: [[-75 -56]] Aa: -1009 Mb: 0
+In iteration 253 in the state2 Ma: [[-45 -34]] Mb: 0
+In iteration 253 in the state3 Aa: [[651 705]]
+In iteration 253 in the state4 Ma: [[651 705]] Mb: [[-1283 -1390]]
+In iteration 253 in the state5 Ma: [[827 970]] Aa: [[-1283 -1390]]
+In iteration 253 in the state6 Aa: [[1051 1335]]
+In iteration 253 in the state7 Aa: [[-232  -55]]
+In iteration 253 in the state8 Aa: [[-303 -120]]
+In iteration 253 in the state9 Ma: [[-182  -72]]
+In iteration 253 in the state10 Aa: [[ 32 -39]]
+In iteration 254 in the state1 Ma: [[ 16 -20]] Aa: -1014 Mb: 0
+In iteration 254 in the state2 Ma: [[  9 -12]] Mb: 0
+In iteration 254 in the state3 Aa: [[660 693]]
+In iteration 254 in the state4 Ma: [[660 693]] Mb: [[-1308 -1373]]
+In iteration 254 in the state5 Ma: [[850 937]] Aa: [[-1308 -1373]]
+In iteration 254 in the state6 Aa: [[1095 1268]]
+In iteration 254 in the state7 Aa: [[-213 -105]]
+In iteration 254 in the state8 Aa: [[-283 -171]]
+In iteration 254 in the state9 Ma: [[-170 -103]]
+In iteration 254 in the state10 Aa: [[202  64]]
+In iteration 255 in the state1 Ma: [[101  32]] Aa: -1019 Mb: 0
+In iteration 255 in the state2 Ma: [[60 19]] Mb: 0
+In iteration 255 in the state3 Aa: [[720 712]]
+In iteration 255 in the state4 Ma: [[720 712]] Mb: [[-1433 -1418]]
+In iteration 255 in the state5 Ma: [[1012  990]] Aa: [[-1433 -1418]]
+In iteration 255 in the state6 Aa: [[1423 1376]]
+In iteration 255 in the state7 Aa: [[-10 -42]]
+In iteration 255 in the state8 Aa: [[ -81 -114]]
+In iteration 255 in the state9 Ma: [[-49 -69]]
+In iteration 255 in the state10 Aa: [[251 133]]

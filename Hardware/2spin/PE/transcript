@@ -1,0 +1,641 @@
+source compile.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:01 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder
+# -- Compiling architecture behaviour of adder
+# End time: 11:20:01 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:01 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_2to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_2to1mux
+# -- Compiling architecture structure of bN_2to1mux
+# End time: 11:20:01 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:01 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_3to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_3to1mux
+# -- Compiling architecture structure of bN_3to1mux
+# End time: 11:20:01 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:01 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_4to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_4to1mux
+# -- Compiling architecture structure of bN_4to1mux
+# End time: 11:20:01 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:01 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_5to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_5to1mux
+# -- Compiling architecture structure of bN_5to1mux
+# End time: 11:20:01 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_6to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_6to1mux
+# -- Compiling architecture structure of bN_6to1mux
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/complement_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity complement_1
+# -- Compiling architecture structure of complement_1
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/counter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity counter
+# -- Compiling architecture behaviour of counter
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/multiplier_n.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplier_n
+# -- Compiling architecture behaviour of multiplier_n
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/reg_s_reset_enable.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg_s_reset_enable
+# -- Compiling architecture behaviour of reg_s_reset_enable
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/flipflop.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity flipflop
+# -- Compiling architecture behaviour of flipflop
+# End time: 11:20:02 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:02 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/flipflop_s.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity flipflop_s
+# -- Compiling architecture behaviour of flipflop_s
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/flip_flop_N_level.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity flip_flop_N_level
+# -- Compiling architecture structure of flip_flop_N_level
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg
+# -- Compiling architecture behaviour of reg
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/reg_s.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg_s
+# -- Compiling architecture behaviour of reg_s
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/reg_N_level.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg_N_level
+# -- Compiling architecture structure of reg_N_level
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/A.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity A
+# -- Compiling architecture behaviour of A
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/B.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity B
+# -- Compiling architecture behaviour of B
+# End time: 11:20:03 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:03 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/C.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity C
+# -- Compiling architecture behaviour of C
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/CSM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity CSM
+# -- Compiling architecture behaviour of CSM
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/C_first.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity C_first
+# -- Compiling architecture behaviour of C_first
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/CSM_first.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity CSM_first
+# -- Compiling architecture behaviour of CSM_first
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/Init_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Init_block
+# -- Compiling architecture structure of Init_block
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/Inter_block_first.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Inter_block_first
+# -- Compiling architecture structure of Inter_block_first
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/Inter_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Inter_block
+# -- Compiling architecture structure of Inter_block
+# End time: 11:20:04 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:04 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/Final_block.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Final_block
+# -- Compiling architecture structure of Final_block
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../squareRoot/square_generic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity square_generic
+# -- Compiling architecture structuct of square_generic
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../PE/ProcessorAdiabaticDatapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ProcessorAdiabaticDataPath
+# -- Compiling architecture behaviour of ProcessorAdiabaticDataPath
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../PE/ProcessorAdiabaticCPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ProcessorAdiabaticCPU
+# -- Compiling architecture behaviour of ProcessorAdiabaticCPU
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../PE/ProcessorAdiabatic.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ProcessorAdiabatic
+# -- Compiling architecture behaviour of ProcessorAdiabatic
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../PAupdater/pA0updaterDatapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity pA0updaterDatapath
+# -- Compiling architecture behaviour of pA0updaterDatapath
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:05 on Aug 25,2023
+# vcom -reportprogress 300 ../PAupdater/pA0updaterCU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity pA0updaterCU
+# -- Compiling architecture behaviour of pA0updaterCU
+# End time: 11:20:05 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 ../PAupdater/pA0updater.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity pA0updater
+# -- Compiling architecture behaviour of pA0updater
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 ../Sum2Spins/Sum2SpinsDatapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Sum2SpinsDatapath
+# -- Compiling architecture behaviour of Sum2SpinsDatapath
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 ../Sum2Spins/Sum2SpinsCPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Sum2SpinsCPU
+# -- Compiling architecture behaviour of Sum2SpinsCPU
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 ../Sum2Spins/Sum2Spins.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Sum2Spins
+# -- Compiling architecture behaviour of Sum2Spins
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 SimulatedBifurcation2SpinsCPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SimulatedBifurcation2SpinsCPU
+# -- Compiling architecture behaviour of SimulatedBifurcation2SpinsCPU
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:06 on Aug 25,2023
+# vcom -reportprogress 300 SimulatedBifurcation2SpinsDatapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SimulatedBifurcation2SpinsDatapath
+# -- Compiling architecture structure of SimulatedBifurcation2SpinsDatapath
+# End time: 11:20:06 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:07 on Aug 25,2023
+# vcom -reportprogress 300 SimulatedBifurcation2Spins.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SimulatedBifurcation2Spins
+# -- Compiling architecture structure of SimulatedBifurcation2Spins
+# End time: 11:20:07 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:07 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/clock_gen.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity clock_gen
+# -- Compiling architecture behaviour of clock_gen
+# End time: 11:20:07 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:07 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/reset_gen.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reset_gen
+# -- Compiling architecture behaviour of reset_gen
+# End time: 11:20:07 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:20:07 on Aug 25,2023
+# vcom -reportprogress 300 TestbenchSimulatedBifurcation.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling entity testbench
+# -- Compiling architecture test of testbench
+# End time: 11:20:07 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 11:20:17 on Aug 25,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.testbench(test)
+# Loading work.simulatedbifurcation2spins(structure)
+# Loading work.simulatedbifurcation2spinsdatapath(structure)
+# Loading work.reg_s_reset_enable(behaviour)
+# Loading work.processoradiabatic(behaviour)
+# Loading work.processoradiabaticcpu(behaviour)
+# Loading work.processoradiabaticdatapath(behaviour)
+# Loading work.bn_2to1mux(structure)
+# Loading work.bn_3to1mux(structure)
+# Loading work.bn_4to1mux(structure)
+# Loading work.multiplier_n(behaviour)
+# Loading work.bn_6to1mux(structure)
+# Loading work.complement_1(structure)
+# Loading work.adder(behaviour)
+# Loading work.pa0updater(behaviour)
+# Loading work.pa0updatercu(behaviour)
+# Loading work.pa0updaterdatapath(behaviour)
+# Loading work.square_generic(structuct)
+# Loading work.init_block(structure)
+# Loading work.flip_flop_n_level(structure)
+# Loading work.flipflop_s(behaviour)
+# Loading work.inter_block_first(structure)
+# Loading work.b(behaviour)
+# Loading work.a(behaviour)
+# Loading work.csm_first(behaviour)
+# Loading work.c_first(behaviour)
+# Loading work.reg_s(behaviour)
+# Loading work.inter_block(structure)
+# Loading work.csm(behaviour)
+# Loading work.c(behaviour)
+# Loading work.reg_n_level(structure)
+# Loading work.final_block(structure)
+# Loading work.sum2spins(behaviour)
+# Loading work.sum2spinsdatapath(behaviour)
+# Loading work.sum2spinscpu(behaviour)
+# Loading work.counter(behaviour)
+# Loading work.simulatedbifurcation2spinscpu(behaviour)
+# Loading work.clock_gen(behaviour)
+# Loading work.reset_gen(behaviour)
+# ** Warning: Design size of 10439 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/reset \
+sim:/testbench/start \
+sim:/testbench/data_in \
+sim:/testbench/S0 \
+sim:/testbench/S1 \
+sim:/testbench/done
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: 39333  Hostname: LAPTOP-08GKOBQH  ProcessID: 27404
+#           Attempting to use alternate WLF file "./wlftzdk2yv".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftzdk2yv
+add wave -position insertpoint  \
+sim:/testbench/DUT/CU/state
+run
+quit -sim
+# End time: 13:42:55 on Aug 25,2023, Elapsed time: 2:22:38
+# Errors: 0, Warnings: 6
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 13:43:05 on Aug 25,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.testbench(test)
+# Loading work.simulatedbifurcation2spins(structure)
+# Loading work.simulatedbifurcation2spinsdatapath(structure)
+# Loading work.reg_s_reset_enable(behaviour)
+# Loading work.processoradiabatic(behaviour)
+# Loading work.processoradiabaticcpu(behaviour)
+# Loading work.processoradiabaticdatapath(behaviour)
+# Loading work.bn_2to1mux(structure)
+# Loading work.bn_3to1mux(structure)
+# Loading work.bn_4to1mux(structure)
+# Loading work.multiplier_n(behaviour)
+# Loading work.bn_6to1mux(structure)
+# Loading work.complement_1(structure)
+# Loading work.adder(behaviour)
+# Loading work.pa0updater(behaviour)
+# Loading work.pa0updatercu(behaviour)
+# Loading work.pa0updaterdatapath(behaviour)
+# Loading work.square_generic(structuct)
+# Loading work.init_block(structure)
+# Loading work.flip_flop_n_level(structure)
+# Loading work.flipflop_s(behaviour)
+# Loading work.inter_block_first(structure)
+# Loading work.b(behaviour)
+# Loading work.a(behaviour)
+# Loading work.csm_first(behaviour)
+# Loading work.c_first(behaviour)
+# Loading work.reg_s(behaviour)
+# Loading work.inter_block(structure)
+# Loading work.csm(behaviour)
+# Loading work.c(behaviour)
+# Loading work.reg_n_level(structure)
+# Loading work.final_block(structure)
+# Loading work.sum2spins(behaviour)
+# Loading work.sum2spinsdatapath(behaviour)
+# Loading work.sum2spinscpu(behaviour)
+# Loading work.counter(behaviour)
+# Loading work.simulatedbifurcation2spinscpu(behaviour)
+# Loading work.clock_gen(behaviour)
+# Loading work.reset_gen(behaviour)
+# ** Warning: Design size of 10439 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+quit -sim
+# End time: 13:43:26 on Aug 25,2023, Elapsed time: 0:00:21
+# Errors: 0, Warnings: 2
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project tests
+source compile.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:43:50 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder
+# -- Compiling architecture behaviour of adder
+# End time: 13:43:51 on Aug 25,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:43:51 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_2to1mux.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "../common_component/bN_2to1mux.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 13:43:51 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+source compile.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:44:11 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder
+# -- Compiling architecture behaviour of adder
+# End time: 13:44:11 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:44:11 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_2to1mux.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "../common_component/bN_2to1mux.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 13:44:11 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project t
+source compile.do
+# couldn't read file "compile.do": no such file or directory
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project t
+source compile.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:45:59 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder
+# -- Compiling architecture behaviour of adder
+# End time: 13:45:59 on Aug 25,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:45:59 on Aug 25,2023
+# vcom -reportprogress 300 ../common_component/bN_2to1mux.vhd 
+# ** Error: (vcom-7) Failed to open design unit file "../common_component/bN_2to1mux.vhd" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 13:46:00 on Aug 25,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.

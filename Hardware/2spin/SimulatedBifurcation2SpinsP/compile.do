@@ -1,0 +1,7 @@
+source commonComponentCompile.do
+source SquareRootCompile.do
+source AdiabaticProcessorCompile.do
+source pA0updaterCompile.do
+source Sum2SpinsCompile.do
+source SimulatedBifurcationCompile.do
+source TestbenchCompile.do

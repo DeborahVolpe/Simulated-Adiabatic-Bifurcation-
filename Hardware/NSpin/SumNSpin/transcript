@@ -1,0 +1,384 @@
+source compile.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:12 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder
+# -- Compiling architecture behaviour of adder
+# End time: 13:03:12 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:12 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/full_adder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity full_adder
+# -- Compiling architecture structure of full_adder
+# End time: 13:03:12 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:12 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/CSA.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity CSA
+# -- Compiling architecture structure of CSA
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/bN_2to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_2to1mux
+# -- Compiling architecture structure of bN_2to1mux
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/bN_3to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_3to1mux
+# -- Compiling architecture structure of bN_3to1mux
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/bN_4to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_4to1mux
+# -- Compiling architecture structure of bN_4to1mux
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/bN_5to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_5to1mux
+# -- Compiling architecture structure of bN_5to1mux
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/bN_6to1mux.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bN_6to1mux
+# -- Compiling architecture structure of bN_6to1mux
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/complement_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity complement_1
+# -- Compiling architecture structure of complement_1
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/counter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity counter
+# -- Compiling architecture behaviour of counter
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/multiplier_n.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplier_n
+# -- Compiling architecture behaviour of multiplier_n
+# End time: 13:03:13 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:13 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/reg_s_reset_enable.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg_s_reset_enable
+# -- Compiling architecture behaviour of reg_s_reset_enable
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/Register_file.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity RegisterFile
+# -- Compiling architecture Structure of RegisterFile
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/counterNStop.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity counterNStop
+# -- Compiling architecture behaviour of counterNStop
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 SumNSpinsDatapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SumNSpinsDatapath
+# -- Compiling architecture Structure of SumNSpinsDatapath
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 SumNSpinsCU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SumNSpinsCU
+# -- Compiling architecture Structure of SumNSpinsCU
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 SumNSpins.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity SumNSpins
+# -- Compiling architecture Structure of SumNSpins
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/clock_gen.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity clock_gen
+# -- Compiling architecture behaviour of clock_gen
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 ../common_component/reset_gen.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reset_gen
+# -- Compiling architecture behaviour of reset_gen
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:03:14 on Aug 28,2023
+# vcom -reportprogress 300 TestbenchProcessorSumNSpins.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_textio
+# -- Compiling entity testbench
+# -- Compiling architecture test of testbench
+# End time: 13:03:14 on Aug 28,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 13:03:30 on Aug 28,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.testbench(test)
+# Loading work.sumnspins(structure)
+# Loading work.sumnspinsdatapath(structure)
+# Loading work.bn_2to1mux(structure)
+# Loading work.registerfile(structure)
+# Loading work.reg_s_reset_enable(behaviour)
+# Loading work.counternstop(behaviour)
+# Loading work.multiplier_n(behaviour)
+# Loading work.csa(structure)
+# Loading work.full_adder(structure)
+# Loading work.adder(behaviour)
+# Loading work.sumnspinscu(structure)
+# Loading work.clock_gen(behaviour)
+# Loading work.reset_gen(behaviour)
+add wave -position insertpoint  \
+sim:/testbench/clk \
+sim:/testbench/reset \
+sim:/testbench/start_sample0 \
+sim:/testbench/start0 \
+sim:/testbench/NewIteration0 \
+sim:/testbench/LastIteration0 \
+sim:/testbench/J0 \
+sim:/testbench/x1_in0 \
+sim:/testbench/x2_in0 \
+sim:/testbench/done0 \
+sim:/testbench/SumReady0 \
+sim:/testbench/SumFinal0 \
+sim:/testbench/xSel0 \
+sim:/testbench/start_sample1 \
+sim:/testbench/start1 \
+sim:/testbench/NewIteration1 \
+sim:/testbench/LastIteration1 \
+sim:/testbench/J1 \
+sim:/testbench/x1_in1 \
+sim:/testbench/x2_in1 \
+sim:/testbench/done1 \
+sim:/testbench/SumReady1 \
+sim:/testbench/SumFinal1 \
+sim:/testbench/xSel1 \
+sim:/testbench/start_sample2 \
+sim:/testbench/start2 \
+sim:/testbench/NewIteration2 \
+sim:/testbench/LastIteration2 \
+sim:/testbench/J2 \
+sim:/testbench/x1_in2 \
+sim:/testbench/x2_in2 \
+sim:/testbench/done2 \
+sim:/testbench/SumReady2 \
+sim:/testbench/SumFinal2 \
+sim:/testbench/xSel2 \
+sim:/testbench/SumReady
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: 39333  Hostname: LAPTOP-08GKOBQH  ProcessID: 1832
+#           Attempting to use alternate WLF file "./wlft8zse2t".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8zse2t
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT0/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT1/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 2  Instance: /testbench/DUT2/DP/RF
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 5 ns  Iteration: 4  Instance: /testbench/DUT0/DP/RF
+quit -sim
+# End time: 13:06:04 on Aug 28,2023, Elapsed time: 0:02:34
+# Errors: 0, Warnings: 52

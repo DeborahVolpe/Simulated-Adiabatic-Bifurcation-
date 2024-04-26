@@ -1,0 +1,3 @@
+vcom SimulatedBifurcation2SpinsCPU.vhd
+vcom SimulatedBifurcation2SpinsDatapath.vhd
+vcom SimulatedBifurcation2Spins.vhd

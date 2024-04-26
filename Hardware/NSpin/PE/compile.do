@@ -1,0 +1,3 @@
+source commonComponentCompile.do
+source AdiabaticProcessorCompile.do
+source TestbenchCompile.do
